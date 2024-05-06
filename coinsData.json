@@ -1,0 +1,7196 @@
+{
+    "Bitcoin BTC": [
+        "1",
+        "$70,258.69",
+        "$13,306,550,635",
+        "https://www.coingecko.com/en/coins/bitcoin"
+    ],
+    "Ethereum ETH": [
+        "2",
+        "$3,604.67",
+        "$10,280,128,847",
+        "https://www.coingecko.com/en/coins/ethereum"
+    ],
+    "Tether USDT": [
+        "3",
+        "$1.00",
+        "$35,249,449,119",
+        "https://www.coingecko.com/en/coins/tether"
+    ],
+    "BNB BNB": [
+        "4",
+        "$604.38",
+        "$1,041,417,489",
+        "https://www.coingecko.com/en/coins/bnb"
+    ],
+    "Solana SOL": [
+        "5",
+        "$196.70",
+        "$2,357,877,321",
+        "https://www.coingecko.com/en/coins/solana"
+    ],
+    "Lido Staked Ether STETH": [
+        "6",
+        "$3,591.52",
+        "$56,400,871",
+        "https://www.coingecko.com/en/coins/lido-staked-ether"
+    ],
+    "XRP XRP": [
+        "7",
+        "$0.6262",
+        "$942,147,424",
+        "https://www.coingecko.com/en/coins/xrp"
+    ],
+    "USDC USDC": [
+        "8",
+        "$1.00",
+        "$4,528,291,089",
+        "https://www.coingecko.com/en/coins/usdc"
+    ],
+    "Dogecoin DOGE": [
+        "9",
+        "$0.2068",
+        "$2,315,504,328",
+        "https://www.coingecko.com/en/coins/dogecoin"
+    ],
+    "Cardano ADA": [
+        "10",
+        "$0.6486",
+        "$313,794,514",
+        "https://www.coingecko.com/en/coins/cardano"
+    ],
+    "Avalanche AVAX": [
+        "11",
+        "$53.81",
+        "$341,375,634",
+        "https://www.coingecko.com/en/coins/avalanche"
+    ],
+    "Shiba Inu SHIB": [
+        "12",
+        "$0.00003047",
+        "$527,635,341",
+        "https://www.coingecko.com/en/coins/shiba-inu"
+    ],
+    "Toncoin TON": [
+        "13",
+        "$5.15",
+        "$162,480,192",
+        "https://www.coingecko.com/en/coins/toncoin"
+    ],
+    "Polkadot DOT": [
+        "14",
+        "$9.56",
+        "$159,700,843",
+        "https://www.coingecko.com/en/coins/polkadot"
+    ],
+    "Bitcoin Cash BCH": [
+        "15",
+        "$591.33",
+        "$389,297,588",
+        "https://www.coingecko.com/en/coins/bitcoin-cash"
+    ],
+    "Chainlink LINK": [
+        "16",
+        "$19.15",
+        "$333,907,406",
+        "https://www.coingecko.com/en/coins/chainlink"
+    ],
+    "Wrapped Bitcoin WBTC": [
+        "17",
+        "$70,339.12",
+        "$192,942,400",
+        "https://www.coingecko.com/en/coins/wrapped-bitcoin"
+    ],
+    "TRON TRX": [
+        "18",
+        "$0.1224",
+        "$271,637,348",
+        "https://www.coingecko.com/en/coins/tron"
+    ],
+    "Uniswap UNI": [
+        "19",
+        "$13.10",
+        "$178,037,059",
+        "https://www.coingecko.com/en/coins/uniswap"
+    ],
+    "Polygon MATIC": [
+        "20",
+        "$0.9949",
+        "$218,870,713",
+        "https://www.coingecko.com/en/coins/polygon"
+    ],
+    "Internet Computer ICP": [
+        "21",
+        "$17.71",
+        "$235,820,185",
+        "https://www.coingecko.com/en/coins/internet-computer"
+    ],
+    "Litecoin LTC": [
+        "22",
+        "$101.68",
+        "$592,312,682",
+        "https://www.coingecko.com/en/coins/litecoin"
+    ],
+    "NEAR Protocol NEAR": [
+        "23",
+        "$7.12",
+        "$260,567,996",
+        "https://www.coingecko.com/en/coins/near"
+    ],
+    "Aptos APT": [
+        "24",
+        "$16.51",
+        "$142,994,117",
+        "https://www.coingecko.com/en/coins/aptos"
+    ],
+    "LEO Token LEO": [
+        "25",
+        "$6.02",
+        "$1,723,976",
+        "https://www.coingecko.com/en/coins/leo-token"
+    ],
+    "Stacks STX": [
+        "26",
+        "$3.53",
+        "$86,768,761",
+        "https://www.coingecko.com/en/coins/stacks"
+    ],
+    "Filecoin FIL": [
+        "27",
+        "$9.59",
+        "$214,321,480",
+        "https://www.coingecko.com/en/coins/filecoin"
+    ],
+    "Ethereum Classic ETC": [
+        "28",
+        "$33.92",
+        "$154,900,374",
+        "https://www.coingecko.com/en/coins/ethereum-classic"
+    ],
+    "Dai DAI": [
+        "29",
+        "$0.9995",
+        "$241,056,264",
+        "https://www.coingecko.com/en/coins/dai"
+    ],
+    "Cosmos Hub ATOM": [
+        "30",
+        "$12.30",
+        "$130,850,030",
+        "https://www.coingecko.com/en/coins/cosmos-hub"
+    ],
+    "dogwifhat WIF": [
+        "31",
+        "$4.80",
+        "$625,846,216",
+        "https://www.coingecko.com/en/coins/dogwifhat"
+    ],
+    "Arbitrum ARB": [
+        "32",
+        "$1.65",
+        "$242,240,139",
+        "https://www.coingecko.com/en/coins/arbitrum"
+    ],
+    "Immutable IMX": [
+        "33",
+        "$3.02",
+        "$53,172,921",
+        "https://www.coingecko.com/en/coins/immutable-x"
+    ],
+    "Mantle MNT": [
+        "34",
+        "$1.33",
+        "$154,155,682",
+        "https://www.coingecko.com/en/coins/mantle"
+    ],
+    "Render RNDR": [
+        "35",
+        "$10.76",
+        "$143,545,207",
+        "https://www.coingecko.com/en/coins/render"
+    ],
+    "Cronos CRO": [
+        "36",
+        "$0.1525",
+        "$13,974,324",
+        "https://www.coingecko.com/en/coins/cronos"
+    ],
+    "Stellar XLM": [
+        "37",
+        "$0.1405",
+        "$66,943,555",
+        "https://www.coingecko.com/en/coins/stellar"
+    ],
+    "Hedera HBAR": [
+        "38",
+        "$0.1171",
+        "$47,151,424",
+        "https://www.coingecko.com/en/coins/hedera"
+    ],
+    "OKB OKB": [
+        "39",
+        "$63.26",
+        "$7,493,420",
+        "https://www.coingecko.com/en/coins/okb"
+    ],
+    "Pepe PEPE": [
+        "40",
+        "$0.058918",
+        "$1,215,449,030",
+        "https://www.coingecko.com/en/coins/pepe"
+    ],
+    "Optimism OP": [
+        "41",
+        "$3.69",
+        "$154,905,270",
+        "https://www.coingecko.com/en/coins/optimism"
+    ],
+    "The Graph GRT": [
+        "42",
+        "$0.3916",
+        "$74,633,113",
+        "https://www.coingecko.com/en/coins/the-graph"
+    ],
+    "Maker MKR": [
+        "43",
+        "$3,952.81",
+        "$161,881,977",
+        "https://www.coingecko.com/en/coins/maker"
+    ],
+    "Bittensor TAO": [
+        "44",
+        "$523.20",
+        "$71,673,673",
+        "https://www.coingecko.com/en/coins/bittensor"
+    ],
+    "VeChain VET": [
+        "45",
+        "$0.04549",
+        "$67,297,570",
+        "https://www.coingecko.com/en/coins/vechain"
+    ],
+    "Injective INJ": [
+        "46",
+        "$36.89",
+        "$94,106,466",
+        "https://www.coingecko.com/en/coins/injective"
+    ],
+    "Fetch.ai FET": [
+        "47",
+        "$3.12",
+        "$356,891,625",
+        "https://www.coingecko.com/en/coins/fetch-ai"
+    ],
+    "Kaspa KAS": [
+        "48",
+        "$0.134",
+        "$30,876,480",
+        "https://www.coingecko.com/en/coins/kaspa"
+    ],
+    "THORChain RUNE": [
+        "49",
+        "$8.62",
+        "$181,904,388",
+        "https://www.coingecko.com/en/coins/thorchain"
+    ],
+    "Theta Network THETA": [
+        "50",
+        "$2.86",
+        "$30,321,364",
+        "https://www.coingecko.com/en/coins/theta-network"
+    ],
+    "Fantom FTM": [
+        "51",
+        "$0.9839",
+        "$224,045,576",
+        "https://www.coingecko.com/en/coins/fantom"
+    ],
+    "Lido DAO LDO": [
+        "52",
+        "$2.90",
+        "$61,475,105",
+        "https://www.coingecko.com/en/coins/lido-dao"
+    ],
+    "First Digital USD FDUSD": [
+        "53",
+        "$1.00",
+        "$5,137,649,051",
+        "https://www.coingecko.com/en/coins/first-digital-usd"
+    ],
+    "Celestia TIA": [
+        "54",
+        "$14.65",
+        "$80,513,585",
+        "https://www.coingecko.com/en/coins/celestia"
+    ],
+    "Arweave AR": [
+        "55",
+        "$38.15",
+        "$44,081,399",
+        "https://www.coingecko.com/en/coins/arweave"
+    ],
+    "GALA GALA": [
+        "56",
+        "$0.06672",
+        "$263,013,814",
+        "https://www.coingecko.com/en/coins/gala"
+    ],
+    "FLOKI FLOKI": [
+        "57",
+        "$0.0002521",
+        "$521,094,977",
+        "https://www.coingecko.com/en/coins/floki"
+    ],
+    "Monero XMR": [
+        "58",
+        "$129.06",
+        "$51,421,795",
+        "https://www.coingecko.com/en/coins/monero"
+    ],
+    "Sui SUI": [
+        "59",
+        "$1.87",
+        "$207,172,650",
+        "https://www.coingecko.com/en/coins/sui"
+    ],
+    "Sei SEI": [
+        "60",
+        "$0.8225",
+        "$69,063,078",
+        "https://www.coingecko.com/en/coins/sei"
+    ],
+    "Algorand ALGO": [
+        "61",
+        "$0.2641",
+        "$53,246,044",
+        "https://www.coingecko.com/en/coins/algorand"
+    ],
+    "Rocket Pool ETH RETH": [
+        "62",
+        "$3,989.75",
+        "$30,014,269",
+        "https://www.coingecko.com/en/coins/rocket-pool-eth"
+    ],
+    "Jupiter JUP": [
+        "63",
+        "$1.48",
+        "$299,969,370",
+        "https://www.coingecko.com/en/coins/jupiter"
+    ],
+    "Flow FLOW": [
+        "64",
+        "$1.33",
+        "$40,046,347",
+        "https://www.coingecko.com/en/coins/flow"
+    ],
+    "Quant QNT": [
+        "65",
+        "$133.14",
+        "$27,983,180",
+        "https://www.coingecko.com/en/coins/quant"
+    ],
+    "Mantle Staked Ether METH": [
+        "66",
+        "$3,679.19",
+        "$1,990,987",
+        "https://www.coingecko.com/en/coins/mantle-staked-ether"
+    ],
+    "Bitcoin SV BSV": [
+        "67",
+        "$96.33",
+        "$36,915,295",
+        "https://www.coingecko.com/en/coins/bitcoin-sv"
+    ],
+    "Aave AAVE": [
+        "68",
+        "$127.05",
+        "$73,600,219",
+        "https://www.coingecko.com/en/coins/aave"
+    ],
+    "Wrapped eETH WEETH": [
+        "69",
+        "$3,729.08",
+        "$47,731,179",
+        "https://www.coingecko.com/en/coins/wrapped-eeth"
+    ],
+    "Bonk BONK": [
+        "70",
+        "$0.00002803",
+        "$164,300,505",
+        "https://www.coingecko.com/en/coins/bonk"
+    ],
+    "Conflux CFX": [
+        "71",
+        "$0.4778",
+        "$104,625,341",
+        "https://www.coingecko.com/en/coins/conflux"
+    ],
+    "Beam BEAM": [
+        "72",
+        "$0.03408",
+        "$19,651,402",
+        "https://www.coingecko.com/en/coins/beam-2"
+    ],
+    "Ribbon Finance RBN": [
+        "73",
+        "$1.73",
+        "$10,703,983",
+        "https://www.coingecko.com/en/coins/ribbon-finance"
+    ],
+    "SingularityNET AGIX": [
+        "74",
+        "$1.29",
+        "$228,391,695",
+        "https://www.coingecko.com/en/coins/singularitynet"
+    ],
+    "MultiversX EGLD": [
+        "75",
+        "$60.00",
+        "$23,362,770",
+        "https://www.coingecko.com/en/coins/multiversx"
+    ],
+    "dYdX DYDX": [
+        "76",
+        "$3.42",
+        "$5,650,452",
+        "https://www.coingecko.com/en/coins/dydx-chain"
+    ],
+    "Starknet STRK": [
+        "78",
+        "$2.17",
+        "$101,918,680",
+        "https://www.coingecko.com/en/coins/starknet"
+    ],
+    "The Sandbox SAND": [
+        "77",
+        "$0.7004",
+        "$83,136,822",
+        "https://www.coingecko.com/en/coins/the-sandbox"
+    ],
+    "BitTorrent BTT": [
+        "79",
+        "$0.05161",
+        "$33,472,008",
+        "https://www.coingecko.com/en/coins/bittorrent"
+    ],
+    "Axie Infinity AXS": [
+        "80",
+        "$10.90",
+        "$43,337,502",
+        "https://www.coingecko.com/en/coins/axie-infinity"
+    ],
+    "Ethena USDe USDE": [
+        "81",
+        "$1.00",
+        "$22,567,406",
+        "https://www.coingecko.com/en/coins/ethena-usde"
+    ],
+    "Synthetix Network SNX": [
+        "82",
+        "$4.66",
+        "$41,491,249",
+        "https://www.coingecko.com/en/coins/synthetix-network-token"
+    ],
+    "ORDI ORDI": [
+        "83",
+        "$71.06",
+        "$579,950,980",
+        "https://www.coingecko.com/en/coins/ordi"
+    ],
+    "Pyth Network PYTH": [
+        "85",
+        "$0.9672",
+        "$100,999,326",
+        "https://www.coingecko.com/en/coins/pyth-network"
+    ],
+    "Bitget Token BGB": [
+        "84",
+        "$1.04",
+        "$58,636,519",
+        "https://www.coingecko.com/en/coins/bitget-token"
+    ],
+    "ether.fi Staked ETH EETH": [
+        "86",
+        "$3,615.09",
+        "$262,430",
+        "https://www.coingecko.com/en/coins/ether-fi-staked-eth"
+    ],
+    "Core CORE": [
+        "87",
+        "$1.63",
+        "$180,922,999",
+        "https://www.coingecko.com/en/coins/core"
+    ],
+    "Gate GT": [
+        "88",
+        "$10.54",
+        "$18,145,888",
+        "https://www.coingecko.com/en/coins/gatetoken"
+    ],
+    "Flare FLR": [
+        "89",
+        "$0.03805",
+        "$55,689,573",
+        "https://www.coingecko.com/en/coins/flare"
+    ],
+    "Worldcoin WLD": [
+        "90",
+        "$8.22",
+        "$164,115,429",
+        "https://www.coingecko.com/en/coins/worldcoin"
+    ],
+    "Tezos XTZ": [
+        "91",
+        "$1.39",
+        "$36,662,020",
+        "https://www.coingecko.com/en/coins/tezos"
+    ],
+    "Chiliz CHZ": [
+        "92",
+        "$0.1489",
+        "$48,577,190",
+        "https://www.coingecko.com/en/coins/chiliz"
+    ],
+    "Mina Protocol MINA": [
+        "93",
+        "$1.23",
+        "$18,890,139",
+        "https://www.coingecko.com/en/coins/mina-protocol"
+    ],
+    "eCash XEC": [
+        "95",
+        "$0.00006592",
+        "$13,559,743",
+        "https://www.coingecko.com/en/coins/ecash"
+    ],
+    "Ondo ONDO": [
+        "94",
+        "$0.8926",
+        "$258,625,736",
+        "https://www.coingecko.com/en/coins/ondo"
+    ],
+    "ApeCoin APE": [
+        "96",
+        "$2.00",
+        "$62,124,866",
+        "https://www.coingecko.com/en/coins/apecoin"
+    ],
+    "Axelar AXL": [
+        "97",
+        "$2.03",
+        "$17,906,084",
+        "https://www.coingecko.com/en/coins/axelar"
+    ],
+    "EOS EOS": [
+        "98",
+        "$1.09",
+        "$104,121,229",
+        "https://www.coingecko.com/en/coins/eos"
+    ],
+    "Decentraland MANA": [
+        "100",
+        "$0.6631",
+        "$51,606,434",
+        "https://www.coingecko.com/en/coins/decentraland"
+    ],
+    "Marinade staked SOL MSOL": [
+        "99",
+        "$231.48",
+        "$7,574,405",
+        "https://www.coingecko.com/en/coins/marinade-staked-sol"
+    ],
+    "WhiteBIT Coin WBT": [
+        "101",
+        "$8.54",
+        "$11,233,432",
+        "https://www.coingecko.com/en/coins/whitebit"
+    ],
+    "Ronin RON": [
+        "102",
+        "$3.99",
+        "$24,240,080",
+        "https://www.coingecko.com/en/coins/ronin"
+    ],
+    "Tokenize Xchange TKX": [
+        "103",
+        "$15.18",
+        "$65,274,285",
+        "https://www.coingecko.com/en/coins/tokenize-xchange"
+    ],
+    "PancakeSwap CAKE": [
+        "105",
+        "$4.60",
+        "$73,254,485",
+        "https://www.coingecko.com/en/coins/pancakeswap"
+    ],
+    "SATS (Ordinals) SATS": [
+        "104",
+        "$0.065459",
+        "$95,644,064",
+        "https://www.coingecko.com/en/coins/sats-ordinals"
+    ],
+    "NEO NEO": [
+        "106",
+        "$16.17",
+        "$20,860,471",
+        "https://www.coingecko.com/en/coins/neo"
+    ],
+    "Kava KAVA": [
+        "107",
+        "$1.03",
+        "$18,066,668",
+        "https://www.coingecko.com/en/coins/kava"
+    ],
+    "Akash Network AKT": [
+        "108",
+        "$4.81",
+        "$6,847,160",
+        "https://www.coingecko.com/en/coins/akash-network"
+    ],
+    "IOTA IOTA": [
+        "109",
+        "$0.3466",
+        "$19,782,630",
+        "https://www.coingecko.com/en/coins/iota"
+    ],
+    "KuCoin KCS": [
+        "110",
+        "$11.37",
+        "$333,658",
+        "https://www.coingecko.com/en/coins/kucoin-shares"
+    ],
+    "JasmyCoin JASMY": [
+        "111",
+        "$0.0216",
+        "$78,078,696",
+        "https://www.coingecko.com/en/coins/jasmycoin"
+    ],
+    "dYdX ETHDYDX": [
+        "112",
+        "$3.42",
+        "$35,541,603",
+        "https://www.coingecko.com/en/coins/dydx-ethdydx"
+    ],
+    "Frax Ether FRXETH": [
+        "113",
+        "$3,569.69",
+        "$4,893,446",
+        "https://www.coingecko.com/en/coins/frax-ether"
+    ],
+    "Helium HNT": [
+        "114",
+        "$6.08",
+        "$13,288,592",
+        "https://www.coingecko.com/en/coins/helium"
+    ],
+    "Cheelee CHEEL": [
+        "115",
+        "$17.17",
+        "$4,868,272",
+        "https://www.coingecko.com/en/coins/cheelee"
+    ],
+    "Klaytn KLAY": [
+        "116",
+        "$0.2642",
+        "$11,518,470",
+        "https://www.coingecko.com/en/coins/klaytn"
+    ],
+    "Dymension DYM": [
+        "117",
+        "$5.98",
+        "$16,691,913",
+        "https://www.coingecko.com/en/coins/dymension"
+    ],
+    "Gnosis GNO": [
+        "118",
+        "$355.74",
+        "$5,208,050",
+        "https://www.coingecko.com/en/coins/gnosis"
+    ],
+    "Oasis Network ROSE": [
+        "119",
+        "$0.1365",
+        "$23,733,644",
+        "https://www.coingecko.com/en/coins/oasis-network"
+    ],
+    "CorgiAI CORGIAI": [
+        "120",
+        "$0.002665",
+        "$1,020,283",
+        "https://www.coingecko.com/en/coins/corgiai"
+    ],
+    "AIOZ Network AIOZ": [
+        "121",
+        "$0.8396",
+        "$11,349,554",
+        "https://www.coingecko.com/en/coins/aioz-network"
+    ],
+    "Blur BLUR": [
+        "122",
+        "$0.5989",
+        "$36,184,696",
+        "https://www.coingecko.com/en/coins/blur"
+    ],
+    "Osmosis OSMO": [
+        "123",
+        "$1.38",
+        "$20,759,460",
+        "https://www.coingecko.com/en/coins/osmosis"
+    ],
+    "Terra Luna Classic LUNC": [
+        "124",
+        "$0.0001547",
+        "$43,746,614",
+        "https://www.coingecko.com/en/coins/terra-luna-classic"
+    ],
+    "Lido Staked SOL STSOL": [
+        "125",
+        "$230.50",
+        "$359,055",
+        "https://www.coingecko.com/en/coins/lido-staked-sol"
+    ],
+    "Illuvium ILV": [
+        "126",
+        "$138.50",
+        "$15,656,547",
+        "https://www.coingecko.com/en/coins/illuvium"
+    ],
+    "DeXe DEXE": [
+        "127",
+        "$15.29",
+        "$6,879,697",
+        "https://www.coingecko.com/en/coins/dexe"
+    ],
+    "Bitcoin Gold BTG": [
+        "128",
+        "$49.82",
+        "$21,558,230",
+        "https://www.coingecko.com/en/coins/bitcoin-gold"
+    ],
+    "Nervos Network CKB": [
+        "129",
+        "$0.0196",
+        "$19,646,979",
+        "https://www.coingecko.com/en/coins/nervos-network"
+    ],
+    "WOO WOO": [
+        "130",
+        "$0.4473",
+        "$18,985,495",
+        "https://www.coingecko.com/en/coins/woo"
+    ],
+    "Curve DAO CRV": [
+        "131",
+        "$0.6913",
+        "$45,655,081",
+        "https://www.coingecko.com/en/coins/curve-dao-token"
+    ],
+    "Swell Ethereum SWETH": [
+        "132",
+        "$3,774.11",
+        "$2,474,108",
+        "https://www.coingecko.com/en/coins/sweth"
+    ],
+    "Ocean Protocol OCEAN": [
+        "133",
+        "$1.31",
+        "$80,006,094",
+        "https://www.coingecko.com/en/coins/ocean-protocol"
+    ],
+    "WEMIX WEMIX": [
+        "134",
+        "$2.19",
+        "$6,715,646",
+        "https://www.coingecko.com/en/coins/wemix"
+    ],
+    "BOOK OF MEME BOME": [
+        "135",
+        "$0.01441",
+        "$493,669,514",
+        "https://www.coingecko.com/en/coins/book-of-meme"
+    ],
+    "Echelon Prime PRIME": [
+        "137",
+        "$21.14",
+        "$11,115,972",
+        "https://www.coingecko.com/en/coins/echelon-prime"
+    ],
+    "Radix XRD": [
+        "136",
+        "$0.07561",
+        "$3,770,842",
+        "https://www.coingecko.com/en/coins/radix"
+    ],
+    "Ether.fi ETHFI": [
+        "138",
+        "$6.77",
+        "$315,266,289",
+        "https://www.coingecko.com/en/coins/ether-fi"
+    ],
+    "Astar ASTR": [
+        "139",
+        "$0.1384",
+        "$17,274,616",
+        "https://www.coingecko.com/en/coins/astar"
+    ],
+    "Kelp DAO Restaked ETH RSETH": [
+        "140",
+        "$3,632.96",
+        "$15,340,818",
+        "https://www.coingecko.com/en/coins/kelp-dao-restaked-eth"
+    ],
+    "AltLayer ALT": [
+        "141",
+        "$0.6069",
+        "$88,971,044",
+        "https://www.coingecko.com/en/coins/altlayer"
+    ],
+    "Terra LUNA": [
+        "142",
+        "$1.10",
+        "$70,392,201",
+        "https://www.coingecko.com/en/coins/terra"
+    ],
+    "NEXO NEXO": [
+        "143",
+        "$1.33",
+        "$6,067,601",
+        "https://www.coingecko.com/en/coins/nexo"
+    ],
+    "Manta Network MANTA": [
+        "144",
+        "$2.94",
+        "$32,277,939",
+        "https://www.coingecko.com/en/coins/manta-network"
+    ],
+    "USDD USDD": [
+        "145",
+        "$0.9988",
+        "$4,632,290",
+        "https://www.coingecko.com/en/coins/usdd"
+    ],
+    "Enjin Coin ENJ": [
+        "146",
+        "$0.4997",
+        "$24,801,636",
+        "https://www.coingecko.com/en/coins/enjin-coin"
+    ],
+    "Degen (Base) DEGEN": [
+        "148",
+        "$0.05552",
+        "$181,593,307",
+        "https://www.coingecko.com/en/coins/degen-base"
+    ],
+    "IoTeX IOTX": [
+        "149",
+        "$0.07462",
+        "$40,126,993",
+        "https://www.coingecko.com/en/coins/iotex"
+    ],
+    "Ravencoin RVN": [
+        "147",
+        "$0.05137",
+        "$384,495,185",
+        "https://www.coingecko.com/en/coins/ravencoin"
+    ],
+    "1inch 1INCH": [
+        "150",
+        "$0.6092",
+        "$37,831,110",
+        "https://www.coingecko.com/en/coins/1inch"
+    ],
+    "Ethereum Name Service ENS": [
+        "151",
+        "$22.18",
+        "$34,376,352",
+        "https://www.coingecko.com/en/coins/ethereum-name-service"
+    ],
+    "Coinbase Wrapped Staked ETH CBETH": [
+        "152",
+        "$3,830.77",
+        "$5,472,762",
+        "https://www.coingecko.com/en/coins/coinbase-wrapped-staked-eth"
+    ],
+    "Zilliqa ZIL": [
+        "153",
+        "$0.03805",
+        "$56,165,002",
+        "https://www.coingecko.com/en/coins/zilliqa"
+    ],
+    "XDC Network XDC": [
+        "155",
+        "$0.04866",
+        "$9,863,137",
+        "https://www.coingecko.com/en/coins/xdc-network"
+    ],
+    "Brett BRETT": [
+        "154",
+        "$0.08067",
+        "$44,205,700",
+        "https://www.coingecko.com/en/coins/brett-2"
+    ],
+    "GMT GMT": [
+        "156",
+        "$0.3646",
+        "$81,354,325",
+        "https://www.coingecko.com/en/coins/stepn"
+    ],
+    "Celo CELO": [
+        "157",
+        "$1.25",
+        "$22,984,620",
+        "https://www.coingecko.com/en/coins/celo"
+    ],
+    "Staked Frax Ether SFRXETH": [
+        "158",
+        "$3,849.39",
+        "$1,815,215",
+        "https://www.coingecko.com/en/coins/staked-frax-ether"
+    ],
+    "Frax FRAX": [
+        "159",
+        "$0.9975",
+        "$5,484,287",
+        "https://www.coingecko.com/en/coins/frax"
+    ],
+    "0x Protocol ZRX": [
+        "161",
+        "$0.7493",
+        "$146,943,524",
+        "https://www.coingecko.com/en/coins/0x"
+    ],
+    "cat in a dogs world MEW": [
+        "160",
+        "$0.00711",
+        "$139,083,475",
+        "https://www.coingecko.com/en/coins/mew"
+    ],
+    "Polymesh POLYX": [
+        "162",
+        "$0.6047",
+        "$171,901,426",
+        "https://www.coingecko.com/en/coins/polymesh"
+    ],
+    "SKALE SKL": [
+        "163",
+        "$0.1197",
+        "$30,169,581",
+        "https://www.coingecko.com/en/coins/skale"
+    ],
+    "Memecoin MEME": [
+        "164",
+        "$0.0396",
+        "$86,381,001",
+        "https://www.coingecko.com/en/coins/meme"
+    ],
+    "Holo HOT": [
+        "165",
+        "$0.003391",
+        "$12,654,193",
+        "https://www.coingecko.com/en/coins/holo"
+    ],
+    "Golem GLM": [
+        "166",
+        "$0.5984",
+        "$21,162,868",
+        "https://www.coingecko.com/en/coins/golem"
+    ],
+    "Rocket Pool RPL": [
+        "168",
+        "$29.53",
+        "$6,471,659",
+        "https://www.coingecko.com/en/coins/rocket-pool"
+    ],
+    "Frax Share FXS": [
+        "167",
+        "$7.56",
+        "$14,146,232",
+        "https://www.coingecko.com/en/coins/frax-share"
+    ],
+    "SuperVerse SUPER": [
+        "169",
+        "$1.32",
+        "$9,396,115",
+        "https://www.coingecko.com/en/coins/superverse"
+    ],
+    "Livepeer LPT": [
+        "171",
+        "$18.68",
+        "$18,891,423",
+        "https://www.coingecko.com/en/coins/livepeer"
+    ],
+    "Ankr Network ANKR": [
+        "170",
+        "$0.05897",
+        "$84,579,072",
+        "https://www.coingecko.com/en/coins/ankr-network"
+    ],
+    "Amp AMP": [
+        "172",
+        "$0.0104",
+        "$15,771,827",
+        "https://www.coingecko.com/en/coins/amp"
+    ],
+    "Siacoin SC": [
+        "173",
+        "$0.01013",
+        "$7,188,595",
+        "https://www.coingecko.com/en/coins/siacoin"
+    ],
+    "Trust Wallet TWT": [
+        "174",
+        "$1.38",
+        "$10,653,272",
+        "https://www.coingecko.com/en/coins/trust-wallet-token"
+    ],
+    "APENFT NFT": [
+        "175",
+        "$0.065789",
+        "$17,415,937",
+        "https://www.coingecko.com/en/coins/apenft"
+    ],
+    "Pixels PIXEL": [
+        "176",
+        "$0.7352",
+        "$80,362,834",
+        "https://www.coingecko.com/en/coins/pixels"
+    ],
+    "MANTRA OM": [
+        "177",
+        "$0.6991",
+        "$21,813,627",
+        "https://www.coingecko.com/en/coins/mantra"
+    ],
+    "Aerodrome Finance AERO": [
+        "178",
+        "$1.49",
+        "$27,500,945",
+        "https://www.coingecko.com/en/coins/aerodrome-finance"
+    ],
+    "Fasttoken FTN": [
+        "179",
+        "$1.81",
+        "$33,553,831",
+        "https://www.coingecko.com/en/coins/fasttoken"
+    ],
+    "Raydium RAY": [
+        "180",
+        "$2.15",
+        "$68,824,078",
+        "https://www.coingecko.com/en/coins/raydium"
+    ],
+    "Tether Gold XAUT": [
+        "181",
+        "$2,233.70",
+        "$8,506,791",
+        "https://www.coingecko.com/en/coins/tether-gold"
+    ],
+    "EthereumPoW ETHW": [
+        "182",
+        "$5.07",
+        "$21,213,418",
+        "https://www.coingecko.com/en/coins/ethereumpow"
+    ],
+    "Theta Fuel TFUEL": [
+        "183",
+        "$0.08338",
+        "$2,882,913",
+        "https://www.coingecko.com/en/coins/theta-fuel"
+    ],
+    "Compound COMP": [
+        "184",
+        "$78.92",
+        "$30,712,305",
+        "https://www.coingecko.com/en/coins/compound"
+    ],
+    "Reserve Rights RSR": [
+        "185",
+        "$0.01057",
+        "$121,455,852",
+        "https://www.coingecko.com/en/coins/reserve-rights"
+    ],
+    "Metis METIS": [
+        "186",
+        "$98.37",
+        "$20,075,779",
+        "https://www.coingecko.com/en/coins/metis-token"
+    ],
+    "Arkham ARKM": [
+        "187",
+        "$2.57",
+        "$33,656,174",
+        "https://www.coingecko.com/en/coins/arkham"
+    ],
+    "Mask Network MASK": [
+        "188",
+        "$5.45",
+        "$98,941,891",
+        "https://www.coingecko.com/en/coins/mask-network"
+    ],
+    "Galxe GAL": [
+        "189",
+        "$4.94",
+        "$15,707,752",
+        "https://www.coingecko.com/en/coins/galxe"
+    ],
+    "Threshold Network T": [
+        "190",
+        "$0.05363",
+        "$61,249,432",
+        "https://www.coingecko.com/en/coins/threshold-network-token"
+    ],
+    "ZetaChain ZETA": [
+        "191",
+        "$2.11",
+        "$35,868,436",
+        "https://www.coingecko.com/en/coins/zetachain"
+    ],
+    "Qtum QTUM": [
+        "192",
+        "$4.75",
+        "$23,569,700",
+        "https://www.coingecko.com/en/coins/qtum"
+    ],
+    "TrueUSD TUSD": [
+        "193",
+        "$0.9996",
+        "$25,161,935",
+        "https://www.coingecko.com/en/coins/true-usd"
+    ],
+    "Pendle PENDLE": [
+        "196",
+        "$5.10",
+        "$119,492,048",
+        "https://www.coingecko.com/en/coins/pendle"
+    ],
+    "Basic Attention BAT": [
+        "194",
+        "$0.3313",
+        "$31,034,055",
+        "https://www.coingecko.com/en/coins/basic-attention-token"
+    ],
+    "Centrifuge CFG": [
+        "195",
+        "$1.01",
+        "$5,544,403",
+        "https://www.coingecko.com/en/coins/centrifuge"
+    ],
+    "Blox CDT": [
+        "197",
+        "$0.7169",
+        "$277,306",
+        "https://www.coingecko.com/en/coins/blox"
+    ],
+    "cWBTC CWBTC": [
+        "198",
+        "$1,410.62",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/compound-wrapped-btc"
+    ],
+    "Biconomy BICO": [
+        "199",
+        "$0.6628",
+        "$22,282,612",
+        "https://www.coingecko.com/en/coins/biconomy"
+    ],
+    "Loopring LRC": [
+        "200",
+        "$0.3826",
+        "$24,216,431",
+        "https://www.coingecko.com/en/coins/loopring"
+    ],
+    "OriginTrail TRAC": [
+        "201",
+        "$1.18",
+        "$4,823,723",
+        "https://www.coingecko.com/en/coins/origintrail"
+    ],
+    "aelf ELF": [
+        "202",
+        "$0.6468",
+        "$6,148,190",
+        "https://www.coingecko.com/en/coins/aelf"
+    ],
+    "Dash DASH": [
+        "203",
+        "$39.89",
+        "$60,308,489",
+        "https://www.coingecko.com/en/coins/dash"
+    ],
+    "NEM XEM": [
+        "204",
+        "$0.05139",
+        "$5,552,538",
+        "https://www.coingecko.com/en/coins/nem"
+    ],
+    "Casper Network CSPR": [
+        "205",
+        "$0.03869",
+        "$11,221,121",
+        "https://www.coingecko.com/en/coins/casper-network"
+    ],
+    "Zcash ZEC": [
+        "206",
+        "$30.53",
+        "$24,292,778",
+        "https://www.coingecko.com/en/coins/zcash"
+    ],
+    "Flux FLUX": [
+        "207",
+        "$1.31",
+        "$8,687,703",
+        "https://www.coingecko.com/en/coins/flux-zelcash"
+    ],
+    "Gas GAS": [
+        "210",
+        "$6.89",
+        "$8,111,234",
+        "https://www.coingecko.com/en/coins/gas"
+    ],
+    "Decred DCR": [
+        "208",
+        "$28.04",
+        "$2,616,835",
+        "https://www.coingecko.com/en/coins/decred"
+    ],
+    "Stader ETHx ETHX": [
+        "209",
+        "$3,675.64",
+        "$6,795,511",
+        "https://www.coingecko.com/en/coins/stader-ethx"
+    ],
+    "Yield Guild Games YGG": [
+        "211",
+        "$1.42",
+        "$392,386,042",
+        "https://www.coingecko.com/en/coins/yield-guild-games"
+    ],
+    "SPACE ID ID": [
+        "212",
+        "$1.03",
+        "$41,102,255",
+        "https://www.coingecko.com/en/coins/space-id"
+    ],
+    "Kusama KSM": [
+        "213",
+        "$48.76",
+        "$18,592,036",
+        "https://www.coingecko.com/en/coins/kusama"
+    ],
+    "GMX GMX": [
+        "214",
+        "$45.77",
+        "$15,994,871",
+        "https://www.coingecko.com/en/coins/gmx"
+    ],
+    "MX MX": [
+        "215",
+        "$4.34",
+        "$45,603,397",
+        "https://www.coingecko.com/en/coins/mx-token"
+    ],
+    "PAAL AI PAAL": [
+        "218",
+        "$0.6563",
+        "$9,431,929",
+        "https://www.coingecko.com/en/coins/paal-ai"
+    ],
+    "Chia XCH": [
+        "217",
+        "$41.84",
+        "$18,470,432",
+        "https://www.coingecko.com/en/coins/chia"
+    ],
+    "Moonbeam GLMR": [
+        "219",
+        "$0.4891",
+        "$12,738,863",
+        "https://www.coingecko.com/en/coins/moonbeam"
+    ],
+    "Childrens Aid Foundation CAF": [
+        "216",
+        "$0.4146",
+        "$1,453,076",
+        "https://www.coingecko.com/en/coins/childrens-aid-foundation"
+    ],
+    "cETH CETH": [
+        "220",
+        "$72.43",
+        "$837.32",
+        "https://www.coingecko.com/en/coins/compound-ether"
+    ],
+    "PAX Gold PAXG": [
+        "221",
+        "$2,212.35",
+        "$7,239,580",
+        "https://www.coingecko.com/en/coins/pax-gold"
+    ],
+    "DAO Maker DAO": [
+        "222",
+        "$1.71",
+        "$16,973,106",
+        "https://www.coingecko.com/en/coins/dao-maker"
+    ],
+    "BENQI Liquid Staked AVAX SAVAX": [
+        "225",
+        "$61.19",
+        "$2,333,701",
+        "https://www.coingecko.com/en/coins/benqi-liquid-staked-avax"
+    ],
+    "Vanar Chain VANRY": [
+        "224",
+        "$0.2821",
+        "$24,034,758",
+        "https://www.coingecko.com/en/coins/vanar-chain"
+    ],
+    "Kadena KDA": [
+        "223",
+        "$1.48",
+        "$13,729,548",
+        "https://www.coingecko.com/en/coins/kadena"
+    ],
+    "SSV Network SSV": [
+        "226",
+        "$55.85",
+        "$36,131,949",
+        "https://www.coingecko.com/en/coins/ssv-network"
+    ],
+    "API3 API3": [
+        "227",
+        "$3.66",
+        "$19,646,236",
+        "https://www.coingecko.com/en/coins/api3"
+    ],
+    "Jito JTO": [
+        "229",
+        "$3.25",
+        "$97,536,827",
+        "https://www.coingecko.com/en/coins/jito"
+    ],
+    "Harmony ONE": [
+        "228",
+        "$0.03088",
+        "$9,179,729",
+        "https://www.coingecko.com/en/coins/harmony"
+    ],
+    "Waves WAVES": [
+        "230",
+        "$3.79",
+        "$18,666,281",
+        "https://www.coingecko.com/en/coins/waves"
+    ],
+    "OKT Chain OKT": [
+        "231",
+        "$20.92",
+        "$1,581,142",
+        "https://www.coingecko.com/en/coins/okt-chain"
+    ],
+    "Nosana NOS": [
+        "233",
+        "$4.46",
+        "$1,971,684",
+        "https://www.coingecko.com/en/coins/nosana"
+    ],
+    "Coq Inu COQ": [
+        "232",
+        "$0.0553",
+        "$35,107,529",
+        "https://www.coingecko.com/en/coins/coq-inu"
+    ],
+    "Wrapped Centrifuge WCFG": [
+        "234",
+        "$1.02",
+        "$1,771,843",
+        "https://www.coingecko.com/en/coins/wrapped-centrifuge"
+    ],
+    "Sushi SUSHI": [
+        "235",
+        "$1.91",
+        "$35,389,926",
+        "https://www.coingecko.com/en/coins/sushi"
+    ],
+    "Aragon ANT": [
+        "236",
+        "$9.17",
+        "$5,937,750",
+        "https://www.coingecko.com/en/coins/aragon"
+    ],
+    "Audius AUDIO": [
+        "237",
+        "$0.3017",
+        "$7,471,976",
+        "https://www.coingecko.com/en/coins/audius"
+    ],
+    "Chromia CHR": [
+        "238",
+        "$0.4438",
+        "$15,772,862",
+        "https://www.coingecko.com/en/coins/chromia"
+    ],
+    "JUST JST": [
+        "239",
+        "$0.04049",
+        "$21,173,279",
+        "https://www.coingecko.com/en/coins/just"
+    ],
+    "Pocket Network POKT": [
+        "242",
+        "$0.2183",
+        "$2,246,895",
+        "https://www.coingecko.com/en/coins/pocket-network"
+    ],
+    "RSS3 RSS3": [
+        "240",
+        "$0.5502",
+        "$6,948,259",
+        "https://www.coingecko.com/en/coins/rss3"
+    ],
+    "SafePal SFP": [
+        "241",
+        "$0.7693",
+        "$4,576,332",
+        "https://www.coingecko.com/en/coins/safepal"
+    ],
+    "ICON ICX": [
+        "243",
+        "$0.3583",
+        "$22,380,105",
+        "https://www.coingecko.com/en/coins/icon"
+    ],
+    "0x0.ai: AI Smart Contract 0X0": [
+        "244",
+        "$0.3953",
+        "$1,833,702",
+        "https://www.coingecko.com/en/coins/0x0-ai-ai-smart-contract"
+    ],
+    "Baby Doge Coin BABYDOGE": [
+        "245",
+        "$0.08236",
+        "$7,268,250",
+        "https://www.coingecko.com/en/coins/baby-doge-coin"
+    ],
+    "UMA UMA": [
+        "247",
+        "$4.33",
+        "$9,301,605",
+        "https://www.coingecko.com/en/coins/uma"
+    ],
+    "Convex Finance CVX": [
+        "248",
+        "$4.15",
+        "$4,168,273",
+        "https://www.coingecko.com/en/coins/convex-finance"
+    ],
+    "Myro $MYRO": [
+        "246",
+        "$0.3391",
+        "$134,602,804",
+        "https://www.coingecko.com/en/coins/myro"
+    ],
+    "Neutron NTRN": [
+        "249",
+        "$1.21",
+        "$9,036,160",
+        "https://www.coingecko.com/en/coins/neutron"
+    ],
+    "Xai XAI": [
+        "250",
+        "$1.22",
+        "$18,009,356",
+        "https://www.coingecko.com/en/coins/xai"
+    ],
+    "ALEX Lab ALEX": [
+        "251",
+        "$0.4759",
+        "$11,369,337",
+        "https://www.coingecko.com/en/coins/alex-lab"
+    ],
+    "WAX WAXP": [
+        "252",
+        "$0.09795",
+        "$7,164,428",
+        "https://www.coingecko.com/en/coins/wax"
+    ],
+    "Aevo AEVO": [
+        "253",
+        "$3.02",
+        "$129,752,107",
+        "https://www.coingecko.com/en/coins/aevo"
+    ],
+    "Helium Mobile MOBILE": [
+        "254",
+        "$0.003804",
+        "$6,562,694",
+        "https://www.coingecko.com/en/coins/helium-mobile"
+    ],
+    "Ontology ONT": [
+        "255",
+        "$0.3639",
+        "$9,149,843",
+        "https://www.coingecko.com/en/coins/ontology"
+    ],
+    "Portal PORTAL": [
+        "256",
+        "$1.95",
+        "$33,090,002",
+        "https://www.coingecko.com/en/coins/portal"
+    ],
+    "Wilder World WILD": [
+        "257",
+        "$1.16",
+        "$2,807,078",
+        "https://www.coingecko.com/en/coins/wilder-world"
+    ],
+    "VeThor VTHO": [
+        "258",
+        "$0.004309",
+        "$3,418,912",
+        "https://www.coingecko.com/en/coins/vethor-token"
+    ],
+    "Aleph Zero AZERO": [
+        "259",
+        "$1.04",
+        "$2,046,383",
+        "https://www.coingecko.com/en/coins/aleph-zero"
+    ],
+    "Creditcoin CTC": [
+        "260",
+        "$0.9768",
+        "$12,126,924",
+        "https://www.coingecko.com/en/coins/creditcoin"
+    ],
+    "Kujira KUJI": [
+        "261",
+        "$2.60",
+        "$1,630,135",
+        "https://www.coingecko.com/en/coins/kujira"
+    ],
+    "Band Protocol BAND": [
+        "262",
+        "$2.25",
+        "$10,505,162",
+        "https://www.coingecko.com/en/coins/band-protocol"
+    ],
+    "Telcoin TEL": [
+        "263",
+        "$0.004061",
+        "$1,370,167",
+        "https://www.coingecko.com/en/coins/telcoin"
+    ],
+    "Shadow Token SHDW": [
+        "265",
+        "$1.94",
+        "$1,046,483",
+        "https://www.coingecko.com/en/coins/genesysgo-shadow"
+    ],
+    "Rollbit Coin RLB": [
+        "264",
+        "$0.1107",
+        "$3,504,843",
+        "https://www.coingecko.com/en/coins/rollbit-coin"
+    ],
+    "Decentralized Social DESO": [
+        "266",
+        "$29.43",
+        "$10,279,961",
+        "https://www.coingecko.com/en/coins/deso"
+    ],
+    "Nexus Mutual NXM": [
+        "267",
+        "$74.02",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/nexus-mutual"
+    ],
+    "LCX LCX": [
+        "268",
+        "$0.3988",
+        "$8,564,422",
+        "https://www.coingecko.com/en/coins/lcx"
+    ],
+    "JOE JOE": [
+        "269",
+        "$0.888",
+        "$14,143,183",
+        "https://www.coingecko.com/en/coins/joe"
+    ],
+    "GuildFi GF": [
+        "270",
+        "$0.5281",
+        "$4,157,802",
+        "https://www.coingecko.com/en/coins/guildfi"
+    ],
+    "yearn.finance YFI": [
+        "272",
+        "$8,993.04",
+        "$30,618,595",
+        "https://www.coingecko.com/en/coins/yearn-finance"
+    ],
+    "Goldfinch GFI": [
+        "271",
+        "$4.26",
+        "$17,554,694",
+        "https://www.coingecko.com/en/coins/goldfinch"
+    ],
+    "Slerf SLERF": [
+        "273",
+        "$0.5953",
+        "$203,341,020",
+        "https://www.coingecko.com/en/coins/slerf"
+    ],
+    "Bitcoin Avalanche Bridged (BTC.b) BTC.B": [
+        "274",
+        "$70,142.31",
+        "$5,223,373",
+        "https://www.coingecko.com/en/coins/bitcoin-avalanche-bridged-btc-b"
+    ],
+    "SXP SXP": [
+        "275",
+        "$0.4871",
+        "$12,334,540",
+        "https://www.coingecko.com/en/coins/sxp"
+    ],
+    "COTI COTI": [
+        "276",
+        "$0.185",
+        "$8,450,450",
+        "https://www.coingecko.com/en/coins/coti"
+    ],
+    "Stride STRD": [
+        "277",
+        "$3.23",
+        "$132,092",
+        "https://www.coingecko.com/en/coins/stride"
+    ],
+    "Balancer BAL": [
+        "278",
+        "$5.15",
+        "$8,091,258",
+        "https://www.coingecko.com/en/coins/balancer"
+    ],
+    "Lisk LSK": [
+        "281",
+        "$1.97",
+        "$3,206,034",
+        "https://www.coingecko.com/en/coins/lisk"
+    ],
+    "Delysium AGI": [
+        "279",
+        "$0.4283",
+        "$7,522,014",
+        "https://www.coingecko.com/en/coins/delysium"
+    ],
+    "Magic MAGIC": [
+        "280",
+        "$1.09",
+        "$29,103,870",
+        "https://www.coingecko.com/en/coins/magic"
+    ],
+    "Wen $WEN": [
+        "282",
+        "$0.0003923",
+        "$370,555,801",
+        "https://www.coingecko.com/en/coins/wen-solana"
+    ],
+    "iExec RLC RLC": [
+        "283",
+        "$3.93",
+        "$9,189,504",
+        "https://www.coingecko.com/en/coins/iexec-rlc"
+    ],
+    "RSK Infrastructure Framework RIF": [
+        "284",
+        "$0.2839",
+        "$11,582,508",
+        "https://www.coingecko.com/en/coins/rsk-infrastructure-framework"
+    ],
+    "DigiByte DGB": [
+        "285",
+        "$0.01643",
+        "$33,294,598",
+        "https://www.coingecko.com/en/coins/digibyte"
+    ],
+    "Seedify.fund SFUND": [
+        "286",
+        "$4.38",
+        "$6,325,453",
+        "https://www.coingecko.com/en/coins/seedify-fund"
+    ],
+    "Marlin POND": [
+        "287",
+        "$0.03411",
+        "$4,137,325",
+        "https://www.coingecko.com/en/coins/marlin"
+    ],
+    "Beldex BDX": [
+        "288",
+        "$0.0442",
+        "$1,660,331",
+        "https://www.coingecko.com/en/coins/beldex"
+    ],
+    "Mog Coin MOG": [
+        "289",
+        "$0.066999",
+        "$14,406,495",
+        "https://www.coingecko.com/en/coins/mog-coin"
+    ],
+    "Open Campus EDU": [
+        "290",
+        "$1.04",
+        "$7,541,851",
+        "https://www.coingecko.com/en/coins/open-campus"
+    ],
+    "The Doge NFT DOG": [
+        "291",
+        "$0.01804",
+        "$4,952,151",
+        "https://www.coingecko.com/en/coins/the-doge-nft"
+    ],
+    "FINSCHIA FNSA": [
+        "292",
+        "$35.02",
+        "$575,744",
+        "https://www.coingecko.com/en/coins/fnsa"
+    ],
+    "Wrapped Beacon ETH WBETH": [
+        "293",
+        "$3,727.03",
+        "$7,742,182",
+        "https://www.coingecko.com/en/coins/wrapped-beacon-eth"
+    ],
+    "L7DEX LSD": [
+        "294",
+        "$5.53",
+        "$1,507,806",
+        "https://www.coingecko.com/en/coins/l7dex"
+    ],
+    "Prom PROM": [
+        "295",
+        "$14.33",
+        "$4,243,778",
+        "https://www.coingecko.com/en/coins/prom"
+    ],
+    "SwissBorg BORG": [
+        "296",
+        "$0.2624",
+        "$1,694,382",
+        "https://www.coingecko.com/en/coins/swissborg"
+    ],
+    "TerraClassicUSD USTC": [
+        "297",
+        "$0.02839",
+        "$10,441,454",
+        "https://www.coingecko.com/en/coins/terraclassicusd"
+    ],
+    "Coin98 C98": [
+        "299",
+        "$0.4135",
+        "$18,698,968",
+        "https://www.coingecko.com/en/coins/coin98"
+    ],
+    "Venus XVS": [
+        "301",
+        "$16.03",
+        "$11,322,440",
+        "https://www.coingecko.com/en/coins/venus"
+    ],
+    "Tellor Tributes TRB": [
+        "301",
+        "$98.56",
+        "$28,550,458",
+        "https://www.coingecko.com/en/coins/tellor-tributes"
+    ],
+    "IQ IQ": [
+        "302",
+        "$0.01408",
+        "$3,351,884",
+        "https://www.coingecko.com/en/coins/iq"
+    ],
+    "Popcat POPCAT": [
+        "303",
+        "$0.257",
+        "$29,652,265",
+        "https://www.coingecko.com/en/coins/popcat"
+    ],
+    "Cartesi CTSI": [
+        "304",
+        "$0.316",
+        "$10,264,722",
+        "https://www.coingecko.com/en/coins/cartesi"
+    ],
+    "Big Time BIGTIME": [
+        "305",
+        "$0.3471",
+        "$33,215,583",
+        "https://www.coingecko.com/en/coins/big-time"
+    ],
+    "OpSec OPSEC": [
+        "306",
+        "$2.59",
+        "$3,336,139",
+        "https://www.coingecko.com/en/coins/opsec"
+    ],
+    "Oraichain ORAI": [
+        "307",
+        "$15.48",
+        "$3,736,510",
+        "https://www.coingecko.com/en/coins/oraichain-token"
+    ],
+    "Jeo Boden BODEN": [
+        "308",
+        "$0.3524",
+        "$3,078,626",
+        "https://www.coingecko.com/en/coins/jeo-boden"
+    ],
+    "Smooth Love Potion SLP": [
+        "309",
+        "$0.005869",
+        "$16,823,091",
+        "https://www.coingecko.com/en/coins/smooth-love-potion"
+    ],
+    "Syscoin SYS": [
+        "310",
+        "$0.3131",
+        "$11,129,356",
+        "https://www.coingecko.com/en/coins/syscoin"
+    ],
+    "Humans.ai HEART": [
+        "311",
+        "$0.04353",
+        "$1,001,333",
+        "https://www.coingecko.com/en/coins/humans-ai"
+    ],
+    "Bitkub Coin KUB": [
+        "312",
+        "$2.68",
+        "$730,571",
+        "https://www.coingecko.com/en/coins/bitkub-coin"
+    ],
+    "Osaka Protocol OSAK": [
+        "313",
+        "$0.063104",
+        "$406,974",
+        "https://www.coingecko.com/en/coins/osaka-protocol"
+    ],
+    "Synapse SYN": [
+        "314",
+        "$1.24",
+        "$7,292,451",
+        "https://www.coingecko.com/en/coins/synapse"
+    ],
+    "TokenFi TOKEN": [
+        "315",
+        "$0.1717",
+        "$51,532,745",
+        "https://www.coingecko.com/en/coins/tokenfi"
+    ],
+    "IOST IOST": [
+        "316",
+        "$0.01249",
+        "$11,786,009",
+        "https://www.coingecko.com/en/coins/iost"
+    ],
+    "Ampleforth AMPL": [
+        "317",
+        "$1.07",
+        "$3,237,926",
+        "https://www.coingecko.com/en/coins/ampleforth"
+    ],
+    "Boba Network BOBA": [
+        "318",
+        "$0.6031",
+        "$30,727,272",
+        "https://www.coingecko.com/en/coins/boba-network"
+    ],
+    "VVS Finance VVS": [
+        "319",
+        "$0.055102",
+        "$662,121",
+        "https://www.coingecko.com/en/coins/vvs-finance"
+    ],
+    "Numeraire NMR": [
+        "320",
+        "$36.40",
+        "$7,174,165",
+        "https://www.coingecko.com/en/coins/numeraire"
+    ],
+    "Tectum TET": [
+        "321",
+        "$30.79",
+        "$1,560,158",
+        "https://www.coingecko.com/en/coins/tectum"
+    ],
+    "Crown by Third Time Games CROWN": [
+        "322",
+        "$1.52",
+        "$889,543",
+        "https://www.coingecko.com/en/coins/crown-by-third-time-games"
+    ],
+    "Sleepless AI AI": [
+        "323",
+        "$1.73",
+        "$39,917,922",
+        "https://www.coingecko.com/en/coins/sleepless-ai"
+    ],
+    "Milady Meme Coin LADYS": [
+        "324",
+        "$0.062536",
+        "$17,624,733",
+        "https://www.coingecko.com/en/coins/milady-meme-coin"
+    ],
+    "AirTor Protocol ATOR": [
+        "325",
+        "$3.04",
+        "$2,402,978",
+        "https://www.coingecko.com/en/coins/airtor-protocol"
+    ],
+    "Horizen ZEN": [
+        "326",
+        "$14.91",
+        "$13,343,480",
+        "https://www.coingecko.com/en/coins/horizen"
+    ],
+    "CHEX Token CHEX": [
+        "327",
+        "$0.2174",
+        "$795,002",
+        "https://www.coingecko.com/en/coins/chex-token"
+    ],
+    "Entangle NGL": [
+        "328",
+        "$1.82",
+        "$3,712,833",
+        "https://www.coingecko.com/en/coins/entangle"
+    ],
+    "Bone ShibaSwap BONE": [
+        "329",
+        "$0.8606",
+        "$8,491,168",
+        "https://www.coingecko.com/en/coins/bone-shibaswap"
+    ],
+    "Tribe TRIBE": [
+        "330",
+        "$0.4709",
+        "$95,435.42",
+        "https://www.coingecko.com/en/coins/tribe"
+    ],
+    "Unizen ZCX": [
+        "331",
+        "$0.309",
+        "$1,620,333",
+        "https://www.coingecko.com/en/coins/unizen"
+    ],
+    "Nano XNO": [
+        "332",
+        "$1.59",
+        "$2,913,403",
+        "https://www.coingecko.com/en/coins/nano"
+    ],
+    "ECOMI OMI": [
+        "333",
+        "$0.0007867",
+        "$629,460",
+        "https://www.coingecko.com/en/coins/ecomi"
+    ],
+    "Powerledger POWR": [
+        "334",
+        "$0.4068",
+        "$12,302,333",
+        "https://www.coingecko.com/en/coins/power-ledger"
+    ],
+    "Hooked Protocol HOOK": [
+        "335",
+        "$1.53",
+        "$9,180,275",
+        "https://www.coingecko.com/en/coins/hooked-protocol"
+    ],
+    "BORA BORA": [
+        "336",
+        "$0.2079",
+        "$184,854",
+        "https://www.coingecko.com/en/coins/bora"
+    ],
+    "Huobi BTC HBTC": [
+        "337",
+        "$22,891.96",
+        "$1,033.72",
+        "https://www.coingecko.com/en/coins/huobi-btc"
+    ],
+    "Orbs ORBS": [
+        "338",
+        "$0.04712",
+        "$6,540,268",
+        "https://www.coingecko.com/en/coins/orbs"
+    ],
+    "Orca ORCA": [
+        "339",
+        "$4.12",
+        "$3,326,066",
+        "https://www.coingecko.com/en/coins/orca"
+    ],
+    "ConstitutionDAO PEOPLE": [
+        "340",
+        "$0.03964",
+        "$25,546,792",
+        "https://www.coingecko.com/en/coins/constitutiondao"
+    ],
+    "Olympus OHM": [
+        "341",
+        "$12.14",
+        "$452,095",
+        "https://www.coingecko.com/en/coins/olympus"
+    ],
+    "NodeAI GPU": [
+        "342",
+        "$2.05",
+        "$3,429,774",
+        "https://www.coingecko.com/en/coins/nodeai"
+    ],
+    "Status SNT": [
+        "343",
+        "$0.05002",
+        "$3,183,362",
+        "https://www.coingecko.com/en/coins/status"
+    ],
+    "AllianceBlock Nexera NXRA": [
+        "344",
+        "$0.2493",
+        "$2,028,105",
+        "https://www.coingecko.com/en/coins/allianceblock-nexera"
+    ],
+    "Covalent CQT": [
+        "345",
+        "$0.3086",
+        "$1,226,861",
+        "https://www.coingecko.com/en/coins/covalent"
+    ],
+    "ARK ARK": [
+        "346",
+        "$1.08",
+        "$4,608,796",
+        "https://www.coingecko.com/en/coins/ark"
+    ],
+    "Songbird SGB": [
+        "347",
+        "$0.01323",
+        "$559,656",
+        "https://www.coingecko.com/en/coins/songbird"
+    ],
+    "Civic CVC": [
+        "348",
+        "$0.2411",
+        "$82,991,184",
+        "https://www.coingecko.com/en/coins/civic"
+    ],
+    "Maple MPL": [
+        "349",
+        "$24.50",
+        "$7,209,531",
+        "https://www.coingecko.com/en/coins/maple"
+    ],
+    "Alchemy Pay ACH": [
+        "350",
+        "$0.03877",
+        "$22,987,571",
+        "https://www.coingecko.com/en/coins/alchemy-pay"
+    ],
+    "Toshi TOSHI": [
+        "351",
+        "$0.0004554",
+        "$1,161,177",
+        "https://www.coingecko.com/en/coins/toshi"
+    ],
+    "Nym NYM": [
+        "352",
+        "$0.2677",
+        "$1,618,644",
+        "https://www.coingecko.com/en/coins/nym"
+    ],
+    "TOR TOR": [
+        "353",
+        "$11.24",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/tor"
+    ],
+    "Moonriver MOVR": [
+        "354",
+        "$21.17",
+        "$9,785,599",
+        "https://www.coingecko.com/en/coins/moonriver"
+    ],
+    "PayPal USD PYUSD": [
+        "355",
+        "$1.00",
+        "$5,312,101",
+        "https://www.coingecko.com/en/coins/paypal-usd"
+    ],
+    "Celer Network CELR": [
+        "356",
+        "$0.03334",
+        "$9,649,149",
+        "https://www.coingecko.com/en/coins/celer-network"
+    ],
+    "Arcblock ABT": [
+        "357",
+        "$1.91",
+        "$1,394,126",
+        "https://www.coingecko.com/en/coins/arcblock"
+    ],
+    "Zebec Protocol ZBC": [
+        "358",
+        "$0.03694",
+        "$10,569,599",
+        "https://www.coingecko.com/en/coins/zebec-protocol"
+    ],
+    "Alephium ALPH": [
+        "359",
+        "$2.52",
+        "$1,481,344",
+        "https://www.coingecko.com/en/coins/alephium"
+    ],
+    "MVL MVL": [
+        "360",
+        "$0.007557",
+        "$4,941,674",
+        "https://www.coingecko.com/en/coins/mass-vehicle-ledger"
+    ],
+    "Syntropy NOIA": [
+        "361",
+        "$0.2368",
+        "$2,605,386",
+        "https://www.coingecko.com/en/coins/syntropy"
+    ],
+    "Constellation DAG": [
+        "362",
+        "$0.06198",
+        "$994,923",
+        "https://www.coingecko.com/en/coins/constellation"
+    ],
+    "CANTO CANTO": [
+        "363",
+        "$0.3178",
+        "$4,007,689",
+        "https://www.coingecko.com/en/coins/canto"
+    ],
+    "Dent DENT": [
+        "364",
+        "$0.001928",
+        "$7,143,297",
+        "https://www.coingecko.com/en/coins/dent"
+    ],
+    "Phala PHA": [
+        "365",
+        "$0.2868",
+        "$22,387,701",
+        "https://www.coingecko.com/en/coins/phala-network"
+    ],
+    "Dogelon Mars ELON": [
+        "366",
+        "$0.063334",
+        "$9,262,490",
+        "https://www.coingecko.com/en/coins/dogelon-mars"
+    ],
+    "Secret SCRT": [
+        "367",
+        "$0.6705",
+        "$4,150,436",
+        "https://www.coingecko.com/en/coins/secret"
+    ],
+    "Heroes of Mavia MAVIA": [
+        "368",
+        "$6.05",
+        "$37,750,006",
+        "https://www.coingecko.com/en/coins/heroes-of-mavia"
+    ],
+    "Hive HIVE": [
+        "369",
+        "$0.4217",
+        "$3,364,693",
+        "https://www.coingecko.com/en/coins/hive"
+    ],
+    "Spell SPELL": [
+        "370",
+        "$0.00127",
+        "$9,355,521",
+        "https://www.coingecko.com/en/coins/spell-token"
+    ],
+    "Acala ACA": [
+        "371",
+        "$0.1848",
+        "$21,673,327",
+        "https://www.coingecko.com/en/coins/acala"
+    ],
+    "Autonolas OLAS": [
+        "372",
+        "$4.10",
+        "$3,919,509",
+        "https://www.coingecko.com/en/coins/autonolas"
+    ],
+    "Victoria VR VR": [
+        "373",
+        "$0.02864",
+        "$2,085,735",
+        "https://www.coingecko.com/en/coins/victoria-vr"
+    ],
+    "Velodrome Finance VELO": [
+        "374",
+        "$0.2935",
+        "$28,181,355",
+        "https://www.coingecko.com/en/coins/velodrome-finance"
+    ],
+    "Vulcan Forged PYR": [
+        "375",
+        "$7.32",
+        "$7,351,586",
+        "https://www.coingecko.com/en/coins/vulcan-forged"
+    ],
+    "SmarDex SDEX": [
+        "376",
+        "$0.02124",
+        "$1,536,589",
+        "https://www.coingecko.com/en/coins/smardex"
+    ],
+    "Bluzelle BLZ": [
+        "377",
+        "$0.4072",
+        "$5,754,559",
+        "https://www.coingecko.com/en/coins/bluzelle"
+    ],
+    "Oasys OAS": [
+        "378",
+        "$0.09339",
+        "$1,096,299",
+        "https://www.coingecko.com/en/coins/oasys"
+    ],
+    "Tenset 10SET": [
+        "379",
+        "$1.03",
+        "$660,173",
+        "https://www.coingecko.com/en/coins/tenset"
+    ],
+    "Pundi X PUNDIX": [
+        "380",
+        "$0.6656",
+        "$4,528,841",
+        "https://www.coingecko.com/en/coins/pundi-x-new"
+    ],
+    "My Neighbor Alice ALICE": [
+        "381",
+        "$1.92",
+        "$14,645,562",
+        "https://www.coingecko.com/en/coins/my-neighbor-alice"
+    ],
+    "Gains Network GNS": [
+        "382",
+        "$5.00",
+        "$4,802,513",
+        "https://www.coingecko.com/en/coins/gains-network"
+    ],
+    "Myria MYRIA": [
+        "383",
+        "$0.009765",
+        "$3,498,067",
+        "https://www.coingecko.com/en/coins/myria"
+    ],
+    "Hashflow HFT": [
+        "384",
+        "$0.4424",
+        "$13,459,919",
+        "https://www.coingecko.com/en/coins/hashflow"
+    ],
+    "Bounce AUCTION": [
+        "385",
+        "$26.05",
+        "$24,275,012",
+        "https://www.coingecko.com/en/coins/bounce"
+    ],
+    "MAGA TRUMP": [
+        "386",
+        "$3.62",
+        "$3,575,612",
+        "https://www.coingecko.com/en/coins/maga"
+    ],
+    "Telos TLOS": [
+        "387",
+        "$0.4075",
+        "$4,481,718",
+        "https://www.coingecko.com/en/coins/telos"
+    ],
+    "Maverick Protocol MAV": [
+        "388",
+        "$0.6686",
+        "$27,318,731",
+        "https://www.coingecko.com/en/coins/maverick-protocol"
+    ],
+    "Aurora AURORA": [
+        "389",
+        "$0.3816",
+        "$1,192,957",
+        "https://www.coingecko.com/en/coins/aurora-near"
+    ],
+    "Alchemix USD ALUSD": [
+        "390",
+        "$0.9861",
+        "$26,346.38",
+        "https://www.coingecko.com/en/coins/alchemix-usd"
+    ],
+    "TrueFi TRU": [
+        "391",
+        "$0.1501",
+        "$29,945,434",
+        "https://www.coingecko.com/en/coins/truefi"
+    ],
+    "WINkLink WIN": [
+        "392",
+        "$0.0001703",
+        "$16,263,308",
+        "https://www.coingecko.com/en/coins/winklink"
+    ],
+    "Radiant Capital RDNT": [
+        "393",
+        "$0.3413",
+        "$21,197,813",
+        "https://www.coingecko.com/en/coins/radiant-capital"
+    ],
+    "Liquity LQTY": [
+        "394",
+        "$1.70",
+        "$37,167,020",
+        "https://www.coingecko.com/en/coins/liquity"
+    ],
+    "ChainGPT CGPT": [
+        "395",
+        "$0.3897",
+        "$7,959,205",
+        "https://www.coingecko.com/en/coins/chaingpt"
+    ],
+    "Origin Ether OETH": [
+        "396",
+        "$3,599.17",
+        "$78,421.54",
+        "https://www.coingecko.com/en/coins/origin-ether"
+    ],
+    "Ontology Gas ONG": [
+        "397",
+        "$0.4266",
+        "$4,676,311",
+        "https://www.coingecko.com/en/coins/ontology-gas"
+    ],
+    "inSure DeFi SURE": [
+        "398",
+        "$0.006008",
+        "$497,739",
+        "https://www.coingecko.com/en/coins/insure-defi"
+    ],
+    "DODO DODO": [
+        "399",
+        "$0.2526",
+        "$9,640,130",
+        "https://www.coingecko.com/en/coins/dodo"
+    ],
+    "Hivemapper HONEY": [
+        "400",
+        "$0.1476",
+        "$1,424,377",
+        "https://www.coingecko.com/en/coins/hivemapper"
+    ],
+    "ApeX APEX": [
+        "401",
+        "$3.45",
+        "$228,213,508",
+        "https://www.coingecko.com/en/coins/apex-token"
+    ],
+    "OMG Network OMG": [
+        "402",
+        "$1.12",
+        "$18,706,895",
+        "https://www.coingecko.com/en/coins/omg-network"
+    ],
+    "Stargate Finance STG": [
+        "403",
+        "$0.7663",
+        "$16,035,932",
+        "https://www.coingecko.com/en/coins/stargate-finance"
+    ],
+    "Sun Token SUN": [
+        "404",
+        "$0.01591",
+        "$19,199,203",
+        "https://www.coingecko.com/en/coins/sun-token"
+    ],
+    "Steem STEEM": [
+        "405",
+        "$0.3377",
+        "$6,063,079",
+        "https://www.coingecko.com/en/coins/steem"
+    ],
+    "Marblex MBX": [
+        "406",
+        "$1.33",
+        "$1,208,153",
+        "https://www.coingecko.com/en/coins/marblex"
+    ],
+    "CyberConnect CYBER": [
+        "407",
+        "$13.88",
+        "$23,222,794",
+        "https://www.coingecko.com/en/coins/cyberconnect"
+    ],
+    "WazirX WRX": [
+        "408",
+        "$0.3352",
+        "$4,737.64",
+        "https://www.coingecko.com/en/coins/wazirx"
+    ],
+    "STP STPT": [
+        "409",
+        "$0.0787",
+        "$4,027,306",
+        "https://www.coingecko.com/en/coins/stp-network"
+    ],
+    "Kyber Network Crystal KNC": [
+        "410",
+        "$0.8881",
+        "$10,566,868",
+        "https://www.coingecko.com/en/coins/kyber-network-crystal"
+    ],
+    "XYO Network XYO": [
+        "411",
+        "$0.01077",
+        "$1,344,960",
+        "https://www.coingecko.com/en/coins/xyo-network"
+    ],
+    "Zignaly ZIG": [
+        "412",
+        "$0.1011",
+        "$12,413,181",
+        "https://www.coingecko.com/en/coins/zignaly"
+    ],
+    "crvUSD CRVUSD": [
+        "413",
+        "$0.9945",
+        "$8,729,752",
+        "https://www.coingecko.com/en/coins/crvusd"
+    ],
+    "dKargo DKA": [
+        "414",
+        "$0.04049",
+        "$4,489,047",
+        "https://www.coingecko.com/en/coins/dkargo"
+    ],
+    "Hifi Finance HIFI": [
+        "415",
+        "$1.23",
+        "$40,660,009",
+        "https://www.coingecko.com/en/coins/hifi-finance"
+    ],
+    "Radworks RAD": [
+        "416",
+        "$2.98",
+        "$15,715,827",
+        "https://www.coingecko.com/en/coins/radworks"
+    ],
+    "Stader MaticX MATICX": [
+        "417",
+        "$1.10",
+        "$196,630",
+        "https://www.coingecko.com/en/coins/stader-maticx"
+    ],
+    "Metars Genesis MRS": [
+        "418",
+        "$1.76",
+        "$159,367",
+        "https://www.coingecko.com/en/coins/metars-genesis"
+    ],
+    "Pax Dollar USDP": [
+        "419",
+        "$1",
+        "$3,430,268",
+        "https://www.coingecko.com/en/coins/pax-dollar"
+    ],
+    "MiL.k Alliance MLK": [
+        "420",
+        "$0.4199",
+        "$5,582,547",
+        "https://www.coingecko.com/en/coins/milk-alliance"
+    ],
+    "QANplatform QANX": [
+        "421",
+        "$0.08587",
+        "$1,004,208",
+        "https://www.coingecko.com/en/coins/qanplatform"
+    ],
+    "Celsius Network CEL": [
+        "422",
+        "$0.3441",
+        "$8,374,759",
+        "https://www.coingecko.com/en/coins/celsius-network-token"
+    ],
+    "Solidus Ai Tech AITECH": [
+        "423",
+        "$0.2815",
+        "$7,961,735",
+        "https://www.coingecko.com/en/coins/solidus-ai-tech"
+    ],
+    "Nakamoto Games NAKA": [
+        "424",
+        "$2.22",
+        "$29,118,807",
+        "https://www.coingecko.com/en/coins/nakamoto-games"
+    ],
+    "Loom Network (NEW) LOOM": [
+        "425",
+        "$0.1178",
+        "$5,848,419",
+        "https://www.coingecko.com/en/coins/loom-network-new"
+    ],
+    "Gelato GEL": [
+        "426",
+        "$0.5979",
+        "$343,624",
+        "https://www.coingecko.com/en/coins/gelato"
+    ],
+    "Medibloc MED": [
+        "427",
+        "$0.01724",
+        "$1,712,616",
+        "https://www.coingecko.com/en/coins/medibloc"
+    ],
+    "NKN NKN": [
+        "428",
+        "$0.1853",
+        "$32,770,391",
+        "https://www.coingecko.com/en/coins/nkn"
+    ],
+    "Keep Network KEEP": [
+        "429",
+        "$0.2602",
+        "$146,703",
+        "https://www.coingecko.com/en/coins/keep-network"
+    ],
+    "Gomining Token GMT": [
+        "430",
+        "$0.3342",
+        "$1,567,093",
+        "https://www.coingecko.com/en/coins/gomining-token"
+    ],
+    "Pundi X [OLD] NPXS": [
+        "431",
+        "$0.0005998",
+        "$34,580.43",
+        "https://www.coingecko.com/en/coins/pundi-x-old"
+    ],
+    "Mines of Dalarnia DAR": [
+        "432",
+        "$0.2543",
+        "$19,647,175",
+        "https://www.coingecko.com/en/coins/mines-of-dalarnia"
+    ],
+    "Metal DAO MTL": [
+        "433",
+        "$2.19",
+        "$4,482,889",
+        "https://www.coingecko.com/en/coins/metal-dao"
+    ],
+    "Ergo ERG": [
+        "434",
+        "$1.90",
+        "$431,594",
+        "https://www.coingecko.com/en/coins/ergo"
+    ],
+    "Cudos CUDOS": [
+        "435",
+        "$0.02059",
+        "$870,689",
+        "https://www.coingecko.com/en/coins/cudos"
+    ],
+    "Function X FX": [
+        "436",
+        "$0.1995",
+        "$623,015",
+        "https://www.coingecko.com/en/coins/function-x"
+    ],
+    "Stella ALPHA": [
+        "437",
+        "$0.1616",
+        "$4,573,533",
+        "https://www.coingecko.com/en/coins/stella"
+    ],
+    "MimbleWimbleCoin MWC": [
+        "438",
+        "$12.79",
+        "$35,886.42",
+        "https://www.coingecko.com/en/coins/mimblewimblecoin"
+    ],
+    "LUKSO LYX": [
+        "439",
+        "$4.62",
+        "$579,544",
+        "https://www.coingecko.com/en/coins/lukso-token"
+    ],
+    "LooksRare LOOKS": [
+        "440",
+        "$0.14",
+        "$4,823,083",
+        "https://www.coingecko.com/en/coins/looksrare"
+    ],
+    "Badger BADGER": [
+        "441",
+        "$6.96",
+        "$15,121,192",
+        "https://www.coingecko.com/en/coins/badger"
+    ],
+    "Tokamak Network TON": [
+        "442",
+        "$2.98",
+        "$9,476,015",
+        "https://www.coingecko.com/en/coins/tokamak-network"
+    ],
+    "Radio Caca RACA": [
+        "443",
+        "$0.0003893",
+        "$13,249,937",
+        "https://www.coingecko.com/en/coins/radio-caca"
+    ],
+    "Shentu CTK": [
+        "444",
+        "$1.04",
+        "$3,124,610",
+        "https://www.coingecko.com/en/coins/shentu"
+    ],
+    "Mobox MBOX": [
+        "445",
+        "$0.4889",
+        "$24,939,170",
+        "https://www.coingecko.com/en/coins/mobox"
+    ],
+    "Ardor ARDR": [
+        "446",
+        "$0.1353",
+        "$6,826,621",
+        "https://www.coingecko.com/en/coins/ardor"
+    ],
+    "XPLA XPLA": [
+        "447",
+        "$0.271",
+        "$156,676",
+        "https://www.coingecko.com/en/coins/xpla"
+    ],
+    "STASIS EURO EURS": [
+        "448",
+        "$1.08",
+        "$1,785,897",
+        "https://www.coingecko.com/en/coins/stasis-eurs"
+    ],
+    "SuperRare RARE": [
+        "449",
+        "$0.1929",
+        "$4,767,477",
+        "https://www.coingecko.com/en/coins/superrare"
+    ],
+    "Ultima ULTIMA": [
+        "450",
+        "$4,980.95",
+        "$1,160,845",
+        "https://www.coingecko.com/en/coins/ultima"
+    ],
+    "REI Network REI": [
+        "451",
+        "$0.137",
+        "$121,546,973",
+        "https://www.coingecko.com/en/coins/rei-network"
+    ],
+    "Dione DIONE": [
+        "452",
+        "$0.01408",
+        "$10,555,025",
+        "https://www.coingecko.com/en/coins/dione"
+    ],
+    "StormX STMX": [
+        "453",
+        "$0.01195",
+        "$2,179,934",
+        "https://www.coingecko.com/en/coins/stormx"
+    ],
+    "Clearpool CPOOL": [
+        "454",
+        "$0.2955",
+        "$5,102,847",
+        "https://www.coingecko.com/en/coins/clearpool"
+    ],
+    "Bifrost BFC": [
+        "455",
+        "$0.09453",
+        "$1,260,678",
+        "https://www.coingecko.com/en/coins/bifrost"
+    ],
+    "Ethernity Chain ERN": [
+        "456",
+        "$6.36",
+        "$7,659,178",
+        "https://www.coingecko.com/en/coins/ethernity-chain"
+    ],
+    "Gemini Dollar GUSD": [
+        "457",
+        "$1.00",
+        "$642,199",
+        "https://www.coingecko.com/en/coins/gemini-dollar"
+    ],
+    "BTSE Token BTSE": [
+        "458",
+        "$0.8031",
+        "$6,637.78",
+        "https://www.coingecko.com/en/coins/btse-token"
+    ],
+    "Adventure Gold AGLD": [
+        "459",
+        "$1.68",
+        "$9,857,220",
+        "https://www.coingecko.com/en/coins/adventure-gold"
+    ],
+    "Gitcoin GTC": [
+        "460",
+        "$2.13",
+        "$7,868,426",
+        "https://www.coingecko.com/en/coins/gitcoin"
+    ],
+    "Huobi HT": [
+        "461",
+        "$0.8098",
+        "$1,904,930",
+        "https://www.coingecko.com/en/coins/huobi-token"
+    ],
+    "Propy PRO": [
+        "462",
+        "$2.22",
+        "$11,172,151",
+        "https://www.coingecko.com/en/coins/propy"
+    ],
+    "World Mobile Token WMT": [
+        "464",
+        "$0.2273",
+        "$2,276,613",
+        "https://www.coingecko.com/en/coins/world-mobile-token"
+    ],
+    "Phoenix PHB": [
+        "463",
+        "$2.61",
+        "$6,818,004",
+        "https://www.coingecko.com/en/coins/phoenix"
+    ],
+    "Multibit MUBI": [
+        "465",
+        "$0.1321",
+        "$43,281,204",
+        "https://www.coingecko.com/en/coins/multibit"
+    ],
+    "Access Protocol ACS": [
+        "466",
+        "$0.003611",
+        "$1,643,165",
+        "https://www.coingecko.com/en/coins/access-protocol"
+    ],
+    "Request REQ": [
+        "467",
+        "$0.1627",
+        "$8,677,972",
+        "https://www.coingecko.com/en/coins/request-network"
+    ],
+    "Shrapnel SHRAP": [
+        "468",
+        "$0.2861",
+        "$1,732,983",
+        "https://www.coingecko.com/en/coins/shrapnel"
+    ],
+    "BakerySwap BAKE": [
+        "469",
+        "$0.4319",
+        "$20,651,500",
+        "https://www.coingecko.com/en/coins/bakeryswap"
+    ],
+    "Chainge XCHNG": [
+        "470",
+        "$0.2528",
+        "$1,972,235",
+        "https://www.coingecko.com/en/coins/chainge"
+    ],
+    "IX Swap IXS": [
+        "471",
+        "$0.7532",
+        "$950,119",
+        "https://www.coingecko.com/en/coins/ix-swap"
+    ],
+    "Liquity USD LUSD": [
+        "472",
+        "$0.995",
+        "$1,745,155",
+        "https://www.coingecko.com/en/coins/liquity-usd"
+    ],
+    "Electroneum ETN": [
+        "473",
+        "$0.006852",
+        "$923,726",
+        "https://www.coingecko.com/en/coins/electroneum"
+    ],
+    "Polkastarter POLS": [
+        "474",
+        "$1.23",
+        "$5,664,952",
+        "https://www.coingecko.com/en/coins/polkastarter"
+    ],
+    "Star Atlas ATLAS": [
+        "475",
+        "$0.007875",
+        "$1,659,228",
+        "https://www.coingecko.com/en/coins/star-atlas"
+    ],
+    "Dora Factory DORA": [
+        "476",
+        "$0.1202",
+        "$642,544",
+        "https://www.coingecko.com/en/coins/dora-factory"
+    ],
+    "GamerCoin GHX": [
+        "477",
+        "$0.1925",
+        "$1,945,876",
+        "https://www.coingecko.com/en/coins/gamercoin"
+    ],
+    "Star Atlas DAO POLIS": [
+        "478",
+        "$0.4827",
+        "$804,636",
+        "https://www.coingecko.com/en/coins/star-atlas-dao"
+    ],
+    "Virtual Protocol VIRTUAL": [
+        "479",
+        "$0.1194",
+        "$1,822,600",
+        "https://www.coingecko.com/en/coins/virtual-protocol"
+    ],
+    "BENQI QI": [
+        "480",
+        "$0.02668",
+        "$3,924,506",
+        "https://www.coingecko.com/en/coins/benqi"
+    ],
+    "Opulous OPUL": [
+        "481",
+        "$0.2915",
+        "$4,450,423",
+        "https://www.coingecko.com/en/coins/opulous"
+    ],
+    "Stafi FIS": [
+        "482",
+        "$0.845",
+        "$14,160,801",
+        "https://www.coingecko.com/en/coins/stafi"
+    ],
+    "Bancor Network BNT": [
+        "483",
+        "$0.9007",
+        "$7,651,591",
+        "https://www.coingecko.com/en/coins/bancor-network"
+    ],
+    "Energy Web EWT": [
+        "484",
+        "$2.34",
+        "$827,779",
+        "https://www.coingecko.com/en/coins/energy-web"
+    ],
+    "TriasLab TRIAS": [
+        "485",
+        "$11.78",
+        "$5,314,608",
+        "https://www.coingecko.com/en/coins/trias-token"
+    ],
+    "Syncus SYNC": [
+        "486",
+        "$0.0276",
+        "$12,542,717",
+        "https://www.coingecko.com/en/coins/syncus"
+    ],
+    "Verge XVG": [
+        "487",
+        "$0.007061",
+        "$16,254,921",
+        "https://www.coingecko.com/en/coins/verge"
+    ],
+    "Polygon Ecosystem Token POL": [
+        "488",
+        "$0.993",
+        "$760,708",
+        "https://www.coingecko.com/en/coins/polygon-ecosystem-token"
+    ],
+    "Pangolin PNG": [
+        "489",
+        "$0.5324",
+        "$2,930,883",
+        "https://www.coingecko.com/en/coins/pangolin"
+    ],
+    "tBTC TBTC": [
+        "490",
+        "$69,931.58",
+        "$2,169,806",
+        "https://www.coingecko.com/en/coins/tbtc"
+    ],
+    "Storj STORJ": [
+        "491",
+        "$0.7851",
+        "$14,639,311",
+        "https://www.coingecko.com/en/coins/storj"
+    ],
+    "Sidus SIDUS": [
+        "492",
+        "$0.01057",
+        "$2,308,333",
+        "https://www.coingecko.com/en/coins/sidus"
+    ],
+    "MovieBloc MBL": [
+        "493",
+        "$0.00645",
+        "$8,626,515",
+        "https://www.coingecko.com/en/coins/moviebloc"
+    ],
+    "Metaplex MPLX": [
+        "494",
+        "$0.2532",
+        "$1,288,909",
+        "https://www.coingecko.com/en/coins/metaplex"
+    ],
+    "ArbDoge AI AIDOGE": [
+        "495",
+        "$0.095981",
+        "$17,199,336",
+        "https://www.coingecko.com/en/coins/arbdoge-ai"
+    ],
+    "Chainflip FLIP": [
+        "496",
+        "$4.94",
+        "$3,427,878",
+        "https://www.coingecko.com/en/coins/chainflip"
+    ],
+    "Wexo WEXO": [
+        "497",
+        "$2.14",
+        "$65,278.98",
+        "https://www.coingecko.com/en/coins/wexo"
+    ],
+    "Frontier FRONT": [
+        "498",
+        "$1.26",
+        "$10,642,268",
+        "https://www.coingecko.com/en/coins/frontier"
+    ],
+    "LTO Network LTO": [
+        "499",
+        "$0.2577",
+        "$16,040,037",
+        "https://www.coingecko.com/en/coins/lto-network"
+    ],
+    "Maya Protocol CACAO": [
+        "500",
+        "$1.10",
+        "$73,793.29",
+        "https://www.coingecko.com/en/coins/maya-protocol"
+    ],
+    "Sovryn SOV": [
+        "501",
+        "$1.83",
+        "$894,678",
+        "https://www.coingecko.com/en/coins/sovryn"
+    ],
+    "Quasar QSR": [
+        "502",
+        "$0.1929",
+        "$33,598.32",
+        "https://www.coingecko.com/en/coins/quasar-fi"
+    ],
+    "Hippocrat HPO": [
+        "503",
+        "$0.1098",
+        "$2,056,548",
+        "https://www.coingecko.com/en/coins/hippocrat"
+    ],
+    "Grok $GROK": [
+        "504",
+        "$0.01712",
+        "$12,691,224",
+        "https://www.coingecko.com/en/coins/grok-2"
+    ],
+    "Origin Protocol OGN": [
+        "505",
+        "$0.215",
+        "$19,426,128",
+        "https://www.coingecko.com/en/coins/origin-protocol"
+    ],
+    "Hunt HUNT": [
+        "506",
+        "$0.543",
+        "$9,169,174",
+        "https://www.coingecko.com/en/coins/hunt"
+    ],
+    "CoinEx CET": [
+        "507",
+        "$0.03739",
+        "$179,421",
+        "https://www.coingecko.com/en/coins/coinex-token"
+    ],
+    "PlatON Network LAT": [
+        "508",
+        "$0.01993",
+        "$8,028,845",
+        "https://www.coingecko.com/en/coins/platon-network"
+    ],
+    "Alien Worlds TLM": [
+        "509",
+        "$0.02584",
+        "$8,762,016",
+        "https://www.coingecko.com/en/coins/alien-worlds"
+    ],
+    "Perpetual Protocol PERP": [
+        "510",
+        "$1.45",
+        "$7,120,758",
+        "https://www.coingecko.com/en/coins/perpetual-protocol"
+    ],
+    "QuarkChain QKC": [
+        "511",
+        "$0.01506",
+        "$2,103,382",
+        "https://www.coingecko.com/en/coins/quarkchain"
+    ],
+    "Snek SNEK": [
+        "512",
+        "$0.001427",
+        "$1,443,084",
+        "https://www.coingecko.com/en/coins/snek"
+    ],
+    "Gods Unchained GODS": [
+        "513",
+        "$0.3635",
+        "$1,267,749",
+        "https://www.coingecko.com/en/coins/gods-unchained"
+    ],
+    "Sweat Economy SWEAT": [
+        "514",
+        "$0.01301",
+        "$6,977,176",
+        "https://www.coingecko.com/en/coins/sweat-economy"
+    ],
+    "Euler EUL": [
+        "515",
+        "$5.51",
+        "$298,474",
+        "https://www.coingecko.com/en/coins/euler"
+    ],
+    "Aavegotchi GHST": [
+        "516",
+        "$2.01",
+        "$32,536,768",
+        "https://www.coingecko.com/en/coins/aavegotchi"
+    ],
+    "Boson Protocol BOSON": [
+        "517",
+        "$0.8337",
+        "$5,816,672",
+        "https://www.coingecko.com/en/coins/boson-protocol"
+    ],
+    "Moon Tropica CAH": [
+        "518",
+        "$37.81",
+        "$735,664",
+        "https://www.coingecko.com/en/coins/moon-tropica"
+    ],
+    "Banana Gun BANANA": [
+        "519",
+        "$42.68",
+        "$1,522,624",
+        "https://www.coingecko.com/en/coins/banana-gun"
+    ],
+    "Pandora PANDORA": [
+        "520",
+        "$10,208.87",
+        "$4,732,827",
+        "https://www.coingecko.com/en/coins/pandora"
+    ],
+    "Ordiswap ORDS": [
+        "521",
+        "$0.1773",
+        "$11,284,990",
+        "https://www.coingecko.com/en/coins/ordiswap"
+    ],
+    "Rally RLY": [
+        "522",
+        "$0.0207",
+        "$3,160,914",
+        "https://www.coingecko.com/en/coins/rally"
+    ],
+    "Ren REN": [
+        "523",
+        "$0.1018",
+        "$19,088,892",
+        "https://www.coingecko.com/en/coins/ren"
+    ],
+    "PlayDapp PDA": [
+        "524",
+        "$0.1728",
+        "$19.80",
+        "https://www.coingecko.com/en/coins/playdapp"
+    ],
+    "Clover Finance CLV": [
+        "525",
+        "$0.126",
+        "$20,496,038",
+        "https://www.coingecko.com/en/coins/clover-finance"
+    ],
+    "Numbers Protocol NUM": [
+        "526",
+        "$0.1686",
+        "$2,704,569",
+        "https://www.coingecko.com/en/coins/numbers-protocol"
+    ],
+    "Escoin ELG": [
+        "527",
+        "$1.04",
+        "$935,282",
+        "https://www.coingecko.com/en/coins/escoin-token"
+    ],
+    "Bazaars BZR": [
+        "528",
+        "$8.65",
+        "$205,531",
+        "https://www.coingecko.com/en/coins/bazaars"
+    ],
+    "Commune AI COMAI": [
+        "529",
+        "$1.58",
+        "$530,614",
+        "https://www.coingecko.com/en/coins/commune-ai"
+    ],
+    "Saitama SAITAMA": [
+        "530",
+        "$0.002256",
+        "$959.23",
+        "https://www.coingecko.com/en/coins/saitama"
+    ],
+    "Cortex CTXC": [
+        "531",
+        "$0.4524",
+        "$10,020,359",
+        "https://www.coingecko.com/en/coins/cortex"
+    ],
+    "ELYSIA EL": [
+        "532",
+        "$0.01457",
+        "$12,247,728",
+        "https://www.coingecko.com/en/coins/elysia"
+    ],
+    "Ultra UOS": [
+        "533",
+        "$0.2641",
+        "$1,105,299",
+        "https://www.coingecko.com/en/coins/ultra"
+    ],
+    "Mainframe MFT": [
+        "534",
+        "$0.01048",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/mainframe"
+    ],
+    "USDX USDX": [
+        "535",
+        "$0.8826",
+        "$328,264",
+        "https://www.coingecko.com/en/coins/usdx"
+    ],
+    "Viction VIC": [
+        "536",
+        "$1.00",
+        "$5,729,351",
+        "https://www.coingecko.com/en/coins/viction"
+    ],
+    "Loom Network (OLD) LOOMOLD": [
+        "537",
+        "$0.1178",
+        "$643,622",
+        "https://www.coingecko.com/en/coins/loom-network-old"
+    ],
+    "Kinesis Gold KAU": [
+        "538",
+        "$71.73",
+        "$71,781.00",
+        "https://www.coingecko.com/en/coins/kinesis-gold"
+    ],
+    "Lyra Finance LYRA": [
+        "539",
+        "$0.1231",
+        "$38,702.41",
+        "https://www.coingecko.com/en/coins/lyra-finance"
+    ],
+    "BitMart BMX": [
+        "540",
+        "$0.2871",
+        "$2,578,510",
+        "https://www.coingecko.com/en/coins/bitmart-token"
+    ],
+    "Tokenlon LON": [
+        "541",
+        "$0.8561",
+        "$279,856",
+        "https://www.coingecko.com/en/coins/tokenlon"
+    ],
+    "Artificial Liquid Intelligence ALI": [
+        "542",
+        "$0.02789",
+        "$2,937,160",
+        "https://www.coingecko.com/en/coins/artificial-liquid-intelligence"
+    ],
+    "ARPA ARPA": [
+        "543",
+        "$0.09774",
+        "$49,738,704",
+        "https://www.coingecko.com/en/coins/arpa"
+    ],
+    "Ondo US Dollar Yield USDY": [
+        "544",
+        "$1.03",
+        "$48,110.78",
+        "https://www.coingecko.com/en/coins/ondo-us-dollar-yield"
+    ],
+    "Ozone Chain OZO": [
+        "545",
+        "$0.2317",
+        "$237,972",
+        "https://www.coingecko.com/en/coins/ozone-chain"
+    ],
+    "Automata ATA": [
+        "546",
+        "$0.1935",
+        "$13,161,244",
+        "https://www.coingecko.com/en/coins/automata"
+    ],
+    "Gearbox GEAR": [
+        "547",
+        "$0.0186",
+        "$1,978,959",
+        "https://www.coingecko.com/en/coins/gearbox"
+    ],
+    "Neon NEON": [
+        "548",
+        "$1.63",
+        "$3,984,292",
+        "https://www.coingecko.com/en/coins/neon"
+    ],
+    "Uquid Coin UQC": [
+        "549",
+        "$9.38",
+        "$3,491,406",
+        "https://www.coingecko.com/en/coins/uquid-coin"
+    ],
+    "Bitgert BRISE": [
+        "550",
+        "$0.062363",
+        "$2,058,414",
+        "https://www.coingecko.com/en/coins/bitgert"
+    ],
+    "Moonwell WELL": [
+        "551",
+        "$0.04626",
+        "$2,163,925",
+        "https://www.coingecko.com/en/coins/moonwell"
+    ],
+    "Clore.ai CLORE": [
+        "552",
+        "$0.2903",
+        "$2,376,654",
+        "https://www.coingecko.com/en/coins/clore-ai"
+    ],
+    "SingularityDAO SDAO": [
+        "553",
+        "$1.02",
+        "$1,252,888",
+        "https://www.coingecko.com/en/coins/singularitydao"
+    ],
+    "Orchid Protocol OXT": [
+        "554",
+        "$0.155",
+        "$4,299,766",
+        "https://www.coingecko.com/en/coins/orchid-protocol"
+    ],
+    "PepeFork PORK": [
+        "555",
+        "$0.062757",
+        "$6,628,578",
+        "https://www.coingecko.com/en/coins/pepefork"
+    ],
+    "Shardus ULT": [
+        "556",
+        "$0.2068",
+        "$1,884.15",
+        "https://www.coingecko.com/en/coins/shardus"
+    ],
+    "Dimitra DMTR": [
+        "557",
+        "$0.1812",
+        "$1,194,629",
+        "https://www.coingecko.com/en/coins/dimitra"
+    ],
+    "Agoric BLD": [
+        "558",
+        "$0.1381",
+        "$335,578",
+        "https://www.coingecko.com/en/coins/agoric"
+    ],
+    "SaucerSwap SAUCE": [
+        "559",
+        "$0.1463",
+        "$3,642,230",
+        "https://www.coingecko.com/en/coins/saucerswap"
+    ],
+    "Merit Circle MC": [
+        "560",
+        "$3.40",
+        "$318,323",
+        "https://www.coingecko.com/en/coins/merit-circle"
+    ],
+    "HarryPotterObamaSonic10Inu (ETH) BITCOIN": [
+        "561",
+        "$0.08932",
+        "$2,077,320",
+        "https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth"
+    ],
+    "Polymath POLY": [
+        "562",
+        "$0.09943",
+        "$10,716.75",
+        "https://www.coingecko.com/en/coins/polymath"
+    ],
+    "Metadium META": [
+        "563",
+        "$0.05268",
+        "$1,457,901",
+        "https://www.coingecko.com/en/coins/metadium"
+    ],
+    "Krypton DAO KRD": [
+        "564",
+        "$0.8678",
+        "$7,813.20",
+        "https://www.coingecko.com/en/coins/krypton-dao"
+    ],
+    "Cobak CBK": [
+        "565",
+        "$1.07",
+        "$1,654,247",
+        "https://www.coingecko.com/en/coins/cobak-token"
+    ],
+    "Stratos STOS": [
+        "566",
+        "$1.43",
+        "$472,538",
+        "https://www.coingecko.com/en/coins/stratos"
+    ],
+    "Across Protocol ACX": [
+        "567",
+        "$0.2779",
+        "$328,811",
+        "https://www.coingecko.com/en/coins/across-protocol"
+    ],
+    "Verasity VRA": [
+        "568",
+        "$0.008591",
+        "$34,289,891",
+        "https://www.coingecko.com/en/coins/verasity"
+    ],
+    "Kinesis Silver KAG": [
+        "569",
+        "$25.00",
+        "$37,080.20",
+        "https://www.coingecko.com/en/coins/kinesis-silver"
+    ],
+    "GameFi.org GAFI": [
+        "570",
+        "$8.02",
+        "$260,469",
+        "https://www.coingecko.com/en/coins/gamefi-org"
+    ],
+    "Polytrade TRADE": [
+        "571",
+        "$2.75",
+        "$2,569,388",
+        "https://www.coingecko.com/en/coins/polytrade"
+    ],
+    "Vaiot VAI": [
+        "572",
+        "$0.2743",
+        "$1,802,936",
+        "https://www.coingecko.com/en/coins/vaiot"
+    ],
+    "tomiNet TOMI": [
+        "573",
+        "$0.8017",
+        "$17,229,318",
+        "https://www.coingecko.com/en/coins/tominet"
+    ],
+    "NULS NULS": [
+        "574",
+        "$0.8095",
+        "$9,903,061",
+        "https://www.coingecko.com/en/coins/nuls"
+    ],
+    "DIMO DIMO": [
+        "575",
+        "$0.4263",
+        "$688,565",
+        "https://www.coingecko.com/en/coins/dimo"
+    ],
+    "e-Radix EXRD": [
+        "576",
+        "$0.07591",
+        "$427,433",
+        "https://www.coingecko.com/en/coins/e-radix"
+    ],
+    "Linear LINA": [
+        "577",
+        "$0.01426",
+        "$9,483,236",
+        "https://www.coingecko.com/en/coins/linear"
+    ],
+    "BUSD BUSD": [
+        "578",
+        "$1.01",
+        "$5,492,998",
+        "https://www.coingecko.com/en/coins/busd"
+    ],
+    "Artrade ATR": [
+        "579",
+        "$0.05313",
+        "$2,060,237",
+        "https://www.coingecko.com/en/coins/artrade"
+    ],
+    "Beta Finance BETA": [
+        "580",
+        "$0.1104",
+        "$9,161,261",
+        "https://www.coingecko.com/en/coins/beta-finance"
+    ],
+    "Guild of Guardians GOG": [
+        "581",
+        "$0.1525",
+        "$368,164",
+        "https://www.coingecko.com/en/coins/guild-of-guardians"
+    ],
+    "Verus Coin VRSC": [
+        "582",
+        "$1.22",
+        "$14,409.14",
+        "https://www.coingecko.com/en/coins/verus-coin"
+    ],
+    "MAP Protocol MAP": [
+        "583",
+        "$0.03483",
+        "$5,731,744",
+        "https://www.coingecko.com/en/coins/map-protocol"
+    ],
+    "sETH2 SETH2": [
+        "584",
+        "$3,590.71",
+        "$107.72",
+        "https://www.coingecko.com/en/coins/seth2"
+    ],
+    "Iagon IAG": [
+        "585",
+        "$0.2139",
+        "$368,671",
+        "https://www.coingecko.com/en/coins/iagon"
+    ],
+    "Solcasino Token SCS": [
+        "586",
+        "$0.02565",
+        "$607,176",
+        "https://www.coingecko.com/en/coins/solcasino-token"
+    ],
+    "Wrapped NXM WNXM": [
+        "587",
+        "$73.47",
+        "$2,200,681",
+        "https://www.coingecko.com/en/coins/wrapped-nxm"
+    ],
+    "StrikeX STRX": [
+        "588",
+        "$0.09782",
+        "$738,457",
+        "https://www.coingecko.com/en/coins/strike-x"
+    ],
+    "Redacted BTRFLY": [
+        "589",
+        "$281.99",
+        "$579,298",
+        "https://www.coingecko.com/en/coins/redacted"
+    ],
+    "Forta FORT": [
+        "590",
+        "$0.238",
+        "$1,418,280",
+        "https://www.coingecko.com/en/coins/forta"
+    ],
+    "Litentry LIT": [
+        "591",
+        "$1.62",
+        "$5,372,950",
+        "https://www.coingecko.com/en/coins/litentry"
+    ],
+    "Thala THL": [
+        "592",
+        "$2.49",
+        "$1,001,250",
+        "https://www.coingecko.com/en/coins/thala"
+    ],
+    "Onyxcoin XCN": [
+        "593",
+        "$0.002897",
+        "$5,061,285",
+        "https://www.coingecko.com/en/coins/onyxcoin"
+    ],
+    "Arc ARC": [
+        "594",
+        "$0.08683",
+        "$700,590",
+        "https://www.coingecko.com/en/coins/arc"
+    ],
+    "LeverFi LEVER": [
+        "595",
+        "$0.002742",
+        "$11,079,256",
+        "https://www.coingecko.com/en/coins/leverfi"
+    ],
+    "Aergo AERGO": [
+        "596",
+        "$0.1791",
+        "$2,152,536",
+        "https://www.coingecko.com/en/coins/aergo"
+    ],
+    "DexTools DEXT": [
+        "597",
+        "$0.9165",
+        "$147,692",
+        "https://www.coingecko.com/en/coins/dextools"
+    ],
+    "Planet Token PLANET": [
+        "598",
+        "$0.00009192",
+        "$9,103,833",
+        "https://www.coingecko.com/en/coins/planet-token"
+    ],
+    "Komodo KMD": [
+        "599",
+        "$0.5568",
+        "$86,823,378",
+        "https://www.coingecko.com/en/coins/komodo"
+    ],
+    "Astroport ASTRO": [
+        "600",
+        "$0.1823",
+        "$580,896",
+        "https://www.coingecko.com/en/coins/astroport-fi"
+    ],
+    "Ankr Staked ETH ANKRETH": [
+        "601",
+        "$4,132.88",
+        "$841,805",
+        "https://www.coingecko.com/en/coins/ankr-staked-eth"
+    ],
+    "COMBO COMBO": [
+        "602",
+        "$1.09",
+        "$4,009,446",
+        "https://www.coingecko.com/en/coins/combo"
+    ],
+    "Marinade MNDE": [
+        "603",
+        "$0.299",
+        "$913,535",
+        "https://www.coingecko.com/en/coins/marinade"
+    ],
+    "Orion ORN": [
+        "604",
+        "$2.23",
+        "$5,355,129",
+        "https://www.coingecko.com/en/coins/orion"
+    ],
+    "IDEX IDEX": [
+        "605",
+        "$0.09423",
+        "$24,583,571",
+        "https://www.coingecko.com/en/coins/idex"
+    ],
+    "LimeWire LMWR": [
+        "606",
+        "$1.34",
+        "$6,966,706",
+        "https://www.coingecko.com/en/coins/limewire"
+    ],
+    "Alchemix ALCX": [
+        "607",
+        "$35.20",
+        "$4,344,270",
+        "https://www.coingecko.com/en/coins/alchemix"
+    ],
+    "CEEK Smart VR CEEK": [
+        "608",
+        "$0.08773",
+        "$10,987,146",
+        "https://www.coingecko.com/en/coins/ceek-smart-vr-token"
+    ],
+    "Carry CRE": [
+        "609",
+        "$0.007582",
+        "$928,728",
+        "https://www.coingecko.com/en/coins/carry"
+    ],
+    "Wanchain WAN": [
+        "610",
+        "$0.3832",
+        "$8,995,517",
+        "https://www.coingecko.com/en/coins/wanchain"
+    ],
+    "PaLM AI PALM": [
+        "611",
+        "$0.9758",
+        "$2,020,419",
+        "https://www.coingecko.com/en/coins/palm-ai"
+    ],
+    "enqAI ENQAI": [
+        "612",
+        "$0.07773",
+        "$1,831,043",
+        "https://www.coingecko.com/en/coins/enqai"
+    ],
+    "Elastos ELA": [
+        "613",
+        "$3.44",
+        "$513,206",
+        "https://www.coingecko.com/en/coins/elastos"
+    ],
+    "Agoras: Currency of Tau AGRS": [
+        "614",
+        "$4.19",
+        "$909,702",
+        "https://www.coingecko.com/en/coins/agoras-currency-of-tau"
+    ],
+    "Propchain PROPC": [
+        "615",
+        "$4.61",
+        "$1,217,102",
+        "https://www.coingecko.com/en/coins/propchain"
+    ],
+    "Flamingo Finance FLM": [
+        "616",
+        "$0.131",
+        "$5,905,235",
+        "https://www.coingecko.com/en/coins/flamingo-finance"
+    ],
+    "DIA DIA": [
+        "617",
+        "$0.6749",
+        "$7,124,324",
+        "https://www.coingecko.com/en/coins/dia"
+    ],
+    "MELD MELD": [
+        "618",
+        "$0.01962",
+        "$463,878",
+        "https://www.coingecko.com/en/coins/meld"
+    ],
+    "Meter Governance MTRG": [
+        "619",
+        "$2.07",
+        "$253,019",
+        "https://www.coingecko.com/en/coins/meter-governance"
+    ],
+    "Cornucopias COPI": [
+        "620",
+        "$0.08469",
+        "$524,386",
+        "https://www.coingecko.com/en/coins/cornucopias"
+    ],
+    "Everscale EVER": [
+        "621",
+        "$0.03755",
+        "$104,228",
+        "https://www.coingecko.com/en/coins/everscale"
+    ],
+    "Reef REEF": [
+        "622",
+        "$0.003182",
+        "$19,041,082",
+        "https://www.coingecko.com/en/coins/reef"
+    ],
+    "FUNToken FUN": [
+        "623",
+        "$0.006825",
+        "$2,636,378",
+        "https://www.coingecko.com/en/coins/funtoken"
+    ],
+    "Veno Finance VNO": [
+        "624",
+        "$0.152",
+        "$63,636.99",
+        "https://www.coingecko.com/en/coins/veno-finance"
+    ],
+    "Velo VELO": [
+        "625",
+        "$0.009748",
+        "$41,428,443",
+        "https://www.coingecko.com/en/coins/velo"
+    ],
+    "WELSH CORGI COIN WELSH": [
+        "626",
+        "$0.007177",
+        "$688,398",
+        "https://www.coingecko.com/en/coins/welsh-corgi-coin"
+    ],
+    "Bonfida FIDA": [
+        "627",
+        "$0.5361",
+        "$5,910,142",
+        "https://www.coingecko.com/en/coins/bonfida"
+    ],
+    "VitaDAO VITA": [
+        "628",
+        "$2.72",
+        "$382,158",
+        "https://www.coingecko.com/en/coins/vitadao"
+    ],
+    "cUSDC CUSDC": [
+        "629",
+        "$0.02373",
+        "$3.21",
+        "https://www.coingecko.com/en/coins/compound-usd-coin"
+    ],
+    "lmeow LMEOW": [
+        "630",
+        "$0.07077",
+        "$6,195,863",
+        "https://www.coingecko.com/en/coins/lmeow-2"
+    ],
+    "Biswap BSW": [
+        "631",
+        "$0.1422",
+        "$8,226,686",
+        "https://www.coingecko.com/en/coins/biswap"
+    ],
+    "LUKSO [OLD] LYXE": [
+        "632",
+        "$4.55",
+        "$131,039",
+        "https://www.coingecko.com/en/coins/lukso-token-old"
+    ],
+    "doginme DOGINME": [
+        "633",
+        "$0.001097",
+        "$6,322,100",
+        "https://www.coingecko.com/en/coins/doginme"
+    ],
+    "XCAD Network XCAD": [
+        "634",
+        "$1.38",
+        "$8,249,195",
+        "https://www.coingecko.com/en/coins/xcad-network"
+    ],
+    "Hermez Network HEZ": [
+        "635",
+        "$4.17",
+        "$62,920.78",
+        "https://www.coingecko.com/en/coins/hermez-network"
+    ],
+    "Solchat CHAT": [
+        "636",
+        "$7.99",
+        "$1,828,964",
+        "https://www.coingecko.com/en/coins/solchat"
+    ],
+    "Kin KIN": [
+        "637",
+        "$0.0000239",
+        "$356,800",
+        "https://www.coingecko.com/en/coins/kin"
+    ],
+    "Clash of Lilliput COL": [
+        "638",
+        "$0.8432",
+        "$103,856",
+        "https://www.coingecko.com/en/coins/clash-of-lilliput"
+    ],
+    "Persistence One XPRT": [
+        "639",
+        "$0.3437",
+        "$496,521",
+        "https://www.coingecko.com/en/coins/persistence"
+    ],
+    "cDAI CDAI": [
+        "640",
+        "$0.02304",
+        "$413.19",
+        "https://www.coingecko.com/en/coins/compound-dai"
+    ],
+    "HOPR HOPR": [
+        "641",
+        "$0.1589",
+        "$923,361",
+        "https://www.coingecko.com/en/coins/hopr"
+    ],
+    "DeFiChain DFI": [
+        "642",
+        "$0.07895",
+        "$3,045,429",
+        "https://www.coingecko.com/en/coins/defichain"
+    ],
+    "HXRO HXRO": [
+        "643",
+        "$0.1099",
+        "$23,598.45",
+        "https://www.coingecko.com/en/coins/hxro"
+    ],
+    "Stargaze STARS": [
+        "644",
+        "$0.0273",
+        "$96,921.45",
+        "https://www.coingecko.com/en/coins/stargaze"
+    ],
+    "CoW Protocol COW": [
+        "645",
+        "$0.3094",
+        "$272,646",
+        "https://www.coingecko.com/en/coins/cow-protocol"
+    ],
+    "Contentos COS": [
+        "646",
+        "$0.01317",
+        "$73,601,394",
+        "https://www.coingecko.com/en/coins/contentos"
+    ],
+    "Cere Network CERE": [
+        "647",
+        "$0.0102",
+        "$1,102,457",
+        "https://www.coingecko.com/en/coins/cere-network"
+    ],
+    "IRISnet IRIS": [
+        "648",
+        "$0.04169",
+        "$3,309,406",
+        "https://www.coingecko.com/en/coins/irisnet"
+    ],
+    "Strike STRK": [
+        "649",
+        "$14.21",
+        "$979,443",
+        "https://www.coingecko.com/en/coins/strike"
+    ],
+    "Acet ACT": [
+        "650",
+        "$0.03056",
+        "$75,689.99",
+        "https://www.coingecko.com/en/coins/acet"
+    ],
+    "Cratos CRTS": [
+        "651",
+        "$0.001143",
+        "$147,234",
+        "https://www.coingecko.com/en/coins/cratos"
+    ],
+    "Impossible Finance Launchpad IDIA": [
+        "652",
+        "$0.08899",
+        "$102,374",
+        "https://www.coingecko.com/en/coins/idia"
+    ],
+    "CHEQD Network CHEQ": [
+        "653",
+        "$0.08984",
+        "$272,041",
+        "https://www.coingecko.com/en/coins/cheqd-network"
+    ],
+    "Measurable Data MDT": [
+        "654",
+        "$0.1084",
+        "$9,231,337",
+        "https://www.coingecko.com/en/coins/measurable-data-token"
+    ],
+    "Lista USD LISUSD": [
+        "655",
+        "$0.9803",
+        "$404,624",
+        "https://www.coingecko.com/en/coins/lista-usd"
+    ],
+    "district0x DNT": [
+        "656",
+        "$0.08741",
+        "$1,508,350",
+        "https://www.coingecko.com/en/coins/district0x"
+    ],
+    "SafeMoon SFM": [
+        "657",
+        "$0.0001192",
+        "$124,577",
+        "https://www.coingecko.com/en/coins/safemoon"
+    ],
+    "ZKFair ZKF": [
+        "661",
+        "$0.006544",
+        "$4,385,287",
+        "https://www.coingecko.com/en/coins/zkfair"
+    ],
+    "Solend SLND": [
+        "658",
+        "$1.82",
+        "$73,354.69",
+        "https://www.coingecko.com/en/coins/solend"
+    ],
+    "ShapeShift FOX FOX": [
+        "659",
+        "$0.1063",
+        "$1,288,912",
+        "https://www.coingecko.com/en/coins/shapeshift-fox-token"
+    ],
+    "KONDUX KNDX": [
+        "660",
+        "$0.1209",
+        "$376,432",
+        "https://www.coingecko.com/en/coins/kondux-v2"
+    ],
+    "DOLA DOLA": [
+        "662",
+        "$1.00",
+        "$249,230",
+        "https://www.coingecko.com/en/coins/dola"
+    ],
+    "Synesis One SNS": [
+        "663",
+        "$0.1232",
+        "$2,037,403",
+        "https://www.coingecko.com/en/coins/synesis-one"
+    ],
+    "YES Money YES": [
+        "664",
+        "$4.47",
+        "$542,447",
+        "https://www.coingecko.com/en/coins/yes-money"
+    ],
+    "APX APX": [
+        "665",
+        "$0.1477",
+        "$314,722",
+        "https://www.coingecko.com/en/coins/apx-2"
+    ],
+    "Ampleforth Governance FORTH": [
+        "666",
+        "$6.07",
+        "$3,612,153",
+        "https://www.coingecko.com/en/coins/ampleforth-governance-token"
+    ],
+    "Firmachain FCT": [
+        "667",
+        "$0.07639",
+        "$1,438,294",
+        "https://www.coingecko.com/en/coins/firmachain"
+    ],
+    "TRAC (Ordinals) TRAC": [
+        "668",
+        "$3.01",
+        "$1,522,687",
+        "https://www.coingecko.com/en/coins/trac-ordinals"
+    ],
+    "HYCHAIN TOPIA": [
+        "669",
+        "$0.07363",
+        "$429,450",
+        "https://www.coingecko.com/en/coins/hychain"
+    ],
+    "Kwenta KWENTA": [
+        "670",
+        "$117.39",
+        "$83,126.06",
+        "https://www.coingecko.com/en/coins/kwenta"
+    ],
+    "Smart Layer Network SLN": [
+        "671",
+        "$3.96",
+        "$3,098,742",
+        "https://www.coingecko.com/en/coins/smart-layer-network"
+    ],
+    "StakeWise Staked ETH OSETH": [
+        "672",
+        "$3,646.76",
+        "$116,312",
+        "https://www.coingecko.com/en/coins/stakewise-staked-eth"
+    ],
+    "Steem Dollars SBD": [
+        "673",
+        "$4.78",
+        "$1,154,034",
+        "https://www.coingecko.com/en/coins/steem-dollars"
+    ],
+    "TOKPIE TKP": [
+        "674",
+        "$0.7866",
+        "$109,736",
+        "https://www.coingecko.com/en/coins/tokpie"
+    ],
+    "PAID Network PAID": [
+        "676",
+        "$0.2153",
+        "$297,178",
+        "https://www.coingecko.com/en/coins/paid-network"
+    ],
+    "XANA XETA": [
+        "675",
+        "$0.02907",
+        "$2,363,387",
+        "https://www.coingecko.com/en/coins/xana"
+    ],
+    "Router Protocol ROUTE": [
+        "677",
+        "$4.15",
+        "$1,975,407",
+        "https://www.coingecko.com/en/coins/router-protocol"
+    ],
+    "ThunderCore TT": [
+        "678",
+        "$0.005824",
+        "$88,413.21",
+        "https://www.coingecko.com/en/coins/thundercore"
+    ],
+    "Groestlcoin GRS": [
+        "679",
+        "$0.7293",
+        "$8,106,072",
+        "https://www.coingecko.com/en/coins/groestlcoin"
+    ],
+    "Puff The Dragon PUFF": [
+        "680",
+        "$0.1433",
+        "$18,855.05",
+        "https://www.coingecko.com/en/coins/puff-the-dragon"
+    ],
+    "Sologenic SOLO": [
+        "681",
+        "$0.1539",
+        "$2,732,095",
+        "https://www.coingecko.com/en/coins/sologenic"
+    ],
+    "TruFin Staked MATIC TRUMATIC": [
+        "682",
+        "$1.03",
+        "$2,242.15",
+        "https://www.coingecko.com/en/coins/trufin-staked-matic"
+    ],
+    "Vertex Protocol VRTX": [
+        "683",
+        "$0.2867",
+        "$2,789,635",
+        "https://www.coingecko.com/en/coins/vertex-protocol"
+    ],
+    "Streamr DATA": [
+        "684",
+        "$0.07937",
+        "$2,743,636",
+        "https://www.coingecko.com/en/coins/streamr"
+    ],
+    "SelfKey KEY": [
+        "685",
+        "$0.01015",
+        "$14,876,026",
+        "https://www.coingecko.com/en/coins/selfkey"
+    ],
+    "Astrafer ASTRAFER": [
+        "686",
+        "$0.3873",
+        "$53,891.76",
+        "https://www.coingecko.com/en/coins/astrafer"
+    ],
+    "Only1 LIKE": [
+        "687",
+        "$0.2222",
+        "$6,553,558",
+        "https://www.coingecko.com/en/coins/only1"
+    ],
+    "Doge Killer LEASH": [
+        "688",
+        "$565.60",
+        "$2,009,482",
+        "https://www.coingecko.com/en/coins/doge-killer"
+    ],
+    "Overnight.fi USD+ USD+": [
+        "689",
+        "$1.00",
+        "$1,719,388",
+        "https://www.coingecko.com/en/coins/overnight-fi-usdplus"
+    ],
+    "KOGE KOGE": [
+        "690",
+        "$17.79",
+        "$27,862.04",
+        "https://www.coingecko.com/en/coins/koge"
+    ],
+    "THORSwap THOR": [
+        "691",
+        "$0.3481",
+        "$74,491.61",
+        "https://www.coingecko.com/en/coins/thorswap"
+    ],
+    "Swarm Markets SMT": [
+        "692",
+        "$0.9867",
+        "$1,101,659",
+        "https://www.coingecko.com/en/coins/swarm-markets"
+    ],
+    "Dynex DNX": [
+        "693",
+        "$0.6917",
+        "$2,811,484",
+        "https://www.coingecko.com/en/coins/dynex"
+    ],
+    "Qredo QRDO": [
+        "694",
+        "$0.08553",
+        "$9,138,687",
+        "https://www.coingecko.com/en/coins/qredo"
+    ],
+    "Botto BOTTO": [
+        "695",
+        "$1.39",
+        "$394,291",
+        "https://www.coingecko.com/en/coins/botto"
+    ],
+    "Vega Protocol VEGA": [
+        "696",
+        "$0.9831",
+        "$552,885",
+        "https://www.coingecko.com/en/coins/vega-protocol"
+    ],
+    "NKYC Token NKYC": [
+        "697",
+        "$14.88",
+        "$249,675",
+        "https://www.coingecko.com/en/coins/nkyc-token"
+    ],
+    "Fideum FI": [
+        "698",
+        "$0.01484",
+        "$733,067",
+        "https://www.coingecko.com/en/coins/fideum"
+    ],
+    "Propbase PROPS": [
+        "699",
+        "$0.1738",
+        "$2,539,097",
+        "https://www.coingecko.com/en/coins/propbase"
+    ],
+    "DEAPCOIN DEP": [
+        "700",
+        "$0.002509",
+        "$1,268,377",
+        "https://www.coingecko.com/en/coins/deapcoin"
+    ],
+    "KILT Protocol KILT": [
+        "701",
+        "$0.4373",
+        "$70,680.24",
+        "https://www.coingecko.com/en/coins/kilt-protocol"
+    ],
+    "Jackal Protocol JKL": [
+        "702",
+        "$0.6104",
+        "$66,736.90",
+        "https://www.coingecko.com/en/coins/jackal-protocol"
+    ],
+    "Doge Eat Doge OMNOM": [
+        "703",
+        "$0.061891",
+        "$4,946,558",
+        "https://www.coingecko.com/en/coins/doge-eat-doge"
+    ],
+    "Dero DERO": [
+        "704",
+        "$4.60",
+        "$66,517.68",
+        "https://www.coingecko.com/en/coins/dero"
+    ],
+    "AxonDAO Governance Token AXGT": [
+        "705",
+        "$0.3745",
+        "$2,135,052",
+        "https://www.coingecko.com/en/coins/axondao-governance-token"
+    ],
+    "ThetaDrop TDROP": [
+        "706",
+        "$0.005265",
+        "$717,302",
+        "https://www.coingecko.com/en/coins/thetadrop"
+    ],
+    "Talken TALK": [
+        "707",
+        "$0.2862",
+        "$885,897",
+        "https://www.coingecko.com/en/coins/talken"
+    ],
+    "Coinweb CWEB": [
+        "708",
+        "$0.01284",
+        "$143,105",
+        "https://www.coingecko.com/en/coins/coinweb"
+    ],
+    "flexUSD FLEXUSD": [
+        "709",
+        "$0.3493",
+        "$6.04",
+        "https://www.coingecko.com/en/coins/flex-usd"
+    ],
+    "Unifi Protocol DAO UNFI": [
+        "710",
+        "$7.28",
+        "$63,885,504",
+        "https://www.coingecko.com/en/coins/unifi-protocol-dao"
+    ],
+    "xSUSHI XSUSHI": [
+        "712",
+        "$2.61",
+        "$12,314.73",
+        "https://www.coingecko.com/en/coins/xsushi"
+    ],
+    "Keep3rV1 KP3R": [
+        "711",
+        "$112.15",
+        "$86,848,454",
+        "https://www.coingecko.com/en/coins/keep3rv1"
+    ],
+    "Cetus Protocol CETUS": [
+        "713",
+        "$0.1787",
+        "$14,706,005",
+        "https://www.coingecko.com/en/coins/cetus-protocol"
+    ],
+    "KYVE Network KYVE": [
+        "714",
+        "$0.107",
+        "$15,641.40",
+        "https://www.coingecko.com/en/coins/kyve-network"
+    ],
+    "Samoyedcoin SAMO": [
+        "715",
+        "$0.01353",
+        "$1,390,001",
+        "https://www.coingecko.com/en/coins/samoyedcoin"
+    ],
+    "Crust Network CRU": [
+        "716",
+        "$1.89",
+        "$1,344,536",
+        "https://www.coingecko.com/en/coins/crust-network"
+    ],
+    "A Hunters Dream CAW": [
+        "717",
+        "$0.078888",
+        "$1,442,332",
+        "https://www.coingecko.com/en/coins/a-hunters-dream"
+    ],
+    "AIT Protocol AIT": [
+        "718",
+        "$0.6722",
+        "$784,111",
+        "https://www.coingecko.com/en/coins/ait-protocol"
+    ],
+    "SWFTCOIN SWFTC": [
+        "719",
+        "$0.006273",
+        "$5,503,807",
+        "https://www.coingecko.com/en/coins/swftcoin"
+    ],
+    "Lumerin LMR": [
+        "720",
+        "$0.09208",
+        "$99,299.46",
+        "https://www.coingecko.com/en/coins/lumerin"
+    ],
+    "Altered State Machine ASTO": [
+        "721",
+        "$0.07156",
+        "$980,903",
+        "https://www.coingecko.com/en/coins/altered-state-token"
+    ],
+    "ParaSwap PSP": [
+        "722",
+        "$0.04451",
+        "$214,660",
+        "https://www.coingecko.com/en/coins/paraswap"
+    ],
+    "STEPN Green Satoshi Token on Solana GST-SOL": [
+        "723",
+        "$0.04866",
+        "$1,909,274",
+        "https://www.coingecko.com/en/coins/green-satoshi-token"
+    ],
+    "EverGrow Coin EGC": [
+        "725",
+        "$0.061197",
+        "$81,872.97",
+        "https://www.coingecko.com/en/coins/evergrowcoin"
+    ],
+    "MEOW MEOW": [
+        "724",
+        "$0.03705",
+        "$48,531.32",
+        "https://www.coingecko.com/en/coins/meowchain"
+    ],
+    "Magic Internet Money MIM": [
+        "726",
+        "$0.9914",
+        "$1,407,064",
+        "https://www.coingecko.com/en/coins/magic-internet-money"
+    ],
+    "PolySwarm NCT": [
+        "727",
+        "$0.03202",
+        "$957,237",
+        "https://www.coingecko.com/en/coins/polyswarm"
+    ],
+    "Sentinel Protocol UPP": [
+        "728",
+        "$0.111",
+        "$1,760,461",
+        "https://www.coingecko.com/en/coins/sentinel-protocol"
+    ],
+    "Bella Protocol BEL": [
+        "729",
+        "$0.9292",
+        "$3,517,736",
+        "https://www.coingecko.com/en/coins/bella-protocol"
+    ],
+    "EURC EURC": [
+        "730",
+        "$1.08",
+        "$867,924",
+        "https://www.coingecko.com/en/coins/eurc"
+    ],
+    "Grape GRP": [
+        "731",
+        "$13.28",
+        "$512,390",
+        "https://www.coingecko.com/en/coins/grape-2"
+    ],
+    "Circuits of Value COVAL": [
+        "732",
+        "$0.03076",
+        "$3,276,352",
+        "https://www.coingecko.com/en/coins/circuits-of-value"
+    ],
+    "Streamr XDATA XDATA": [
+        "733",
+        "$0.07862",
+        "$357,942",
+        "https://www.coingecko.com/en/coins/streamr-xdata"
+    ],
+    "Games for a Living GFAL": [
+        "734",
+        "$0.03456",
+        "$898,263",
+        "https://www.coingecko.com/en/coins/games-for-a-living"
+    ],
+    "ZTX ZTX": [
+        "735",
+        "$0.02346",
+        "$991,538",
+        "https://www.coingecko.com/en/coins/ztx"
+    ],
+    "pSTAKE Finance PSTAKE": [
+        "736",
+        "$0.1179",
+        "$1,900,047",
+        "https://www.coingecko.com/en/coins/pstake-finance"
+    ],
+    "Mdex (HECO) MDX": [
+        "737",
+        "$0.05701",
+        "$859,264",
+        "https://www.coingecko.com/en/coins/mdex-heco"
+    ],
+    "Quickswap [OLD] QUICK": [
+        "738",
+        "$89.63",
+        "$16,790.68",
+        "https://www.coingecko.com/en/coins/quickswap-old"
+    ],
+    "Mossland MOC": [
+        "739",
+        "$0.1324",
+        "$1,656,088",
+        "https://www.coingecko.com/en/coins/mossland"
+    ],
+    "OORT OORT": [
+        "740",
+        "$0.8337",
+        "$4,312,938",
+        "https://www.coingecko.com/en/coins/oort"
+    ],
+    "Archway ARCH": [
+        "741",
+        "$0.1765",
+        "$47,781.97",
+        "https://www.coingecko.com/en/coins/archway"
+    ],
+    "Vyvo Smart Chain VSC": [
+        "742",
+        "$0.02443",
+        "$883,929",
+        "https://www.coingecko.com/en/coins/vyvo-smart-chain"
+    ],
+    "Catcoin CAT": [
+        "743",
+        "$0.081076",
+        "$8,966,132",
+        "https://www.coingecko.com/en/coins/catcoin"
+    ],
+    "AscendEx ASD": [
+        "744",
+        "$0.07201",
+        "$2,530,205",
+        "https://www.coingecko.com/en/coins/ascendex-token"
+    ],
+    "Whiteheart WHITE": [
+        "745",
+        "$6,035.99",
+        "$83.16",
+        "https://www.coingecko.com/en/coins/whiteheart"
+    ],
+    "ECOx ECOX": [
+        "746",
+        "$0.2042",
+        "$40,903.94",
+        "https://www.coingecko.com/en/coins/ecox"
+    ],
+    "Quickswap QUICK": [
+        "747",
+        "$0.08778",
+        "$3,253,969",
+        "https://www.coingecko.com/en/coins/quickswap"
+    ],
+    "Turbo TURBO": [
+        "748",
+        "$0.0007689",
+        "$6,477,540",
+        "https://www.coingecko.com/en/coins/turbo"
+    ],
+    "VaultCraft VCX": [
+        "749",
+        "$0.06936",
+        "$13,477.85",
+        "https://www.coingecko.com/en/coins/vaultcraft"
+    ],
+    "GET Protocol GET": [
+        "750",
+        "$4.18",
+        "$1,280,755",
+        "https://www.coingecko.com/en/coins/get-protocol"
+    ],
+    "Avalaunch XAVA": [
+        "751",
+        "$1.41",
+        "$476,515",
+        "https://www.coingecko.com/en/coins/avalaunch"
+    ],
+    "Katana Inu KATA": [
+        "752",
+        "$0.001932",
+        "$403,953",
+        "https://www.coingecko.com/en/coins/katana-inu"
+    ],
+    "League of Kingdoms LOKA": [
+        "753",
+        "$0.4537",
+        "$11,540,412",
+        "https://www.coingecko.com/en/coins/league-of-kingdoms"
+    ],
+    "MXC MXC": [
+        "754",
+        "$0.02128",
+        "$4,880,414",
+        "https://www.coingecko.com/en/coins/mxc"
+    ],
+    "ResearchCoin RSC": [
+        "755",
+        "$0.5483",
+        "$1,090,539",
+        "https://www.coingecko.com/en/coins/researchcoin"
+    ],
+    "MicrovisionChain SPACE": [
+        "756",
+        "$19.51",
+        "$1,237,581",
+        "https://www.coingecko.com/en/coins/microvisionchain"
+    ],
+    "Stride Staked Atom STATOM": [
+        "757",
+        "$16.19",
+        "$556,476",
+        "https://www.coingecko.com/en/coins/stride-staked-atom"
+    ],
+    "Alpha Quark AQT": [
+        "758",
+        "$1.91",
+        "$3,075,772",
+        "https://www.coingecko.com/en/coins/alpha-quark-token"
+    ],
+    "Rich Quack QUACK": [
+        "759",
+        "$0.081174",
+        "$1,308,801",
+        "https://www.coingecko.com/en/coins/rich-quack"
+    ],
+    "UniLend Finance UFT": [
+        "760",
+        "$0.6532",
+        "$3,263,711",
+        "https://www.coingecko.com/en/coins/unilend-finance"
+    ],
+    "XPR Network XPR": [
+        "761",
+        "$0.002019",
+        "$1,730,604",
+        "https://www.coingecko.com/en/coins/xpr-network"
+    ],
+    "HydraDX HDX": [
+        "762",
+        "$0.01929",
+        "$73,670.35",
+        "https://www.coingecko.com/en/coins/hydradx"
+    ],
+    "Infinity INF": [
+        "763",
+        "$233.30",
+        "$465,391",
+        "https://www.coingecko.com/en/coins/infinity"
+    ],
+    "SEDA Protocol FLX": [
+        "764",
+        "$0.1895",
+        "$119,115",
+        "https://www.coingecko.com/en/coins/seda-protocol"
+    ],
+    "Niza Global NIZA": [
+        "765",
+        "$0.00902",
+        "$4,773,626",
+        "https://www.coingecko.com/en/coins/niza-global"
+    ],
+    "Tokocrypto TKO": [
+        "766",
+        "$0.6754",
+        "$2,778,482",
+        "https://www.coingecko.com/en/coins/tokocrypto"
+    ],
+    "Fluence FLT": [
+        "767",
+        "$1.01",
+        "$6,489,140",
+        "https://www.coingecko.com/en/coins/fluence-2"
+    ],
+    "Concordium CCD": [
+        "768",
+        "$0.005397",
+        "$211,792",
+        "https://www.coingecko.com/en/coins/concordium"
+    ],
+    "Sai SAI": [
+        "769",
+        "$18.73",
+        "$95.38",
+        "https://www.coingecko.com/en/coins/sai"
+    ],
+    "Murasaki MURA": [
+        "770",
+        "$0.8795",
+        "$6,659.77",
+        "https://www.coingecko.com/en/coins/murasaki"
+    ],
+    "Hacken HAI": [
+        "772",
+        "$0.07845",
+        "$376,843",
+        "https://www.coingecko.com/en/coins/hacken"
+    ],
+    "Vara Network VARA": [
+        "773",
+        "$0.1227",
+        "$6,703,504",
+        "https://www.coingecko.com/en/coins/vara-network"
+    ],
+    "Virtua TVK": [
+        "774",
+        "$0.2801",
+        "$550,457",
+        "https://www.coingecko.com/en/coins/virtua"
+    ],
+    "sUSD SUSD": [
+        "775",
+        "$0.9984",
+        "$1,710,335",
+        "https://www.coingecko.com/en/coins/susd"
+    ],
+    "Ecoin ECOIN": [
+        "776",
+        "$0.0001161",
+        "$2.55",
+        "https://www.coingecko.com/en/coins/ecoin"
+    ],
+    "AhaToken AHT": [
+        "777",
+        "$0.01019",
+        "$1,590,328",
+        "https://www.coingecko.com/en/coins/ahatoken"
+    ],
+    "Tranchess CHESS": [
+        "778",
+        "$0.3199",
+        "$3,407,004",
+        "https://www.coingecko.com/en/coins/tranchess"
+    ],
+    "NuNet NTX": [
+        "779",
+        "$0.07985",
+        "$302,101",
+        "https://www.coingecko.com/en/coins/nunet"
+    ],
+    "Zephyr Protocol ZEPH": [
+        "771",
+        "$14.15",
+        "$2,762,734",
+        "https://www.coingecko.com/en/coins/zephyr-protocol"
+    ],
+    "Aura BAL AURABAL": [
+        "780",
+        "$13.56",
+        "$3,854.29",
+        "https://www.coingecko.com/en/coins/aura-bal"
+    ],
+    "RARI RARI": [
+        "781",
+        "$4.26",
+        "$5,832,907",
+        "https://www.coingecko.com/en/coins/rari"
+    ],
+    "ALVA AA": [
+        "782",
+        "$7,858.09",
+        "$12,476,162",
+        "https://www.coingecko.com/en/coins/alva"
+    ],
+    "H2O Dao H2O": [
+        "783",
+        "$0.2178",
+        "$382,011",
+        "https://www.coingecko.com/en/coins/h2o-dao"
+    ],
+    "DGI Game DGI": [
+        "784",
+        "$0.05976",
+        "$2,708,962",
+        "https://www.coingecko.com/en/coins/dgi-game"
+    ],
+    "DeGate DG": [
+        "785",
+        "$0.126",
+        "$59,140.07",
+        "https://www.coingecko.com/en/coins/degate"
+    ],
+    "Aleph.im ALEPH": [
+        "786",
+        "$0.2603",
+        "$846,161",
+        "https://www.coingecko.com/en/coins/aleph-im"
+    ],
+    "GraphLinq Protocol GLQ": [
+        "787",
+        "$0.1425",
+        "$3,272,024",
+        "https://www.coingecko.com/en/coins/graphlinq-protocol"
+    ],
+    "MUX Protocol MCB": [
+        "788",
+        "$12.74",
+        "$167,353",
+        "https://www.coingecko.com/en/coins/mux-protocol"
+    ],
+    "Mochi MOCHI": [
+        "789",
+        "$0.00004818",
+        "$1,288,861",
+        "https://www.coingecko.com/en/coins/mochi-thecatcoin"
+    ],
+    "Forward FORWARD": [
+        "790",
+        "$0.01192",
+        "$960,154",
+        "https://www.coingecko.com/en/coins/forward"
+    ],
+    "Zano ZANO": [
+        "792",
+        "$3.39",
+        "$62,454.23",
+        "https://www.coingecko.com/en/coins/zano"
+    ],
+    "iMe Lab LIME": [
+        "791",
+        "$0.111",
+        "$3,156,401",
+        "https://www.coingecko.com/en/coins/ime-lab"
+    ],
+    "Sommelier SOMM": [
+        "793",
+        "$0.1657",
+        "$33,955.03",
+        "https://www.coingecko.com/en/coins/sommelier"
+    ],
+    "Voxies VOXEL": [
+        "794",
+        "$0.3965",
+        "$15,576,946",
+        "https://www.coingecko.com/en/coins/voxies"
+    ],
+    "cBAT CBAT": [
+        "795",
+        "$0.006836",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/compound-basic-attention-token"
+    ],
+    "Gamium GMM": [
+        "796",
+        "$0.001054",
+        "$1,220,975",
+        "https://www.coingecko.com/en/coins/gamium"
+    ],
+    "Altura ALU": [
+        "797",
+        "$0.06579",
+        "$8,041,569",
+        "https://www.coingecko.com/en/coins/altura"
+    ],
+    "Hatom HTM": [
+        "798",
+        "$2.22",
+        "$284,626",
+        "https://www.coingecko.com/en/coins/hatom"
+    ],
+    "AVA AVA": [
+        "799",
+        "$0.8653",
+        "$2,781,197",
+        "https://www.coingecko.com/en/coins/ava"
+    ],
+    "Velas VLX": [
+        "800",
+        "$0.01822",
+        "$859,287",
+        "https://www.coingecko.com/en/coins/velas"
+    ],
+    "Short-term T-Bill Token STBT": [
+        "801",
+        "$0.9945",
+        "$494,774",
+        "https://www.coingecko.com/en/coins/short-term-t-bill-token"
+    ],
+    "Scallop SCLP": [
+        "802",
+        "$0.6989",
+        "$983,216",
+        "https://www.coingecko.com/en/coins/scallop"
+    ],
+    "ViciCoin VCNT": [
+        "803",
+        "$17.68",
+        "$1,232,645",
+        "https://www.coingecko.com/en/coins/vicicoin"
+    ],
+    "PARSIQ PRQ": [
+        "804",
+        "$0.2194",
+        "$1,665,642",
+        "https://www.coingecko.com/en/coins/parsiq"
+    ],
+    "Rowan Coin RWN": [
+        "805",
+        "$0.2367",
+        "$1,377,019",
+        "https://www.coingecko.com/en/coins/rowan-coin"
+    ],
+    "Arkadiko DIKO": [
+        "806",
+        "$0.6058",
+        "$29,490.73",
+        "https://www.coingecko.com/en/coins/arkadiko"
+    ],
+    "OX Coin OX": [
+        "807",
+        "$0.01349",
+        "$273,920",
+        "https://www.coingecko.com/en/coins/ox-coin"
+    ],
+    "SatoshiVM SAVM": [
+        "808",
+        "$6.25",
+        "$5,582,101",
+        "https://www.coingecko.com/en/coins/satoshivm"
+    ],
+    "Mintlayer ML": [
+        "809",
+        "$0.4444",
+        "$2,008,555",
+        "https://www.coingecko.com/en/coins/mintlayer"
+    ],
+    "AdEx ADX": [
+        "810",
+        "$0.3189",
+        "$42,312,019",
+        "https://www.coingecko.com/en/coins/adex"
+    ],
+    "Badmad Robots METAL": [
+        "811",
+        "$0.06364",
+        "$946,853",
+        "https://www.coingecko.com/en/coins/badmad-robots"
+    ],
+    "SX Network SX": [
+        "812",
+        "$0.1122",
+        "$29,924.56",
+        "https://www.coingecko.com/en/coins/sx-network"
+    ],
+    "VIDT DAO VIDT": [
+        "813",
+        "$0.05905",
+        "$4,955,194",
+        "https://www.coingecko.com/en/coins/vidt-dao"
+    ],
+    "Bean BEAN": [
+        "814",
+        "$0.9648",
+        "$508.36",
+        "https://www.coingecko.com/en/coins/bean"
+    ],
+    "RocketX Exchange RVF": [
+        "815",
+        "$0.46",
+        "$399,587",
+        "https://www.coingecko.com/en/coins/rocketx-exchange"
+    ],
+    "Morpheus Network MNW": [
+        "816",
+        "$1.22",
+        "$243,322",
+        "https://www.coingecko.com/en/coins/morpheus-network"
+    ],
+    "BobaCat PSPS": [
+        "817",
+        "$0.07826",
+        "$961,490",
+        "https://www.coingecko.com/en/coins/bobacat"
+    ],
+    "Dream Machine Token DMT": [
+        "818",
+        "$75.02",
+        "$4,156,229",
+        "https://www.coingecko.com/en/coins/dream-machine-token"
+    ],
+    "Base God TYBG": [
+        "819",
+        "$0.0003671",
+        "$2,699,241",
+        "https://www.coingecko.com/en/coins/base-god"
+    ],
+    "sETH SETH": [
+        "820",
+        "$3,602.08",
+        "$198,905",
+        "https://www.coingecko.com/en/coins/seth"
+    ],
+    "Manifold Finance FOLD": [
+        "821",
+        "$26.33",
+        "$353,127",
+        "https://www.coingecko.com/en/coins/manifold-finance"
+    ],
+    "dForce DF": [
+        "822",
+        "$0.06405",
+        "$4,598,254",
+        "https://www.coingecko.com/en/coins/dforce"
+    ],
+    "Stronghold SHX": [
+        "823",
+        "$0.008291",
+        "$565,730",
+        "https://www.coingecko.com/en/coins/stronghold"
+    ],
+    "Sora Validator VAL": [
+        "824",
+        "$0.6367",
+        "$80,881.03",
+        "https://www.coingecko.com/en/coins/sora-validator-token"
+    ],
+    "Minswap MIN": [
+        "825",
+        "$0.03924",
+        "$62,238.37",
+        "https://www.coingecko.com/en/coins/minswap"
+    ],
+    "WiFi Map WIFI": [
+        "826",
+        "$0.1445",
+        "$809,783",
+        "https://www.coingecko.com/en/coins/wifi"
+    ],
+    "UwU Lend UWU": [
+        "827",
+        "$5.84",
+        "$7.06",
+        "https://www.coingecko.com/en/coins/uwu-lend"
+    ],
+    "BarnBridge BOND": [
+        "828",
+        "$4.57",
+        "$11,564,323",
+        "https://www.coingecko.com/en/coins/barnbridge"
+    ],
+    "Inspect INSP": [
+        "829",
+        "$0.2238",
+        "$804,406",
+        "https://www.coingecko.com/en/coins/inspect"
+    ],
+    "Tokemak TOKE": [
+        "830",
+        "$1.12",
+        "$279,274",
+        "https://www.coingecko.com/en/coins/tokemak"
+    ],
+    "Cellframe CELL": [
+        "831",
+        "$1.52",
+        "$954,258",
+        "https://www.coingecko.com/en/coins/cellframe"
+    ],
+    "Bit2Me B2M": [
+        "832",
+        "$0.008959",
+        "$54,851.07",
+        "https://www.coingecko.com/en/coins/bit2me"
+    ],
+    "Metahero HERO": [
+        "833",
+        "$0.005559",
+        "$1,179,439",
+        "https://www.coingecko.com/en/coins/metahero"
+    ],
+    "Datamall Coin DMC": [
+        "834",
+        "$0.1144",
+        "$378,283",
+        "https://www.coingecko.com/en/coins/datamall-coin"
+    ],
+    "Floor Protocol FLC": [
+        "835",
+        "$0.02065",
+        "$1,969,775",
+        "https://www.coingecko.com/en/coins/floor-protocol"
+    ],
+    "Gamer Arena GAU": [
+        "836",
+        "$0.1553",
+        "$3,035,894",
+        "https://www.coingecko.com/en/coins/gamer-arena"
+    ],
+    "Raini Studios Token RST": [
+        "837",
+        "$0.07674",
+        "$251,115",
+        "https://www.coingecko.com/en/coins/raini-studios-token"
+    ],
+    "Aventus AVT": [
+        "838",
+        "$4.65",
+        "$2,187,310",
+        "https://www.coingecko.com/en/coins/aventus"
+    ],
+    "The Big Five BFT": [
+        "839",
+        "$0.0005241",
+        "$16,301.04",
+        "https://www.coingecko.com/en/coins/the-big-five"
+    ],
+    "WAGMI Games WAGMIGAMES": [
+        "840",
+        "$0.0000225",
+        "$4,713,712",
+        "https://www.coingecko.com/en/coins/wagmi-games"
+    ],
+    "Shido SHIDO": [
+        "841",
+        "$0.002429",
+        "$2,462,469",
+        "https://www.coingecko.com/en/coins/shido"
+    ],
+    "TempleDAO TEMPLE": [
+        "842",
+        "$1.17",
+        "$6,751.98",
+        "https://www.coingecko.com/en/coins/templedao"
+    ],
+    "Decubate DCB": [
+        "843",
+        "$0.1268",
+        "$764,948",
+        "https://www.coingecko.com/en/coins/decubate"
+    ],
+    "Santos FC Fan Token SANTOS": [
+        "844",
+        "$7.84",
+        "$4,009,559",
+        "https://www.coingecko.com/en/coins/santos-fc-fan-token"
+    ],
+    "Aurory AURY": [
+        "845",
+        "$0.8161",
+        "$2,412,774",
+        "https://www.coingecko.com/en/coins/aurory"
+    ],
+    "Picasso PICA": [
+        "846",
+        "$0.008524",
+        "$531,014",
+        "https://www.coingecko.com/en/coins/picasso"
+    ],
+    "Dejitaru Tsuka TSUKA": [
+        "847",
+        "$0.04205",
+        "$590,087",
+        "https://www.coingecko.com/en/coins/dejitaru-tsuka"
+    ],
+    "Alkimi $ADS": [
+        "848",
+        "$0.2318",
+        "$272,501",
+        "https://www.coingecko.com/en/coins/alkimi"
+    ],
+    "LIF3 (OLD) LIF3": [
+        "849",
+        "$0.01603",
+        "$474.59",
+        "https://www.coingecko.com/en/coins/lif3-old"
+    ],
+    "Ternoa CAPS": [
+        "850",
+        "$0.02736",
+        "$558,459",
+        "https://www.coingecko.com/en/coins/ternoa"
+    ],
+    "FARCANA FAR": [
+        "851",
+        "$0.1232",
+        "$4,536,526",
+        "https://www.coingecko.com/en/coins/farcana"
+    ],
+    "Paris Saint-Germain Fan Token PSG": [
+        "852",
+        "$5.47",
+        "$3,419,851",
+        "https://www.coingecko.com/en/coins/paris-saint-germain-fan-token"
+    ],
+    "Creo Engine CREO": [
+        "853",
+        "$0.1435",
+        "$3,429,543",
+        "https://www.coingecko.com/en/coins/creo-engine"
+    ],
+    "Evmos EVMOS": [
+        "854",
+        "$0.08404",
+        "$18,345.58",
+        "https://www.coingecko.com/en/coins/evmos"
+    ],
+    "SIPHER SIPHER": [
+        "855",
+        "$0.4332",
+        "$44,671.13",
+        "https://www.coingecko.com/en/coins/sipher"
+    ],
+    "Atlas Navi NAVI": [
+        "856",
+        "$0.4714",
+        "$815,996",
+        "https://www.coingecko.com/en/coins/atlas-navi"
+    ],
+    "GHO GHO": [
+        "857",
+        "$0.9956",
+        "$650,461",
+        "https://www.coingecko.com/en/coins/gho"
+    ],
+    "Vectorspace AI VXV": [
+        "858",
+        "$1.09",
+        "$302,939",
+        "https://www.coingecko.com/en/coins/vectorspace-ai"
+    ],
+    "Iron Fish IRON": [
+        "859",
+        "$1.90",
+        "$615,929",
+        "https://www.coingecko.com/en/coins/iron-fish"
+    ],
+    "Fidu FIDU": [
+        "860",
+        "$0.8387",
+        "$964.16",
+        "https://www.coingecko.com/en/coins/fidu"
+    ],
+    "Wing Finance WING": [
+        "861",
+        "$9.80",
+        "$2,710,690",
+        "https://www.coingecko.com/en/coins/wing-finance"
+    ],
+    "Aviator AVI": [
+        "862",
+        "$0.006042",
+        "$264,660",
+        "https://www.coingecko.com/en/coins/aviator"
+    ],
+    "Swarm BZZ": [
+        "863",
+        "$0.6335",
+        "$1,120,950",
+        "https://www.coingecko.com/en/coins/swarm"
+    ],
+    "FEG BSC FEG": [
+        "864",
+        "$0.0008085",
+        "$67,646.67",
+        "https://www.coingecko.com/en/coins/feg-bsc"
+    ],
+    "PunkCity PUNK": [
+        "865",
+        "$2.32",
+        "$101,189",
+        "https://www.coingecko.com/en/coins/punkcity"
+    ],
+    "StarLink STARL": [
+        "866",
+        "$0.054033",
+        "$3,147,470",
+        "https://www.coingecko.com/en/coins/starlink"
+    ],
+    "Sentinel DVPN": [
+        "867",
+        "$0.002282",
+        "$289,275",
+        "https://www.coingecko.com/en/coins/sentinel"
+    ],
+    "Phoenix Global [OLD] PHB": [
+        "868",
+        "$0.01185",
+        "$6.66",
+        "https://www.coingecko.com/en/coins/phoenix-global-old"
+    ],
+    "Prime Staked ETH PRIMEETH": [
+        "869",
+        "$3,540.34",
+        "$7,434.72",
+        "https://www.coingecko.com/en/coins/prime-staked-eth"
+    ],
+    "Revest Finance RVST": [
+        "870",
+        "$0.4694",
+        "$495,983",
+        "https://www.coingecko.com/en/coins/revest-finance"
+    ],
+    "Onomy Protocol NOM": [
+        "871",
+        "$0.4319",
+        "$1,419,025",
+        "https://www.coingecko.com/en/coins/onomy-protocol"
+    ],
+    "Football at AlphaVerse FAV": [
+        "872",
+        "$0.02222",
+        "$73,214.38",
+        "https://www.coingecko.com/en/coins/football-at-alphaverse"
+    ],
+    "Orange ORNJ": [
+        "873",
+        "$0.701",
+        "$3,817,872",
+        "https://www.coingecko.com/en/coins/orange"
+    ],
+    "Camelot Token GRAIL": [
+        "874",
+        "$2,132.86",
+        "$1,450,393",
+        "https://www.coingecko.com/en/coins/camelot-token"
+    ],
+    "Index Coop - ETH 2x Flexible Leverage Index ETH2X-FLI": [
+        "875",
+        "$34.74",
+        "$545,571",
+        "https://www.coingecko.com/en/coins/index-coop-eth-2x-flexible-leverage-index"
+    ],
+    "QORPO WORLD QORPO": [
+        "876",
+        "$0.9658",
+        "$1,674,691",
+        "https://www.coingecko.com/en/coins/qorpo-world"
+    ],
+    "Media Licensing Token MLT": [
+        "877",
+        "$0.2707",
+        "$761,580",
+        "https://www.coingecko.com/en/coins/media-licensing-token"
+    ],
+    "RAMP [OLD] RAMP": [
+        "878",
+        "$0.09639",
+        "$2,489.96",
+        "https://www.coingecko.com/en/coins/ramp-old"
+    ],
+    "Xido Finance XIDO": [
+        "880",
+        "$1.40",
+        "$190.57",
+        "https://www.coingecko.com/en/coins/xido-finance"
+    ],
+    "GoGoPool GGP": [
+        "879",
+        "$12.46",
+        "$49,897.27",
+        "https://www.coingecko.com/en/coins/gogopool"
+    ],
+    "Passage PASG": [
+        "882",
+        "$0.05391",
+        "$59,032.04",
+        "https://www.coingecko.com/en/coins/passage"
+    ],
+    "XSGD XSGD": [
+        "881",
+        "$0.739",
+        "$16,630,697",
+        "https://www.coingecko.com/en/coins/xsgd"
+    ],
+    "Alpaca Finance ALPACA": [
+        "883",
+        "$0.2624",
+        "$4,775,810",
+        "https://www.coingecko.com/en/coins/alpaca-finance"
+    ],
+    "VoluMint VMINT": [
+        "884",
+        "$0.06434",
+        "$2,393,179",
+        "https://www.coingecko.com/en/coins/volumint"
+    ],
+    "AirDAO AMB": [
+        "885",
+        "$0.0136",
+        "$5,597,637",
+        "https://www.coingecko.com/en/coins/airdao"
+    ],
+    "Celo Dollar CUSD": [
+        "886",
+        "$1.00",
+        "$4,786,703",
+        "https://www.coingecko.com/en/coins/celo-dollar"
+    ],
+    "SLG.GAMES SLG": [
+        "887",
+        "$0.07943",
+        "$2,526,892",
+        "https://www.coingecko.com/en/coins/slg-games"
+    ],
+    "Euro Tether EURT": [
+        "888",
+        "$1.07",
+        "$2,346,603",
+        "https://www.coingecko.com/en/coins/euro-tether"
+    ],
+    "DeRace DERC": [
+        "889",
+        "$0.3237",
+        "$597,222",
+        "https://www.coingecko.com/en/coins/derace"
+    ],
+    "Blocksquare BST": [
+        "890",
+        "$0.811",
+        "$1,500,726",
+        "https://www.coingecko.com/en/coins/blocksquare"
+    ],
+    "Sperax SPA": [
+        "891",
+        "$0.02287",
+        "$30,001,552",
+        "https://www.coingecko.com/en/coins/sperax"
+    ],
+    "OctaSpace OCTA": [
+        "892",
+        "$1.35",
+        "$340,962",
+        "https://www.coingecko.com/en/coins/octaspace"
+    ],
+    "Aura Finance AURA": [
+        "893",
+        "$0.8348",
+        "$114,944",
+        "https://www.coingecko.com/en/coins/aura-finance"
+    ],
+    "Frax Price Index Share FPIS": [
+        "894",
+        "$1.40",
+        "$141,829",
+        "https://www.coingecko.com/en/coins/frax-price-index-share"
+    ],
+    "Kava Lend HARD": [
+        "895",
+        "$0.2863",
+        "$2,190,346",
+        "https://www.coingecko.com/en/coins/kava-lend"
+    ],
+    "PIXL PIXL": [
+        "896",
+        "$0.07716",
+        "$149,674",
+        "https://www.coingecko.com/en/coins/pixl"
+    ],
+    "Taraxa TARA": [
+        "897",
+        "$0.009902",
+        "$454,934",
+        "https://www.coingecko.com/en/coins/taraxa"
+    ],
+    "Thought THT": [
+        "898",
+        "$0.08906",
+        "$15,851.90",
+        "https://www.coingecko.com/en/coins/thought"
+    ],
+    "FC Barcelona Fan Token BAR": [
+        "899",
+        "$3.68",
+        "$2,586,061",
+        "https://www.coingecko.com/en/coins/fc-barcelona-fan-token"
+    ],
+    "Cosplay Token COT": [
+        "900",
+        "$0.04101",
+        "$251,650",
+        "https://www.coingecko.com/en/coins/cosplay-token"
+    ],
+    "Optimus AI OPTI": [
+        "901",
+        "$0.3841",
+        "$698,815",
+        "https://www.coingecko.com/en/coins/optimus-ai"
+    ],
+    "Whales Market WHALES": [
+        "902",
+        "$1.84",
+        "$4,380,888",
+        "https://www.coingecko.com/en/coins/whales-market"
+    ],
+    "Stader SD": [
+        "903",
+        "$1.02",
+        "$1,582,734",
+        "https://www.coingecko.com/en/coins/stader"
+    ],
+    "PIVX PIVX": [
+        "904",
+        "$0.4684",
+        "$4,638,316",
+        "https://www.coingecko.com/en/coins/pivx"
+    ],
+    "NFT Worlds WRLD": [
+        "905",
+        "$0.06796",
+        "$71,661.05",
+        "https://www.coingecko.com/en/coins/nft-worlds"
+    ],
+    "Vite VITE": [
+        "906",
+        "$0.03499",
+        "$2,953,789",
+        "https://www.coingecko.com/en/coins/vite"
+    ],
+    "Abelian ABEL": [
+        "907",
+        "$0.4282",
+        "$142,390",
+        "https://www.coingecko.com/en/coins/abelian"
+    ],
+    "Enzyme MLN": [
+        "908",
+        "$25.84",
+        "$10,472,990",
+        "https://www.coingecko.com/en/coins/enzyme"
+    ],
+    "Magpie MGP": [
+        "909",
+        "$0.1153",
+        "$168,077",
+        "https://www.coingecko.com/en/coins/magpie"
+    ],
+    "Instadapp INST": [
+        "910",
+        "$2.09",
+        "$39,249.23",
+        "https://www.coingecko.com/en/coins/instadapp"
+    ],
+    "Taki Games TAKI": [
+        "911",
+        "$0.0319",
+        "$161,696",
+        "https://www.coingecko.com/en/coins/taki"
+    ],
+    "GXChain GXC": [
+        "912",
+        "$0.4976",
+        "$7,809.01",
+        "https://www.coingecko.com/en/coins/gxchain"
+    ],
+    "Volt Inu VOLT": [
+        "913",
+        "$0.065991",
+        "$4,772,806",
+        "https://www.coingecko.com/en/coins/volt-inu"
+    ],
+    "Silly Dragon SILLY": [
+        "914",
+        "$0.03729",
+        "$7,985,215",
+        "https://www.coingecko.com/en/coins/silly-dragon"
+    ],
+    "Xend Finance RWA": [
+        "915",
+        "$0.329",
+        "$2,239,162",
+        "https://www.coingecko.com/en/coins/xend-finance"
+    ],
+    "Holdstation HOLD": [
+        "916",
+        "$7.16",
+        "$1,660,804",
+        "https://www.coingecko.com/en/coins/holdstation"
+    ],
+    "AirSwap AST": [
+        "917",
+        "$0.1815",
+        "$2,586,666",
+        "https://www.coingecko.com/en/coins/airswap"
+    ],
+    "MATH MATH": [
+        "918",
+        "$0.2115",
+        "$766,272",
+        "https://www.coingecko.com/en/coins/math"
+    ],
+    "FEG ETH FEG": [
+        "919",
+        "$0.000737",
+        "$377,836",
+        "https://www.coingecko.com/en/coins/feg-token"
+    ],
+    "Affyn FYN": [
+        "920",
+        "$0.1049",
+        "$952,928",
+        "https://www.coingecko.com/en/coins/affyn"
+    ],
+    "Index Cooperative INDEX": [
+        "921",
+        "$5.43",
+        "$279,077",
+        "https://www.coingecko.com/en/coins/index-cooperative"
+    ],
+    "Voyager VGX VGX": [
+        "922",
+        "$0.1247",
+        "$41,624,953",
+        "https://www.coingecko.com/en/coins/voyager-token"
+    ],
+    "Koinos KOIN": [
+        "923",
+        "$0.9595",
+        "$168,947",
+        "https://www.coingecko.com/en/coins/koinos"
+    ],
+    "Klever KLV": [
+        "924",
+        "$0.004004",
+        "$940,846",
+        "https://www.coingecko.com/en/coins/klever"
+    ],
+    "KRYLL KRL": [
+        "925",
+        "$0.9915",
+        "$9,088,671",
+        "https://www.coingecko.com/en/coins/kryll"
+    ],
+    "DexCheck DCK": [
+        "926",
+        "$0.09988",
+        "$1,446,724",
+        "https://www.coingecko.com/en/coins/dexcheck"
+    ],
+    "Honeyland HXD": [
+        "927",
+        "$0.1543",
+        "$90,448.70",
+        "https://www.coingecko.com/en/coins/honeyland"
+    ],
+    "Beefy BIFI": [
+        "928",
+        "$450.14",
+        "$4,728,720",
+        "https://www.coingecko.com/en/coins/beefy"
+    ],
+    "Harvest Finance FARM": [
+        "929",
+        "$53.70",
+        "$4,345,425",
+        "https://www.coingecko.com/en/coins/harvest-finance"
+    ],
+    "Hathor HTR": [
+        "930",
+        "$0.1428",
+        "$670,881",
+        "https://www.coingecko.com/en/coins/hathor"
+    ],
+    "dForce USD USX": [
+        "931",
+        "$1.14",
+        "$21,006.78",
+        "https://www.coingecko.com/en/coins/dforce-usd"
+    ],
+    "Advertise Coin ADCO": [
+        "932",
+        "$0.7935",
+        "$12,541.25",
+        "https://www.coingecko.com/en/coins/advertise-coin"
+    ],
+    "GameSwift GSWIFT": [
+        "933",
+        "$0.6362",
+        "$547,008",
+        "https://www.coingecko.com/en/coins/gameswift"
+    ],
+    "FIO Protocol FIO": [
+        "934",
+        "$0.04926",
+        "$4,738,627",
+        "https://www.coingecko.com/en/coins/fio-protocol"
+    ],
+    "Helium IOT IOT": [
+        "935",
+        "$0.001428",
+        "$38,847.58",
+        "https://www.coingecko.com/en/coins/helium-iot"
+    ],
+    "Troll TROLL": [
+        "936",
+        "$0.073677",
+        "$24,284,267",
+        "https://www.coingecko.com/en/coins/troll"
+    ],
+    "Openfabric AI OFN": [
+        "937",
+        "$0.5753",
+        "$1,352,850",
+        "https://www.coingecko.com/en/coins/openfabric"
+    ],
+    "Snowbank SB": [
+        "938",
+        "$220.80",
+        "$65.88",
+        "https://www.coingecko.com/en/coins/snowbank"
+    ],
+    "Tectonic TONIC": [
+        "939",
+        "$0.061406",
+        "$46,489.83",
+        "https://www.coingecko.com/en/coins/tectonic"
+    ],
+    "ISKRA Token ISK": [
+        "940",
+        "$0.252",
+        "$195,798",
+        "https://www.coingecko.com/en/coins/iskra-token"
+    ],
+    "XEN Crypto XEN": [
+        "941",
+        "$0.064455",
+        "$4,735,709",
+        "https://www.coingecko.com/en/coins/xen-crypto"
+    ],
+    "Dexalot ALOT": [
+        "942",
+        "$0.7301",
+        "$108,208",
+        "https://www.coingecko.com/en/coins/dexalot"
+    ],
+    "Andromeda ANDR": [
+        "943",
+        "$1.15",
+        "$650,289",
+        "https://www.coingecko.com/en/coins/andromeda-2"
+    ],
+    "Pepe 2.0 PEPE2.0": [
+        "944",
+        "$0.077428",
+        "$7,989,510",
+        "https://www.coingecko.com/en/coins/pepe-2-0"
+    ],
+    "Metacade MCADE": [
+        "945",
+        "$0.01976",
+        "$333,393",
+        "https://www.coingecko.com/en/coins/metacade"
+    ],
+    "UFO Gaming UFO": [
+        "946",
+        "$0.051345",
+        "$708,823",
+        "https://www.coingecko.com/en/coins/ufo-gaming"
+    ],
+    "ONBUFF ONIT": [
+        "947",
+        "$0.04495",
+        "$681,188",
+        "https://www.coingecko.com/en/coins/onbuff"
+    ],
+    "Neurai XNA": [
+        "948",
+        "$0.002888",
+        "$1,388,572",
+        "https://www.coingecko.com/en/coins/neurai"
+    ],
+    "DOVU DOVU": [
+        "949",
+        "$0.004156",
+        "$171,421",
+        "https://www.coingecko.com/en/coins/dovu"
+    ],
+    "TROY TROY": [
+        "950",
+        "$0.003418",
+        "$3,493,310",
+        "https://www.coingecko.com/en/coins/troy"
+    ],
+    "bozo Hybrid BOZO": [
+        "951",
+        "$0.04224",
+        "$166,822",
+        "https://www.coingecko.com/en/coins/bozo-hybrid"
+    ],
+    "NAVI Protocol NAVX": [
+        "952",
+        "$0.3458",
+        "$13,326,654",
+        "https://www.coingecko.com/en/coins/navi"
+    ],
+    "Stride Staked Osmo STOSMO": [
+        "953",
+        "$1.68",
+        "$61,214.85",
+        "https://www.coingecko.com/en/coins/stride-staked-osmo"
+    ],
+    "Solanium SLIM": [
+        "954",
+        "$0.3496",
+        "$630,504",
+        "https://www.coingecko.com/en/coins/solanium"
+    ],
+    "Carbon Browser CSIX": [
+        "955",
+        "$0.08609",
+        "$1,613,543",
+        "https://www.coingecko.com/en/coins/carbon-browser"
+    ],
+    "OmniCat OMNI": [
+        "956",
+        "$0.0008155",
+        "$3,345,757",
+        "https://www.coingecko.com/en/coins/omnicat"
+    ],
+    "PONKE PONKE": [
+        "957",
+        "$0.06786",
+        "$4,140,639",
+        "https://www.coingecko.com/en/coins/ponke"
+    ],
+    "Pirate Chain ARRR": [
+        "958",
+        "$0.1724",
+        "$63,437.14",
+        "https://www.coingecko.com/en/coins/pirate-chain"
+    ],
+    "DXdao DXD": [
+        "959",
+        "$1,438.38",
+        "$22,073.78",
+        "https://www.coingecko.com/en/coins/dxdao"
+    ],
+    "UXD Protocol UXP": [
+        "960",
+        "$0.00817",
+        "$10,934.19",
+        "https://www.coingecko.com/en/coins/uxd-protocol-token"
+    ],
+    "Silo Finance SILO": [
+        "961",
+        "$0.1097",
+        "$10,821.48",
+        "https://www.coingecko.com/en/coins/silo-finance"
+    ],
+    "AVAX HAS NO CHILL NOCHILL": [
+        "962",
+        "$0.02172",
+        "$919,842",
+        "https://www.coingecko.com/en/coins/avax-has-no-chill"
+    ],
+    "Nodle Network NODL": [
+        "963",
+        "$0.00938",
+        "$177,836",
+        "https://www.coingecko.com/en/coins/nodle-network"
+    ],
+    "Enjinstarter EJS": [
+        "964",
+        "$0.008555",
+        "$337,916",
+        "https://www.coingecko.com/en/coins/enjinstarter"
+    ],
+    "Extra Finance EXTRA": [
+        "965",
+        "$0.1766",
+        "$670,705",
+        "https://www.coingecko.com/en/coins/extra-finance"
+    ],
+    "Connext NEXT": [
+        "966",
+        "$0.3136",
+        "$2,663,112",
+        "https://www.coingecko.com/en/coins/connext"
+    ],
+    "mevETH MEVETH": [
+        "967",
+        "$3,666.57",
+        "$28,649.47",
+        "https://www.coingecko.com/en/coins/meveth"
+    ],
+    "Forgotten Playland FP": [
+        "968",
+        "$0.06078",
+        "$499,308",
+        "https://www.coingecko.com/en/coins/forgotten-playland"
+    ],
+    "TG.Casino TGC": [
+        "969",
+        "$0.4534",
+        "$297,362",
+        "https://www.coingecko.com/en/coins/tg-casino"
+    ],
+    "PUPS (Ordinals) PUPS": [
+        "970",
+        "$4.29",
+        "$391,783",
+        "https://www.coingecko.com/en/coins/pups-ordinals"
+    ],
+    "Crypto Asset Governance Alliance CAGA": [
+        "971",
+        "$0.0005666",
+        "$1,850,204",
+        "https://www.coingecko.com/en/coins/crypto-asset-governance-alliance"
+    ],
+    "Kenshi KNS": [
+        "972",
+        "$0.03857",
+        "$97,749.14",
+        "https://www.coingecko.com/en/coins/kenshi"
+    ],
+    "Firo FIRO": [
+        "974",
+        "$2.45",
+        "$24,559,213",
+        "https://www.coingecko.com/en/coins/firo"
+    ],
+    "TENET TENET": [
+        "973",
+        "$0.096",
+        "$1,109,093",
+        "https://www.coingecko.com/en/coins/tenet"
+    ],
+    "HELLO HELLO": [
+        "975",
+        "$0.06195",
+        "$2,934,752",
+        "https://www.coingecko.com/en/coins/hello"
+    ],
+    "Kimbo KIMBO": [
+        "976",
+        "$0.0004738",
+        "$2,898,997",
+        "https://www.coingecko.com/en/coins/kimbo"
+    ],
+    "Peng PENG": [
+        "977",
+        "$0.3245",
+        "$7,242,895",
+        "https://www.coingecko.com/en/coins/peng"
+    ],
+    "Octopus Network OCT": [
+        "978",
+        "$0.4138",
+        "$474,197",
+        "https://www.coingecko.com/en/coins/octopus-network"
+    ],
+    "Carbify CBY": [
+        "979",
+        "$3.30",
+        "$1,381,833",
+        "https://www.coingecko.com/en/coins/carbify"
+    ],
+    "Pluton PLU": [
+        "980",
+        "$6.22",
+        "$1,119,036",
+        "https://www.coingecko.com/en/coins/pluton"
+    ],
+    "Connex CONX": [
+        "981",
+        "$28.10",
+        "$172,451",
+        "https://www.coingecko.com/en/coins/connex"
+    ],
+    "RabbitX RBX": [
+        "982",
+        "$0.09152",
+        "$435,273",
+        "https://www.coingecko.com/en/coins/rabbitx"
+    ],
+    "Railgun RAIL": [
+        "983",
+        "$0.5612",
+        "$27,208.93",
+        "https://www.coingecko.com/en/coins/railgun"
+    ],
+    "PLAYA3ULL GAMES 3ULL": [
+        "984",
+        "$0.003419",
+        "$865,279",
+        "https://www.coingecko.com/en/coins/playa3ull-games"
+    ],
+    "HyperGPT HGPT": [
+        "985",
+        "$0.08997",
+        "$6,480,496",
+        "https://www.coingecko.com/en/coins/hypergpt"
+    ],
+    "AQTIS AQTIS": [
+        "986",
+        "$0.01603",
+        "$130,881",
+        "https://www.coingecko.com/en/coins/aqtis"
+    ],
+    "BLOCKv VEE": [
+        "987",
+        "$0.009651",
+        "$7,422.14",
+        "https://www.coingecko.com/en/coins/blockv"
+    ],
+    "LEOX LEOX": [
+        "988",
+        "$1.51",
+        "$667,312",
+        "https://www.coingecko.com/en/coins/leox"
+    ],
+    "Miracle Play MPT": [
+        "989",
+        "$0.08823",
+        "$332,652",
+        "https://www.coingecko.com/en/coins/miracle-play"
+    ],
+    "Step App FITFI": [
+        "990",
+        "$0.01257",
+        "$6,832,077",
+        "https://www.coingecko.com/en/coins/step-app"
+    ],
+    "DeFi DEFI": [
+        "991",
+        "$0.1921",
+        "$766,015",
+        "https://www.coingecko.com/en/coins/defi"
+    ],
+    "Brickken BKN": [
+        "992",
+        "$0.9628",
+        "$380,797",
+        "https://www.coingecko.com/en/coins/brickken"
+    ],
+    "nuco.cloud NCDT": [
+        "993",
+        "$0.946",
+        "$264,895",
+        "https://www.coingecko.com/en/coins/nuco-cloud"
+    ],
+    "Vector Reserve VEC": [
+        "994",
+        "$23.66",
+        "$246,045",
+        "https://www.coingecko.com/en/coins/vector-reserve"
+    ],
+    "SUKU SUKU": [
+        "995",
+        "$0.1433",
+        "$2,275,126",
+        "https://www.coingecko.com/en/coins/suku"
+    ],
+    "Port3 Network PORT3": [
+        "996",
+        "$0.2906",
+        "$12,353,451",
+        "https://www.coingecko.com/en/coins/port3-network"
+    ],
+    "PinkSale PINKSALE": [
+        "997",
+        "$310.47",
+        "$198.92",
+        "https://www.coingecko.com/en/coins/pinksale"
+    ],
+    "Inverse Finance INV": [
+        "998",
+        "$60.73",
+        "$320,757",
+        "https://www.coingecko.com/en/coins/inverse-finance"
+    ],
+    "DeFi Pulse Index DPI": [
+        "999",
+        "$151.60",
+        "$66,969.86",
+        "https://www.coingecko.com/en/coins/defi-pulse-index"
+    ],
+    "BitMEX BMEX": [
+        "1000",
+        "$0.3077",
+        "$54,833.76",
+        "https://www.coingecko.com/en/coins/bitmex-token"
+    ],
+    "WeWay WWY": [
+        "1001",
+        "$0.008727",
+        "$5,115,625",
+        "https://www.coingecko.com/en/coins/weway"
+    ],
+    "1ex 1EX": [
+        "1002",
+        "$0.2115",
+        "$420,300",
+        "https://www.coingecko.com/en/coins/1ex"
+    ],
+    "Bostrom BOOT": [
+        "1003",
+        "$0.075172",
+        "$9,011.21",
+        "https://www.coingecko.com/en/coins/bostrom"
+    ],
+    "Karate Combat KARATE": [
+        "1004",
+        "$0.003527",
+        "$466,422",
+        "https://www.coingecko.com/en/coins/karate-combat"
+    ],
+    "Shiba Predator QOM": [
+        "1005",
+        "$0.075077",
+        "$8,970.69",
+        "https://www.coingecko.com/en/coins/shiba-predator"
+    ],
+    "GT-Protocol GTAI": [
+        "1006",
+        "$3.55",
+        "$13,631,796",
+        "https://www.coingecko.com/en/coins/gt-protocol"
+    ],
+    "Symbiosis SIS": [
+        "1007",
+        "$0.4891",
+        "$4,783,105",
+        "https://www.coingecko.com/en/coins/symbiosis"
+    ],
+    "Lazio Fan Token LAZIO": [
+        "1008",
+        "$3.60",
+        "$3,318,476",
+        "https://www.coingecko.com/en/coins/lazio-fan-token"
+    ],
+    "bZx Protocol BZRX": [
+        "1009",
+        "$0.0341",
+        "$1,011.91",
+        "https://www.coingecko.com/en/coins/bzx-protocol"
+    ],
+    "xExchange MEX": [
+        "1010",
+        "$0.057167",
+        "$21,399.44",
+        "https://www.coingecko.com/en/coins/xexchange"
+    ],
+    "BurgerCities BURGER": [
+        "1011",
+        "$0.9013",
+        "$5,193,011",
+        "https://www.coingecko.com/en/coins/burgercities"
+    ],
+    "Decimal DEL": [
+        "1012",
+        "$0.003825",
+        "$38,804.63",
+        "https://www.coingecko.com/en/coins/decimal"
+    ],
+    "Gifto GFT": [
+        "1013",
+        "$0.02993",
+        "$8,204,307",
+        "https://www.coingecko.com/en/coins/gifto"
+    ],
+    "Dogechain DC": [
+        "1014",
+        "$0.001088",
+        "$3,310,088",
+        "https://www.coingecko.com/en/coins/dogechain"
+    ],
+    "Decentral Games DG": [
+        "1015",
+        "$0.03952",
+        "$2,528.72",
+        "https://www.coingecko.com/en/coins/decentral-games"
+    ],
+    "Nexa NEXA": [
+        "1016",
+        "$0.055908",
+        "$313,356",
+        "https://www.coingecko.com/en/coins/nexa"
+    ],
+    "Ice Network ICE": [
+        "1017",
+        "$0.004514",
+        "$3,479,714",
+        "https://www.coingecko.com/en/coins/ice-network"
+    ],
+    "SubQuery Network SQT": [
+        "1018",
+        "$0.03708",
+        "$1,265,650",
+        "https://www.coingecko.com/en/coins/subquery-network"
+    ],
+    "KlimaDAO KLIMA": [
+        "1019",
+        "$3.35",
+        "$932,004",
+        "https://www.coingecko.com/en/coins/klima-dao"
+    ],
+    "BiLira TRYB": [
+        "1020",
+        "$0.03062",
+        "$609.52",
+        "https://www.coingecko.com/en/coins/bilira"
+    ],
+    "HairDAO HAIR": [
+        "1021",
+        "$46.09",
+        "$96.03",
+        "https://www.coingecko.com/en/coins/hairdao"
+    ],
+    "Stader BNBx BNBX": [
+        "1022",
+        "$652.18",
+        "$193,183",
+        "https://www.coingecko.com/en/coins/stader-bnbx"
+    ],
+    "Colony CLY": [
+        "1023",
+        "$0.2847",
+        "$248,313",
+        "https://www.coingecko.com/en/coins/colony"
+    ],
+    "Counterparty XCP": [
+        "1024",
+        "$11.28",
+        "$32,802.87",
+        "https://www.coingecko.com/en/coins/counterparty"
+    ],
+    "Alpine F1 Team Fan Token ALPINE": [
+        "1025",
+        "$2.57",
+        "$2,523,615",
+        "https://www.coingecko.com/en/coins/alpine-f1-team-fan-token"
+    ],
+    "Wojak WOJAK": [
+        "1026",
+        "$0.0004187",
+        "$900,747",
+        "https://www.coingecko.com/en/coins/wojak"
+    ],
+    "MELD [OLD] MELD": [
+        "1027",
+        "$0.01957",
+        "$26,240.35",
+        "https://www.coingecko.com/en/coins/meld-old"
+    ],
+    "MixMarvel MIX": [
+        "1028",
+        "$0.004149",
+        "$1,150,696",
+        "https://www.coingecko.com/en/coins/mixmarvel"
+    ],
+    "JPEG'd (OLD) JPEG": [
+        "1029",
+        "$0.0004169",
+        "$52,196.18",
+        "https://www.coingecko.com/en/coins/jpeg-d-old"
+    ],
+    "KOMPETE KOMPETE": [
+        "1030",
+        "$0.04271",
+        "$68,063.34",
+        "https://www.coingecko.com/en/coins/kompete"
+    ],
+    "STFX STFX": [
+        "1031",
+        "$0.04745",
+        "$249,230",
+        "https://www.coingecko.com/en/coins/stfx"
+    ],
+    "Arcas ARCAS": [
+        "1032",
+        "$0.288",
+        "$94,302.44",
+        "https://www.coingecko.com/en/coins/arcas"
+    ],
+    "Kishu Inu KISHU": [
+        "1033",
+        "$0.096468",
+        "$2,766,070",
+        "https://www.coingecko.com/en/coins/kishu-inu"
+    ],
+    "Manchester City Fan Token CITY": [
+        "1034",
+        "$4.07",
+        "$2,726,042",
+        "https://www.coingecko.com/en/coins/manchester-city-fan-token"
+    ],
+    "Laine Stake LAINESOL": [
+        "1035",
+        "$218.90",
+        "$33.31",
+        "https://www.coingecko.com/en/coins/laine-stake"
+    ],
+    "Octokn OTK": [
+        "1036",
+        "$0.1003",
+        "$324,380",
+        "https://www.coingecko.com/en/coins/octokn"
+    ],
+    "LinqAI LNQ": [
+        "1037",
+        "$0.1894",
+        "$291,934",
+        "https://www.coingecko.com/en/coins/linqai"
+    ],
+    "Credefi CREDI": [
+        "1038",
+        "$0.0379",
+        "$961,643",
+        "https://www.coingecko.com/en/coins/credefi"
+    ],
+    "Newscrypto Coin NWC": [
+        "1039",
+        "$0.167",
+        "$138,310",
+        "https://www.coingecko.com/en/coins/newscrypto-coin"
+    ],
+    "Step Finance STEP": [
+        "1040",
+        "$0.07521",
+        "$39,562.72",
+        "https://www.coingecko.com/en/coins/step-finance"
+    ],
+    "Dragonchain DRGN": [
+        "1041",
+        "$0.07673",
+        "$75,257.57",
+        "https://www.coingecko.com/en/coins/dragonchain"
+    ],
+    "Pintu PTU": [
+        "1042",
+        "$0.3835",
+        "$8,136.24",
+        "https://www.coingecko.com/en/coins/pintu-token"
+    ],
+    "OG Fan Token OG": [
+        "1043",
+        "$5.91",
+        "$3,070,740",
+        "https://www.coingecko.com/en/coins/og-fan-token"
+    ],
+    "Magic Square SQR": [
+        "1044",
+        "$0.5681",
+        "$441,737",
+        "https://www.coingecko.com/en/coins/magic-square"
+    ],
+    "Catgirl CATGIRL": [
+        "1045",
+        "$0.097822",
+        "$2,747,676",
+        "https://www.coingecko.com/en/coins/catgirl"
+    ],
+    "Everest ID": [
+        "1046",
+        "$0.2387",
+        "$635,671",
+        "https://www.coingecko.com/en/coins/everest"
+    ],
+    "Libra Incentix LIXX": [
+        "1047",
+        "$0.004149",
+        "$523,307",
+        "https://www.coingecko.com/en/coins/libra-incentix"
+    ],
+    "Byte BYTE": [
+        "1048",
+        "$0.00002878",
+        "$1,091,363",
+        "https://www.coingecko.com/en/coins/byte"
+    ],
+    "HAVAH HVH": [
+        "1049",
+        "$0.02829",
+        "$74,379.50",
+        "https://www.coingecko.com/en/coins/havah"
+    ],
+    "Petals PTS": [
+        "1050",
+        "$0.001937",
+        "$16,008.67",
+        "https://www.coingecko.com/en/coins/petals"
+    ],
+    "Cronos ID CROID": [
+        "1051",
+        "$0.1833",
+        "$43,462.43",
+        "https://www.coingecko.com/en/coins/cronos-id"
+    ],
+    "LORDS LORDS": [
+        "1052",
+        "$0.2188",
+        "$343,463",
+        "https://www.coingecko.com/en/coins/lords"
+    ],
+    "BOB Token BOB": [
+        "1053",
+        "$0.00003943",
+        "$3,382,529",
+        "https://www.coingecko.com/en/coins/bob-token"
+    ],
+    "FLEX Coin FLEX": [
+        "1054",
+        "$0.2729",
+        "$3.12",
+        "https://www.coingecko.com/en/coins/flex-coin"
+    ],
+    "Bitrock BROCK": [
+        "1055",
+        "$0.2684",
+        "$610,901",
+        "https://www.coingecko.com/en/coins/bitrock"
+    ],
+    "Bad Idea AI BAD": [
+        "1056",
+        "$0.074821",
+        "$1,284,476",
+        "https://www.coingecko.com/en/coins/bad-idea-ai"
+    ],
+    "Houdini Swap LOCK": [
+        "1057",
+        "$0.8341",
+        "$479,042",
+        "https://www.coingecko.com/en/coins/houdini-swap"
+    ],
+    "Bitcoin Diamond BCD": [
+        "1058",
+        "$0.1409",
+        "$45,144.69",
+        "https://www.coingecko.com/en/coins/bitcoin-diamond"
+    ],
+    "Indigo Protocol INDY": [
+        "1059",
+        "$2.42",
+        "$77,949.52",
+        "https://www.coingecko.com/en/coins/indigo-protocol"
+    ],
+    "Ferrum Network FRM": [
+        "1060",
+        "$0.09954",
+        "$587,431",
+        "https://www.coingecko.com/en/coins/ferrum-network"
+    ],
+    "Cryptex Finance CTX": [
+        "1061",
+        "$4.56",
+        "$729,461",
+        "https://www.coingecko.com/en/coins/cryptex-finance"
+    ],
+    "Lingose LING": [
+        "1062",
+        "$0.004999",
+        "$447,524",
+        "https://www.coingecko.com/en/coins/lingose"
+    ],
+    "Hegic HEGIC": [
+        "1063",
+        "$0.02413",
+        "$162,226",
+        "https://www.coingecko.com/en/coins/hegic"
+    ],
+    "00 Token 00": [
+        "1065",
+        "$0.1115",
+        "$540,972",
+        "https://www.coingecko.com/en/coins/00-token"
+    ],
+    "PondCoin PNDC": [
+        "1064",
+        "$0.062802",
+        "$2,730,371",
+        "https://www.coingecko.com/en/coins/pondcoin"
+    ],
+    "Coinmetro XCM": [
+        "1066",
+        "$0.08616",
+        "$424.50",
+        "https://www.coingecko.com/en/coins/coinmetro"
+    ],
+    "JUNO JUNO": [
+        "1067",
+        "$0.3253",
+        "$75,580.74",
+        "https://www.coingecko.com/en/coins/juno-network"
+    ],
+    "Image Generation AI IMGNAI": [
+        "1068",
+        "$0.03324",
+        "$398,145",
+        "https://www.coingecko.com/en/coins/image-generation-ai"
+    ],
+    "Koi KOI": [
+        "1069",
+        "$0.05137",
+        "$1,406,693",
+        "https://www.coingecko.com/en/coins/koi-3"
+    ],
+    "Dmail Network DMAIL": [
+        "1070",
+        "$0.8341",
+        "$7,035,328",
+        "https://www.coingecko.com/en/coins/dmail-network"
+    ],
+    "cUNI CUNI": [
+        "1071",
+        "$0.2678",
+        "$0.00",
+        "https://www.coingecko.com/en/coins/compound-uniswap"
+    ],
+    "KIRA Network KEX": [
+        "1072",
+        "$0.1134",
+        "$271,231",
+        "https://www.coingecko.com/en/coins/kira-network"
+    ],
+    "Mute MUTE": [
+        "1073",
+        "$0.6377",
+        "$70,679.79",
+        "https://www.coingecko.com/en/coins/mute"
+    ],
+    "DeFi Kingdoms JEWEL": [
+        "1074",
+        "$0.2234",
+        "$10,741.50",
+        "https://www.coingecko.com/en/coins/defi-kingdoms"
+    ],
+    "BeethovenX sFTMX SFTMX": [
+        "1075",
+        "$1.10",
+        "$50,979.18",
+        "https://www.coingecko.com/en/coins/beethovenx-sftmx"
+    ],
+    "GameGPT DUEL": [
+        "1076",
+        "$0.02137",
+        "$8,587,020",
+        "https://www.coingecko.com/en/coins/gamegpt"
+    ],
+    "Any Inu AI": [
+        "1077",
+        "$0.00006044",
+        "$1,442,963",
+        "https://www.coingecko.com/en/coins/any-inu"
+    ],
+    "Mango MNGO": [
+        "1078",
+        "$0.01948",
+        "$303,362",
+        "https://www.coingecko.com/en/coins/mango"
+    ],
+    "Quantum Resistant Ledger QRL": [
+        "1079",
+        "$0.3238",
+        "$747,007",
+        "https://www.coingecko.com/en/coins/quantum-resistant-ledger"
+    ],
+    "KardiaChain KAI": [
+        "1080",
+        "$0.005271",
+        "$180,401",
+        "https://www.coingecko.com/en/coins/kardiachain"
+    ],
+    "Ovr OVR": [
+        "1081",
+        "$0.4917",
+        "$1,094,908",
+        "https://www.coingecko.com/en/coins/ovr"
+    ],
+    "Serum SRM": [
+        "1082",
+        "$0.06742",
+        "$1,347,752",
+        "https://www.coingecko.com/en/coins/serum"
+    ],
+    "Poolz Finance POOLX": [
+        "1083",
+        "$5.14",
+        "$1,072,809",
+        "https://www.coingecko.com/en/coins/poolz-finance"
+    ],
+    "Verified USD USDV": [
+        "1084",
+        "$0.9978",
+        "$3,480,302",
+        "https://www.coingecko.com/en/coins/verified-usd"
+    ],
+    "Ellipsis [OLD] EPS": [
+        "1085",
+        "$0.03595",
+        "$189.22",
+        "https://www.coingecko.com/en/coins/ellipsis-old"
+    ],
+    "TrustSwap SWAP": [
+        "1086",
+        "$0.2503",
+        "$398,767",
+        "https://www.coingecko.com/en/coins/trustswap"
+    ],
+    "Karura KAR": [
+        "1087",
+        "$0.2372",
+        "$187,032",
+        "https://www.coingecko.com/en/coins/karura"
+    ],
+    "Gui Inu GUI": [
+        "1088",
+        "$0.00006924",
+        "$1,180,931",
+        "https://www.coingecko.com/en/coins/gui-inu"
+    ],
+    "WigoSwap WIGO": [
+        "1089",
+        "$0.01489",
+        "$229,874",
+        "https://www.coingecko.com/en/coins/wigoswap"
+    ],
+    "r/CryptoCurrency Moons MOON": [
+        "1090",
+        "$0.3075",
+        "$132,853",
+        "https://www.coingecko.com/en/coins/moon"
+    ],
+    "Spookyswap BOO": [
+        "1091",
+        "$2.49",
+        "$284,634",
+        "https://www.coingecko.com/en/coins/spookyswap"
+    ],
+    "Guacamole GUAC": [
+        "1092",
+        "$0.062485",
+        "$550,085",
+        "https://www.coingecko.com/en/coins/guacamole"
+    ],
+    "Nest Protocol NEST": [
+        "1093",
+        "$0.004156",
+        "$16,644,982",
+        "https://www.coingecko.com/en/coins/nest-protocol"
+    ],
+    "Rejuve.AI RJV": [
+        "1094",
+        "$0.04619",
+        "$592,964",
+        "https://www.coingecko.com/en/coins/rejuve-ai"
+    ],
+    "LunarCrush LUNR": [
+        "1095",
+        "$0.163",
+        "$175,860",
+        "https://www.coingecko.com/en/coins/lunr-token"
+    ],
+    "Aegis Ai AEGIS": [
+        "1096",
+        "$0.2466",
+        "$440,033",
+        "https://www.coingecko.com/en/coins/aegis-ai"
+    ],
+    "TokenPocket Token TPT": [
+        "1097",
+        "$0.007037",
+        "$77,072.33",
+        "https://www.coingecko.com/en/coins/token-pocket"
+    ],
+    "TRVL TRVL": [
+        "1098",
+        "$0.08018",
+        "$211,491",
+        "https://www.coingecko.com/en/coins/trvl"
+    ],
+    "Taboo TABOO": [
+        "1099",
+        "$0.002461",
+        "$1,180,156",
+        "https://www.coingecko.com/en/coins/taboo-token"
+    ],
+    "chrono.tech TIME": [
+        "1100",
+        "$33.87",
+        "$681,786",
+        "https://www.coingecko.com/en/coins/chronotech"
+    ],
+    "Hemule HEMULE": [
+        "1101",
+        "$0.0245",
+        "$958,645",
+        "https://www.coingecko.com/en/coins/hemule"
+    ],
+    "Prisma mkUSD MKUSD": [
+        "1102",
+        "$0.998",
+        "$4,107,828",
+        "https://www.coingecko.com/en/coins/prisma-mkusd"
+    ],
+    "WINR Protocol WINR": [
+        "1103",
+        "$0.07171",
+        "$339,786",
+        "https://www.coingecko.com/en/coins/winr-protocol"
+    ],
+    "Wagmi WAGMI": [
+        "1104",
+        "$0.01616",
+        "$271,415",
+        "https://www.coingecko.com/en/coins/wagmi-2"
+    ],
+    "Phantasma SOUL": [
+        "1105",
+        "$0.1923",
+        "$220,558",
+        "https://www.coingecko.com/en/coins/phantasma"
+    ],
+    "Niko NKO": [
+        "1106",
+        "$0.05303",
+        "$223,215",
+        "https://www.coingecko.com/en/coins/niko"
+    ],
+    "zkSwap Finance ZF": [
+        "1108",
+        "$0.07426",
+        "$6,899,499",
+        "https://www.coingecko.com/en/coins/zkswap-finance"
+    ],
+    "ICHI ICHI": [
+        "1107",
+        "$2.87",
+        "$675,174",
+        "https://www.coingecko.com/en/coins/ichi"
+    ],
+    "Castello Coin CAST": [
+        "1109",
+        "$0.112",
+        "$103,493",
+        "https://www.coingecko.com/en/coins/castello-coin"
+    ],
+    "Radiant RXD": [
+        "1110",
+        "$0.002319",
+        "$143,659",
+        "https://www.coingecko.com/en/coins/radiant"
+    ],
+    "Domani Protocol DEXTF": [
+        "1111",
+        "$0.358",
+        "$140,076",
+        "https://www.coingecko.com/en/coins/dextf"
+    ],
+    "LeisureMeta LM": [
+        "1112",
+        "$0.01609",
+        "$9,969,560",
+        "https://www.coingecko.com/en/coins/leisuremeta"
+    ],
+    "Electra Protocol XEP": [
+        "1113",
+        "$0.001313",
+        "$196,350",
+        "https://www.coingecko.com/en/coins/electra-protocol"
+    ],
+    "MAI MIMATIC": [
+        "1114",
+        "$0.8513",
+        "$18,896.34",
+        "https://www.coingecko.com/en/coins/mai"
+    ],
+    "NvirWorld NVIR": [
+        "1115",
+        "$0.01916",
+        "$1,488,289",
+        "https://www.coingecko.com/en/coins/nvirworld"
+    ],
+    "ParagonsDAO PDT": [
+        "1116",
+        "$0.186",
+        "$5,853.50",
+        "https://www.coingecko.com/en/coins/paragonsdao"
+    ],
+    "Kleros PNK": [
+        "1117",
+        "$0.03189",
+        "$177,955",
+        "https://www.coingecko.com/en/coins/kleros"
+    ],
+    "UBXS UBXS": [
+        "1118",
+        "$0.4266",
+        "$2,109,076",
+        "https://www.coingecko.com/en/coins/ubxs-token"
+    ],
+    "Cream CREAM": [
+        "1119",
+        "$30.05",
+        "$3,037,800",
+        "https://www.coingecko.com/en/coins/cream"
+    ],
+    "SideShift XAI": [
+        "1120",
+        "$0.1735",
+        "$33,397.91",
+        "https://www.coingecko.com/en/coins/sideshift-token"
+    ],
+    "Data Lake LAKE": [
+        "1121",
+        "$0.02592",
+        "$389,059",
+        "https://www.coingecko.com/en/coins/data-lake"
+    ],
+    "Unibot UNIBOT": [
+        "1122",
+        "$22.92",
+        "$2,429,827",
+        "https://www.coingecko.com/en/coins/unibot"
+    ],
+    "Fulcrom FUL": [
+        "1123",
+        "$0.01295",
+        "$38,026.76",
+        "https://www.coingecko.com/en/coins/fulcrom"
+    ],
+    "Poollotto.finance PLT": [
+        "1124",
+        "$1.53",
+        "$132,845",
+        "https://www.coingecko.com/en/coins/poollotto-finance"
+    ],
+    "Polaris Share POLA": [
+        "1125",
+        "$0.05213",
+        "$1,553,381",
+        "https://www.coingecko.com/en/coins/polaris-share"
+    ],
+    "Harambe on Solana HARAMBE": [
+        "1126",
+        "$0.02284",
+        "$1,115,391",
+        "https://www.coingecko.com/en/coins/harambe-on-solana"
+    ],
+    "Electronic USD EUSD": [
+        "1127",
+        "$0.9994",
+        "$162,225",
+        "https://www.coingecko.com/en/coins/electronic-usd"
+    ],
+    "DFI.money YFII": [
+        "1128",
+        "$569.04",
+        "$3,627,920",
+        "https://www.coingecko.com/en/coins/dfi-money"
+    ],
+    "Spectra APW": [
+        "1129",
+        "$2.34",
+        "$54,754.20",
+        "https://www.coingecko.com/en/coins/spectra-2"
+    ],
+    "RMRK RMRK": [
+        "1130",
+        "$2.37",
+        "$357,316",
+        "https://www.coingecko.com/en/coins/rmrk"
+    ],
+    "Yield App YLD": [
+        "1134",
+        "$0.08451",
+        "$425,188",
+        "https://www.coingecko.com/en/coins/yield-app"
+    ],
+    "Defactor FACTR": [
+        "1131",
+        "$0.2013",
+        "$1,949,705",
+        "https://www.coingecko.com/en/coins/defactor"
+    ],
+    "Bazed Games BAZED": [
+        "1132",
+        "$0.2916",
+        "$275,548",
+        "https://www.coingecko.com/en/coins/bazed-games"
+    ],
+    "Source SOURCE": [
+        "1133",
+        "$0.0535",
+        "$17,443.02",
+        "https://www.coingecko.com/en/coins/source"
+    ],
+    "Platypus USD USP": [
+        "1135",
+        "$0.9681",
+        "$42,595.20",
+        "https://www.coingecko.com/en/coins/platypus-usd"
+    ],
+    "Bytom BTM": [
+        "1136",
+        "$0.01226",
+        "$435,795",
+        "https://www.coingecko.com/en/coins/bytom"
+    ],
+    "Jesus Coin JESUS": [
+        "1137",
+        "$0.061409",
+        "$1,139,940",
+        "https://www.coingecko.com/en/coins/jesus-coin"
+    ],
+    "QASH QASH": [
+        "1138",
+        "$0.02707",
+        "$14,514.33",
+        "https://www.coingecko.com/en/coins/qash"
+    ],
+    "Aquarius AQUA": [
+        "1139",
+        "$0.0009929",
+        "$157,235",
+        "https://www.coingecko.com/en/coins/aquarius"
+    ],
+    "Cakepie CKP": [
+        "1140",
+        "$11.51",
+        "$381,726",
+        "https://www.coingecko.com/en/coins/cakepie"
+    ],
+    "T-mac DAO TMG": [
+        "1141",
+        "$12.54",
+        "$3,799.93",
+        "https://www.coingecko.com/en/coins/t-mac-dao"
+    ],
+    "NumberGoUpTech TECH": [
+        "1142",
+        "$0.0003362",
+        "$1,175,215",
+        "https://www.coingecko.com/en/coins/tech"
+    ],
+    "Swash SWASH": [
+        "1143",
+        "$0.02275",
+        "$204,358",
+        "https://www.coingecko.com/en/coins/swash"
+    ],
+    "Nostra Staked STRK NSTSTRK": [
+        "1144",
+        "$2.29",
+        "$207.65",
+        "https://www.coingecko.com/en/coins/nostra-staked-strk"
+    ],
+    "SophiaVerse SOPH": [
+        "1145",
+        "$0.1084",
+        "$195,231",
+        "https://www.coingecko.com/en/coins/sophiaverse"
+    ],
+    "Bifrost Native Coin BNC": [
+        "1146",
+        "$0.563",
+        "$301,998",
+        "https://www.coingecko.com/en/coins/bifrost-native-coin"
+    ],
+    "PIP PIP": [
+        "1147",
+        "$0.1259",
+        "$104,766",
+        "https://www.coingecko.com/en/coins/pip"
+    ],
+    "VeraOne VRO": [
+        "1148",
+        "$71.66",
+        "$27,159.04",
+        "https://www.coingecko.com/en/coins/veraone"
+    ],
+    "Matrix AI Network MAN": [
+        "1149",
+        "$0.04946",
+        "$417,942",
+        "https://www.coingecko.com/en/coins/matrix-ai-network"
+    ],
+    "renBTC RENBTC": [
+        "1150",
+        "$70,285.05",
+        "$65,680.71",
+        "https://www.coingecko.com/en/coins/renbtc"
+    ],
+    "POOH POOH": [
+        "1151",
+        "$0.075062",
+        "$3,176,330",
+        "https://www.coingecko.com/en/coins/pooh"
+    ],
+    "Vita Inu VINU": [
+        "1152",
+        "$0.072367",
+        "$4,389,123",
+        "https://www.coingecko.com/en/coins/vita-inu"
+    ],
+    "Beoble BBL": [
+        "1153",
+        "$0.1671",
+        "$5,138,712",
+        "https://www.coingecko.com/en/coins/beoble"
+    ],
+    "AVINOC AVINOC": [
+        "1154",
+        "$0.1263",
+        "$66,490.12",
+        "https://www.coingecko.com/en/coins/avinoc"
+    ],
+    "Wall Street Memes WSM": [
+        "1155",
+        "$0.0112",
+        "$1,912,968",
+        "https://www.coingecko.com/en/coins/wall-street-memes"
+    ],
+    "ForTube FOR": [
+        "1156",
+        "$0.0373",
+        "$4,621,270",
+        "https://www.coingecko.com/en/coins/fortube"
+    ],
+    "Cult DAO CULT": [
+        "1157",
+        "$0.054888",
+        "$1,109,198",
+        "https://www.coingecko.com/en/coins/cult-dao"
+    ],
+    "Vector ETH VETH": [
+        "1158",
+        "$3,560.58",
+        "$409,547",
+        "https://www.coingecko.com/en/coins/vector-eth"
+    ],
+    "PowerPool Concentrated Voting Power CVP": [
+        "1159",
+        "$0.637",
+        "$4,448,528",
+        "https://www.coingecko.com/en/coins/powerpool-concentrated-voting-power"
+    ],
+    "Soil SOIL": [
+        "1160",
+        "$2.97",
+        "$878,960",
+        "https://www.coingecko.com/en/coins/soil"
+    ],
+    "AMO Coin AMO": [
+        "1161",
+        "$0.001073",
+        "$315,652",
+        "https://www.coingecko.com/en/coins/amo-coin"
+    ],
+    "Stobox STBU": [
+        "1162",
+        "$0.2127",
+        "$2,358,208",
+        "https://www.coingecko.com/en/coins/stobox"
+    ],
+    "Geodnet GEOD": [
+        "1163",
+        "$0.2215",
+        "$139,619",
+        "https://www.coingecko.com/en/coins/geodnet"
+    ],
+    "HbarSuite HSUITE": [
+        "1164",
+        "$0.001957",
+        "$89,669.74",
+        "https://www.coingecko.com/en/coins/hbarsuite"
+    ],
+    "Mazze MAZZE": [
+        "1165",
+        "$0.008086",
+        "$2,668,779",
+        "https://www.coingecko.com/en/coins/mazze"
+    ],
+    "VLaunch VPAD": [
+        "1166",
+        "$0.04967",
+        "$202,296",
+        "https://www.coingecko.com/en/coins/vlaunch"
+    ],
+    "Viberate VIB": [
+        "1167",
+        "$0.1106",
+        "$3,919,272",
+        "https://www.coingecko.com/en/coins/viberate"
+    ],
+    "Kasta KASTA": [
+        "1168",
+        "$0.04114",
+        "$436,447",
+        "https://www.coingecko.com/en/coins/kasta"
+    ],
+    "SpartaDEX SPARTA": [
+        "1169",
+        "$0.6211",
+        "$43,857.91",
+        "https://www.coingecko.com/en/coins/spartadex"
+    ],
+    "MOOxMOO MOOX": [
+        "1170",
+        "$0.1521",
+        "$97,366.74",
+        "https://www.coingecko.com/en/coins/mooxmoo"
+    ],
+    "Dego Finance DEGO": [
+        "1171",
+        "$3.70",
+        "$6,350,641",
+        "https://www.coingecko.com/en/coins/dego-finance"
+    ],
+    "Saros SAROS": [
+        "1172",
+        "$0.007634",
+        "$3,221,459",
+        "https://www.coingecko.com/en/coins/saros-finance"
+    ],
+    "Shiden Network SDN": [
+        "1173",
+        "$0.3075",
+        "$430,873",
+        "https://www.coingecko.com/en/coins/shiden-network"
+    ],
+    "Fuse FUSE": [
+        "1174",
+        "$0.07899",
+        "$1,427,361",
+        "https://www.coingecko.com/en/coins/fuse"
+    ],
+    "Moby MOBY": [
+        "1175",
+        "$1.10",
+        "$768,435",
+        "https://www.coingecko.com/en/coins/moby"
+    ],
+    "Fei USD FEI": [
+        "1176",
+        "$1.30",
+        "$28,189.17",
+        "https://www.coingecko.com/en/coins/fei-usd"
+    ],
+    "Artyfact ARTY": [
+        "1177",
+        "$1.51",
+        "$1,543,037",
+        "https://www.coingecko.com/en/coins/artyfact"
+    ],
+    "Seedify NFT Space SNFTS": [
+        "1178",
+        "$0.004222",
+        "$88,757.73",
+        "https://www.coingecko.com/en/coins/seedify-nft-space"
+    ],
+    "Rangers Protocol Gas RPG": [
+        "1179",
+        "$2.11",
+        "$176,654",
+        "https://www.coingecko.com/en/coins/rangers-protocol-gas"
+    ],
+    "Prometheum Prodigy PMPY": [
+        "1180",
+        "$0.03119",
+        "$1,417,216",
+        "https://www.coingecko.com/en/coins/prometheum-prodigy"
+    ],
+    "Tree TREE": [
+        "1181",
+        "$0.1867",
+        "$300,038",
+        "https://www.coingecko.com/en/coins/tree"
+    ],
+    "DeepFakeAI FAKEAI": [
+        "1182",
+        "$0.02042",
+        "$768,265",
+        "https://www.coingecko.com/en/coins/deepfakeai"
+    ],
+    "Domi DOMI": [
+        "1183",
+        "$0.05577",
+        "$543,314",
+        "https://www.coingecko.com/en/coins/domi"
+    ],
+    "RAI Finance SOFI": [
+        "1184",
+        "$0.03848",
+        "$3,179,960",
+        "https://www.coingecko.com/en/coins/rai-finance"
+    ],
+    "Hubble HBB": [
+        "1185",
+        "$0.2943",
+        "$748,962",
+        "https://www.coingecko.com/en/coins/hubble"
+    ],
+    "BFICoin BFIC": [
+        "1186",
+        "$10.27",
+        "$7,411,758",
+        "https://www.coingecko.com/en/coins/bficoin"
+    ],
+    "Muse DAO MUSE": [
+        "1187",
+        "$20.33",
+        "$846,103",
+        "https://www.coingecko.com/en/coins/muse-dao"
+    ],
+    "Banana BANANA": [
+        "1188",
+        "$3.17",
+        "$123,577",
+        "https://www.coingecko.com/en/coins/banana"
+    ],
+    "Landshare LAND": [
+        "1189",
+        "$5.00",
+        "$893,783",
+        "https://www.coingecko.com/en/coins/landshare"
+    ],
+    "EURA EURA": [
+        "1190",
+        "$1.07",
+        "$1,538,268",
+        "https://www.coingecko.com/en/coins/eura"
+    ],
+    "Ooki OOKI": [
+        "1191",
+        "$0.004294",
+        "$23,363,012",
+        "https://www.coingecko.com/en/coins/ooki"
+    ],
+    "UX Chain UX": [
+        "1192",
+        "$0.004329",
+        "$41,877.43",
+        "https://www.coingecko.com/en/coins/uxchain"
+    ],
+    "SOLVE SOLVE": [
+        "1193",
+        "$0.02719",
+        "$657,479",
+        "https://www.coingecko.com/en/coins/solve-care"
+    ],
+    "ANGLE ANGLE": [
+        "1194",
+        "$0.09457",
+        "$365,791",
+        "https://www.coingecko.com/en/coins/angle"
+    ],
+    "Kyber Network Crystal Legacy KNCL": [
+        "1195",
+        "$0.8874",
+        "$39,753.08",
+        "https://www.coingecko.com/en/coins/kyber-network-legacy"
+    ],
+    "Thales THALES": [
+        "1196",
+        "$0.3571",
+        "$88,096.68",
+        "https://www.coingecko.com/en/coins/thales"
+    ],
+    "BabyBonk BABYBONK": [
+        "1197",
+        "$0.0104529",
+        "$1,267,994",
+        "https://www.coingecko.com/en/coins/babybonk"
+    ],
+    "Blockchain Bets BCB": [
+        "1198",
+        "$0.0214",
+        "$98,454.24",
+        "https://www.coingecko.com/en/coins/blockchain-bets"
+    ],
+    "eUSD EUSD": [
+        "1199",
+        "$0.9421",
+        "$100,855",
+        "https://www.coingecko.com/en/coins/eusd-new"
+    ],
+    "Non-Playable Coin NPC": [
+        "1200",
+        "$0.002336",
+        "$189,384",
+        "https://www.coingecko.com/en/coins/non-playable-coin"
+    ]
+}
